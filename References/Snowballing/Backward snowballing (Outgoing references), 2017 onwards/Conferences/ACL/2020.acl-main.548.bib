@@ -1,0 +1,118 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% https://bibdesk.sourceforge.io/
+
+%% Created for Samuele Ceol at 2022-11-16 18:35:22 +0100 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+
+@article{Zhou:2016aa,
+	abstract = {A common approach to analyze a covariate-sample count matrix, an element of which represents how many times a covariate appears in a sample, is to factorize it under the Poisson likelihood. We show its limitation in capturing the tendency for a covariate present in a sample to both repeat itself and excite related ones. To address this limitation, we construct negative binomial factor analysis (NBFA) to factorize the matrix under the negative binomial likelihood, and relate it to a Dirichlet-multinomial distribution based mixed-membership model. To support countably infinite factors, we propose the hierarchical gamma-negative binomial process. By exploiting newly proved connections between discrete distributions, we construct two blocked and a collapsed Gibbs sampler that all adaptively truncate their number of factors, and demonstrate that the blocked Gibbs sampler developed under a compound Poisson representation converges fast and has low computational complexity. Example results show that NBFA has a distinct mechanism in adjusting its number of inferred factors according to the sample lengths, and provides clear advantages in parsimonious representation, predictive power, and computational complexity over previously proposed discrete latent variable models, which either completely ignore burstiness, or model only the burstiness of the covariates but not that of the factors.},
+	author = {Mingyuan Zhou},
+	date-added = {2022-11-16 18:35:14 +0100},
+	date-modified = {2022-11-16 18:35:14 +0100},
+	eprint = {1604.07464},
+	month = {04},
+	title = {Nonparametric Bayesian Negative Binomial Factor Analysis},
+	url = {https://arxiv.org/pdf/1604.07464.pdf},
+	year = {2016},
+	bdsk-url-1 = {https://arxiv.org/pdf/1604.07464.pdf},
+	bdsk-url-2 = {https://arxiv.org/abs/1604.07464}}
+
+@article{Srivastava:2017aa,
+	abstract = {Topic models are one of the most popular methods for learning representations of text, but a major challenge is that any change to the topic model requires mathematically deriving a new inference algorithm. A promising approach to address this problem is autoencoding variational Bayes (AEVB), but it has proven diffi- cult to apply to topic models in practice. We present what is to our knowledge the first effective AEVB based inference method for latent Dirichlet allocation (LDA), which we call Autoencoded Variational Inference For Topic Model (AVITM). This model tackles the problems caused for AEVB by the Dirichlet prior and by component collapsing. We find that AVITM matches traditional methods in accuracy with much better inference time. Indeed, because of the inference network, we find that it is unnecessary to pay the computational cost of running variational optimization on test data. Because AVITM is black box, it is readily applied to new topic models. As a dramatic illustration of this, we present a new topic model called ProdLDA, that replaces the mixture model in LDA with a product of experts. By changing only one line of code from LDA, we find that ProdLDA yields much more interpretable topics, even if LDA is trained via collapsed Gibbs sampling.},
+	author = {Akash Srivastava and Charles Sutton},
+	date-added = {2022-11-16 18:30:54 +0100},
+	date-modified = {2022-11-16 18:30:54 +0100},
+	eprint = {1703.01488},
+	month = {03},
+	title = {Autoencoding Variational Inference For Topic Models},
+	url = {https://arxiv.org/pdf/1703.01488.pdf},
+	year = {2017},
+	bdsk-url-1 = {https://arxiv.org/pdf/1703.01488.pdf},
+	bdsk-url-2 = {https://arxiv.org/abs/1703.01488}}
+
+@article{Zhao:2019aa,
+	abstract = {Many applications, such as text modelling, high-throughput sequencing, and recommender systems, require analysing sparse, high-dimensional, and overdispersed discrete (count-valued or binary) data. Although probabilistic matrix factorisation and linear/nonlinear latent factor models have enjoyed great success in modelling such data, many existing models may have inferior modelling performance due to the insufficient capability of modelling overdispersion in count-valued data and model misspecification in general. In this paper, we comprehensively study these issues and propose a variational autoencoder based framework that generates discrete data via negative-binomial distribution. We also examine the model's ability to capture properties, such as self- and cross-excitations in discrete data, which is critical for modelling overdispersion. We conduct extensive experiments on three important problems from discrete data analysis: text analysis, collaborative filtering, and multi-label learning. Compared with several state-of-the-art baselines, the proposed models achieve significantly better performance on the above problems.},
+	author = {He Zhao and Piyush Rai and Lan Du and Wray Buntine and Mingyuan Zhou},
+	date-added = {2022-11-16 18:26:10 +0100},
+	date-modified = {2022-11-16 18:26:10 +0100},
+	eprint = {1905.00616},
+	month = {05},
+	title = {Variational Autoencoders for Sparse and Overdispersed Discrete Data},
+	url = {https://arxiv.org/pdf/1905.00616.pdf},
+	year = {2019},
+	bdsk-url-1 = {https://arxiv.org/pdf/1905.00616.pdf},
+	bdsk-url-2 = {https://arxiv.org/abs/1905.00616}}
+
+@inproceedings{nan-etal-2019-topic,
+	abstract = {We propose a novel neural topic model in the Wasserstein autoencoders (WAE) framework. Unlike existing variational autoencoder based models, we directly enforce Dirichlet prior on the latent document-topic vectors. We exploit the structure of the latent space and apply a suitable kernel in minimizing the Maximum Mean Discrepancy (MMD) to perform distribution matching. We discover that MMD performs much better than the Generative Adversarial Network (GAN) in matching high dimensional Dirichlet distribution. We further discover that incorporating randomness in the encoder output during training leads to significantly more coherent topics. To measure the diversity of the produced topics, we propose a simple topic uniqueness metric. Together with the widely used coherence measure NPMI, we offer a more wholistic evaluation of topic quality. Experiments on several real datasets show that our model produces significantly better topics than existing topic models.},
+	address = {Florence, Italy},
+	author = {Nan, Feng and Ding, Ran and Nallapati, Ramesh and Xiang, Bing},
+	booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+	date-added = {2022-11-16 18:24:17 +0100},
+	date-modified = {2022-11-16 18:24:17 +0100},
+	doi = {10.18653/v1/P19-1640},
+	month = jul,
+	pages = {6345--6381},
+	publisher = {Association for Computational Linguistics},
+	title = {Topic Modeling with {W}asserstein Autoencoders},
+	url = {https://aclanthology.org/P19-1640},
+	year = {2019},
+	bdsk-url-1 = {https://aclanthology.org/P19-1640},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/P19-1640}}
+
+@inproceedings{pmlr-v54-naesseth17a,
+	abstract = {Variational inference using the reparameterization trick has enabled large-scale approximate Bayesian inference in complex probabilistic models, leveraging stochastic optimization to sidestep intractable expectations. The reparameterization trick is applicable when we can simulate a random variable by applying a differentiable deterministic function on an auxiliary random variable whose distribution is fixed. For many distributions of interest (such as the gamma or Dirichlet), simulation of random variables relies on acceptance-rejection sampling. The discontinuity introduced by the accept-reject step means that standard reparameterization tricks are not applicable. We propose a new method that lets us leverage reparameterization gradients even when variables are outputs of a acceptance-rejection sampling algorithm. Our approach enables reparameterization on a larger class of variational distributions. In several studies of real and synthetic data, we show that the variance of the estimator of the gradient is significantly lower than other state-of-the-art methods. This leads to faster convergence of stochastic gradient variational inference.},
+	author = {Naesseth, Christian and Ruiz, Francisco and Linderman, Scott and Blei, David},
+	booktitle = {Proceedings of the 20th International Conference on Artificial Intelligence and Statistics},
+	date-added = {2022-11-16 18:23:49 +0100},
+	date-modified = {2022-11-16 18:23:49 +0100},
+	editor = {Singh, Aarti and Zhu, Jerry},
+	month = {20--22 Apr},
+	pages = {489--498},
+	pdf = {http://proceedings.mlr.press/v54/naesseth17a/naesseth17a.pdf},
+	publisher = {PMLR},
+	series = {Proceedings of Machine Learning Research},
+	title = {{Reparameterization Gradients through Acceptance-Rejection Sampling Algorithms}},
+	url = {https://proceedings.mlr.press/v54/naesseth17a.html},
+	volume = {54},
+	year = {2017},
+	bdsk-url-1 = {https://proceedings.mlr.press/v54/naesseth17a.html}}
+
+@inproceedings{pmlr-v70-miao17a,
+	abstract = {Topic models have been widely explored as probabilistic generative models of documents. Traditional inference methods have sought closed-form derivations for updating the models, however as the expressiveness of these models grows, so does the difficulty of performing fast and accurate inference over their parameters. This paper presents alternative neural approaches to topic modelling by providing parameterisable distributions over topics which permit training by backpropagation in the framework of neural variational inference. In addition, with the help of a stick-breaking construction, we propose a recurrent network that is able to discover a notionally unbounded number of topics, analogous to Bayesian non-parametric topic models. Experimental results on the MXM Song Lyrics, 20NewsGroups and Reuters News datasets demonstrate the effectiveness and efficiency of these neural topic models.},
+	author = {Yishu Miao and Edward Grefenstette and Phil Blunsom},
+	booktitle = {Proceedings of the 34th International Conference on Machine Learning},
+	date-added = {2022-11-16 18:23:22 +0100},
+	date-modified = {2022-11-16 18:23:22 +0100},
+	editor = {Precup, Doina and Teh, Yee Whye},
+	month = {06--11 Aug},
+	pages = {2410--2419},
+	pdf = {http://proceedings.mlr.press/v70/miao17a/miao17a.pdf},
+	publisher = {PMLR},
+	series = {Proceedings of Machine Learning Research},
+	title = {Discovering Discrete Latent Topics with Neural Variational Inference},
+	url = {https://proceedings.mlr.press/v70/miao17a.html},
+	volume = {70},
+	year = {2017},
+	bdsk-url-1 = {https://proceedings.mlr.press/v70/miao17a.html}}
+
+@article{Gupta_2019,
+	author = {Pankaj Gupta and Yatin Chaudhary and Florian Buettner and Hinrich Sch{\"u}tze},
+	date-added = {2022-11-16 18:22:26 +0100},
+	date-modified = {2022-11-16 18:22:26 +0100},
+	doi = {10.1609/aaai.v33i01.33016505},
+	journal = {Proceedings of the {AAAI} Conference on Artificial Intelligence},
+	month = {jul},
+	number = {01},
+	pages = {6505--6512},
+	publisher = {Association for the Advancement of Artificial Intelligence ({AAAI})},
+	title = {Document Informed Neural Autoregressive Topic Models with Distributional Prior},
+	url = {https://doi.org/10.1609%2Faaai.v33i01.33016505},
+	volume = {33},
+	year = 2019,
+	bdsk-url-1 = {https://doi.org/10.1609%2Faaai.v33i01.33016505},
+	bdsk-url-2 = {https://doi.org/10.1609/aaai.v33i01.33016505}}
