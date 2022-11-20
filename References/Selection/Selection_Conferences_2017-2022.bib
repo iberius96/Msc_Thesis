@@ -1,0 +1,642 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% https://bibdesk.sourceforge.io/
+
+%% Created for Samuele Ceol at 2022-11-20 16:04:54 +0100 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+
+@inproceedings{10.1145/3397271.3401185,
+	abstract = {Topic modelling is a popular unsupervised method for identifying the underlying themes in document collections that has many applications in information retrieval. A topic is usually represented by a list of terms ranked by their probability but, since these can be difficult to interpret, various approaches have been developed to assign descriptive labels to topics. Previous work on the automatic assignment of labels to topics has relied on a two-stage approach: (1) candidate labels are retrieved from a large pool (e.g. Wikipedia article titles); and then (2) re-ranked based on their semantic similarity to the topic terms. However, these extractive approaches can only assign candidate labels from a restricted set that may not include any suitable ones. This paper proposes using a sequence-to-sequence neural-based approach to generate labels that does not suffer from this limitation. The model is trained over a new large synthetic dataset created using distant supervision. The method is evaluated by comparing the labels it generates to ones rated by humans.},
+	address = {New York, NY, USA},
+	author = {Alokaili, Areej and Aletras, Nikolaos and Stevenson, Mark},
+	booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+	date-added = {2022-11-20 15:57:38 +0100},
+	date-modified = {2022-11-20 15:57:38 +0100},
+	doi = {10.1145/3397271.3401185},
+	isbn = {9781450380164},
+	keywords = {topic representation, neural network, topic modeling},
+	location = {Virtual Event, China},
+	numpages = {4},
+	pages = {1965--1968},
+	publisher = {Association for Computing Machinery},
+	series = {SIGIR '20},
+	title = {Automatic Generation of Topic Labels},
+	url = {https://doi.org/10.1145/3397271.3401185},
+	year = {2020},
+	bdsk-url-1 = {https://doi.org/10.1145/3397271.3401185}}
+
+@inproceedings{10.1145/3397271.3401269,
+	abstract = {Manually extracting relevant aspects and opinions from large volumes of user-generated text is a time-consuming process. Summaries, on the other hand, help readers with limited time budgets to quickly consume the key ideas from the data. State-of-the-art approaches for multi-document summarization, however, do not consider user preferences while generating summaries. In this work, we argue the need and propose a solution for generating personalized aspect-based opinion summaries from large collections of online tourist reviews. We let our readers decide and control several attributes of the summary such as the length and specific aspects of interest among others. Specifically, we take an unsupervised approach to extract coherent aspects from tourist reviews posted onTripAdvisor. We then propose an Integer Linear Programming (ILP) based extractive technique to select an informative subset of opinions around the identified aspects while respecting the user-specified values for various control parameters. Finally, we evaluate and compare our summaries using crowdsourcing and ROUGE-based metrics and obtain competitive results.},
+	address = {New York, NY, USA},
+	author = {Mukherjee, Rajdeep and Peruri, Hari Chandana and Vishnu, Uppada and Goyal, Pawan and Bhattacharya, Sourangshu and Ganguly, Niloy},
+	booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+	date-added = {2022-11-20 15:57:38 +0100},
+	date-modified = {2022-11-20 15:57:38 +0100},
+	doi = {10.1145/3397271.3401269},
+	isbn = {9781450380164},
+	keywords = {personalization, controllable summarization, aspect-based opinion mining, tourism, unsupervised extractive opinion summarization},
+	location = {Virtual Event, China},
+	numpages = {4},
+	pages = {1825--1828},
+	publisher = {Association for Computing Machinery},
+	series = {SIGIR '20},
+	title = {Read What You Need: Controllable Aspect-Based Opinion Summarization of Tourist Reviews},
+	url = {https://doi.org/10.1145/3397271.3401269},
+	year = {2020},
+	bdsk-url-1 = {https://doi.org/10.1145/3397271.3401269}}
+
+@inproceedings{10.1145/3077136.3084138,
+	abstract = {Tweets summarization aims to find a group of representative tweets for a specific topic. In recent times, there have been several research efforts toward devising a variety of techniques to summarize tweets in Twitter. However, these techniques are either not personal (i.e., consider only tweets in the timeline of a specific user) or are too expensive to be realized on a mobile device. Given that 80% of active Twitter users access the site on mobile devices, in this demonstration we present a lightweight, personalized, on-demand, topic modeling-based tweets summarization engine called TOTEM, designed for such devices. Specifically, TOTEM summarizes most recent tweets on a user's timeline and enables her to visualize and navigate representative topics and associated tweets in a user-friendly tap-and-swipe manner.},
+	address = {New York, NY, USA},
+	author = {Chin, Jin Yao and Bhowmick, Sourav S. and Jatowt, Adam},
+	booktitle = {Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+	date-added = {2022-11-20 15:57:38 +0100},
+	date-modified = {2022-11-20 15:57:38 +0100},
+	doi = {10.1145/3077136.3084138},
+	isbn = {9781450350228},
+	keywords = {mobile device, tweets, personal, topic modeling, summarization},
+	location = {Shinjuku, Tokyo, Japan},
+	numpages = {4},
+	pages = {1305--1308},
+	publisher = {Association for Computing Machinery},
+	series = {SIGIR '17},
+	title = {TOTEM: Personal Tweets Summarization on Mobile Devices},
+	url = {https://doi.org/10.1145/3077136.3084138},
+	year = {2017},
+	bdsk-url-1 = {https://doi.org/10.1145/3077136.3084138}}
+
+@inproceedings{pergola-etal-2021-disentangled,
+	abstract = {The flexibility of the inference process in Variational Autoencoders (VAEs) has recently led to revising traditional probabilistic topic models giving rise to Neural Topic Models (NTM). Although these approaches have achieved significant results, surprisingly very little work has been done on how to disentangle the latent topics. Existing topic models when applied to reviews may extract topics associated with writers{'} subjective opinions mixed with those related to factual descriptions such as plot summaries in movie and book reviews. It is thus desirable to automatically separate opinion topics from plot/neutral ones enabling a better interpretability. In this paper, we propose a neural topic model combined with adversarial training to disentangle opinion topics from plot and neutral ones. We conduct an extensive experimental assessment introducing a new collection of movie and book reviews paired with their plots, namely MOBO dataset, showing an improved coherence and variety of topics, a consistent disentanglement rate, and sentiment classification performance superior to other supervised topic models.},
+	address = {Online},
+	author = {Pergola, Gabriele and Gui, Lin and He, Yulan},
+	booktitle = {Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+	date-added = {2022-11-20 15:57:25 +0100},
+	date-modified = {2022-11-20 15:57:25 +0100},
+	doi = {10.18653/v1/2021.naacl-main.228},
+	month = jun,
+	pages = {2870--2883},
+	publisher = {Association for Computational Linguistics},
+	title = {A Disentangled Adversarial Neural Topic Model for Separating Opinions from Plots in User Reviews},
+	url = {https://aclanthology.org/2021.naacl-main.228},
+	year = {2021},
+	bdsk-url-1 = {https://aclanthology.org/2021.naacl-main.228},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2021.naacl-main.228}}
+
+@inproceedings{doogan-buntine-2021-topic,
+	abstract = {When developing topic models, a critical question that should be asked is: How well will this model work in an applied setting? Because standard performance evaluation of topic interpretability uses automated measures modeled on human evaluation tests that are dissimilar to applied usage, these models{'} generalizability remains in question. In this paper, we probe the issue of validity in topic model evaluation and assess how informative coherence measures are for specialized collections used in an applied setting. Informed by the literature, we propose four understandings of interpretability. We evaluate these using a novel experimental framework reflective of varied applied settings, including human evaluations using open labeling, typical of applied research. These evaluations show that for some specialized collections, standard coherence measures may not inform the most appropriate topic model or the optimal number of topics, and current interpretability performance validation methods are challenged as a means to confirm model quality in the absence of ground truth data.},
+	address = {Online},
+	author = {Doogan, Caitlin and Buntine, Wray},
+	booktitle = {Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+	date-added = {2022-11-20 15:57:25 +0100},
+	date-modified = {2022-11-20 15:57:25 +0100},
+	doi = {10.18653/v1/2021.naacl-main.300},
+	month = jun,
+	pages = {3824--3848},
+	publisher = {Association for Computational Linguistics},
+	title = {Topic Model or Topic Twaddle? Re-evaluating Semantic Interpretability Measures},
+	url = {https://aclanthology.org/2021.naacl-main.300},
+	year = {2021},
+	bdsk-url-1 = {https://aclanthology.org/2021.naacl-main.300},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2021.naacl-main.300}}
+
+@inproceedings{10.1145/3534678.3542675,
+	abstract = {Electronic health records (EHRs) provide rich clinical information and the opportunities to extract epidemiological patterns to understand and predict patient disease risks with suitable machine learning methods such as topic models. However, existing topic models do not generate identifiable topics each predicting a unique phenotype. One promising direction is to use known phenotype concepts to guide topic inference. We present a seed-guided Bayesian topic model called MixEHR-Seed with 3 contributions: (1) for each phenotype, we infer a dual-form of topic distribution: a seed-topic distribution over a small set of key EHR codes and a regular topic distribution over the entire EHR vocabulary; (2) we model age-dependent disease progression as Markovian dynamic topic priors; (3) we infer seed-guided multi-modal topics over distinct EHR data types. For inference, we developed a variational inference algorithm. Using MixEHR-Seed, we inferred 1569 PheCode-guided phenotype topics from an EHR database in Quebec, Canada covering 1.3 million patients for up to 20-year follow-up with 122 million records for 8539 and 1126 unique diagnostic and drug codes, respectively. We observed (1) accurate phenotype prediction by the guided topics, (2) clinically relevant PheCode-guided disease topics, (3) meaningful age-dependent disease prevalence. Source code is available at GitHub: https://github.com/li-lab-mcgill/MixEHR-Seed.},
+	address = {New York, NY, USA},
+	author = {Song, Ziyang and Hu, Yuanyi and Verma, Aman and Buckeridge, David L. and Li, Yue},
+	booktitle = {Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+	date-added = {2022-11-20 15:57:09 +0100},
+	date-modified = {2022-11-20 15:57:09 +0100},
+	doi = {10.1145/3534678.3542675},
+	isbn = {9781450393850},
+	keywords = {variational autoencoder, predictive healthcare, topic modeling, electronic health records},
+	location = {Washington DC, USA},
+	numpages = {11},
+	pages = {4713--4723},
+	publisher = {Association for Computing Machinery},
+	series = {KDD '22},
+	title = {Automatic Phenotyping by a Seed-Guided Topic Model},
+	url = {https://doi.org/10.1145/3534678.3542675},
+	year = {2022},
+	bdsk-url-1 = {https://doi.org/10.1145/3534678.3542675}}
+
+@inproceedings{10.1145/3394486.3403244,
+	abstract = {Taxonomy is not only a fundamental form of knowledge representation, but also crucial to vast knowledge-rich applications, such as question answering and web search. Most existing taxonomy construction methods extract hypernym-hyponym entity pairs to organize a "universal" taxonomy. However, these generic taxonomies cannot satisfy user's specific interest in certain areas and relations. Moreover, the nature of instance taxonomy treats each node as a single word, which has low semantic coverage for people to fully understand. In this paper, we propose a method for seed-guided topical taxonomy construction, which takes a corpus and a seed taxonomy described by concept names as input, and constructs a more complete taxonomy based on user's interest, wherein each node is represented by a cluster of coherent terms. Our framework, CoRel, has two modules to fulfill this goal. A relation transferring module learns and transfers the user's interested relation along multiple paths to expand the seed taxonomy structure in width and depth. A concept learning module enriches the semantics of each concept node by jointly embedding the taxonomy and text. Comprehensive experiments conducted on real-world datasets show that CoRel generates high-quality topical taxonomies and outperforms all the baselines significantly.},
+	address = {New York, NY, USA},
+	author = {Huang, Jiaxin and Xie, Yiqing and Meng, Yu and Zhang, Yunyi and Han, Jiawei},
+	booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining},
+	date-added = {2022-11-20 15:57:09 +0100},
+	date-modified = {2022-11-20 15:57:09 +0100},
+	doi = {10.1145/3394486.3403244},
+	isbn = {9781450379984},
+	keywords = {semantic computing, relation extraction, taxonomy construction, topic discovery},
+	location = {Virtual Event, CA, USA},
+	numpages = {9},
+	pages = {1928--1936},
+	publisher = {Association for Computing Machinery},
+	series = {KDD '20},
+	title = {CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring},
+	url = {https://doi.org/10.1145/3394486.3403244},
+	year = {2020},
+	bdsk-url-1 = {https://doi.org/10.1145/3394486.3403244}}
+
+@inproceedings{10.1145/3394486.3403242,
+	abstract = {Mining a set of meaningful topics organized into a hierarchy is intuitively appealing since topic correlations are ubiquitous in massive text corpora. To account for potential hierarchical topic structures, hierarchical topic models generalize flat topic models by incorporating latent topic hierarchies into their generative modeling process. However, due to their purely unsupervised nature, the learned topic hierarchy often deviates from users' particular needs or interests. To guide the hierarchical topic discovery process with minimal user supervision, we propose a new task, Hierarchical Topic Mining, which takes a category tree described by category names only, and aims to mine a set of representative terms for each category from a text corpus to help a user comprehend his/her interested topics. We develop a novel joint tree and text embedding method along with a principled optimization procedure that allows simultaneous modeling of the category tree structure and the corpus generative process in the spherical space for effective category-representative term discovery. Our comprehensive experiments show that our model, named JoSH, mines a high-quality set of hierarchical topics with high efficiency and benefits weakly-supervised hierarchical text classification tasks.},
+	address = {New York, NY, USA},
+	author = {Meng, Yu and Zhang, Yunyi and Huang, Jiaxin and Zhang, Yu and Zhang, Chao and Han, Jiawei},
+	booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining},
+	date-added = {2022-11-20 15:57:09 +0100},
+	date-modified = {2022-11-20 15:57:09 +0100},
+	doi = {10.1145/3394486.3403242},
+	isbn = {9781450379984},
+	keywords = {topic hierarchy, tree embedding, text embedding, topic mining},
+	location = {Virtual Event, CA, USA},
+	numpages = {10},
+	pages = {1908--1917},
+	publisher = {Association for Computing Machinery},
+	series = {KDD '20},
+	title = {Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding},
+	url = {https://doi.org/10.1145/3394486.3403242},
+	year = {2020},
+	bdsk-url-1 = {https://doi.org/10.1145/3394486.3403242}}
+
+@inproceedings{10.1145/3219819.3220064,
+	abstract = {Taxonomy construction is not only a fundamental task for semantic analysis of text corpora, but also an important step for applications such as information filtering, recommendation, and Web search. Existing pattern-based methods extract hypernym-hyponym term pairs and then organize these pairs into a taxonomy. However, by considering each term as an independent concept node, they overlook the topical proximity and the semantic correlations among terms. In this paper, we propose a method for constructing topic taxonomies, wherein every node represents a conceptual topic and is defined as a cluster of semantically coherent concept terms. Our method, TaxoGen, uses term embeddings and hierarchical clustering to construct a topic taxonomy in a recursive fashion. To ensure the quality of the recursive process, it consists of: (1) an adaptive spherical clustering module for allocating terms to proper levels when splitting a coarse topic into fine-grained ones; (2) a local embedding module for learning term embeddings that maintain strong discriminative power at different levels of the taxonomy. Our experiments on two real datasets demonstrate the effectiveness of TaxoGen compared with baseline methods.},
+	address = {New York, NY, USA},
+	author = {Zhang, Chao and Tao, Fangbo and Chen, Xiusi and Shen, Jiaming and Jiang, Meng and Sadler, Brian and Vanni, Michelle and Han, Jiawei},
+	booktitle = {Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining},
+	date-added = {2022-11-20 15:57:09 +0100},
+	date-modified = {2022-11-20 15:57:09 +0100},
+	doi = {10.1145/3219819.3220064},
+	isbn = {9781450355520},
+	keywords = {taxonomy construction, text mining, word embedding},
+	location = {London, United Kingdom},
+	numpages = {9},
+	pages = {2701--2709},
+	publisher = {Association for Computing Machinery},
+	series = {KDD '18},
+	title = {TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering},
+	url = {https://doi.org/10.1145/3219819.3220064},
+	year = {2018},
+	bdsk-url-1 = {https://doi.org/10.1145/3219819.3220064}}
+
+@inproceedings{zhou-jurgens-2020-condolence,
+	abstract = {Offering condolence is a natural reaction to hearing someone{'}s distress. Individuals frequently express distress in social media, where some communities can provide support. However, not all condolence is equal{---}trite responses offer little actual support despite their good intentions. Here, we develop computational tools to create a massive dataset of 11.4M expressions of distress and 2.8M corresponding offerings of condolence in order to examine the dynamics of condolence online. Our study reveals widespread disparity in what types of distress receive supportive condolence rather than just engagement. Building on studies from social psychology, we analyze the language of condolence and develop a new dataset for quantifying the empathy in a condolence using appraisal theory. Finally, we demonstrate that the features of condolence individuals find most helpful online differ substantially in their features from those seen in interpersonal settings.},
+	address = {Online},
+	author = {Zhou, Naitian and Jurgens, David},
+	booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+	date-added = {2022-11-20 15:56:43 +0100},
+	date-modified = {2022-11-20 15:56:43 +0100},
+	doi = {10.18653/v1/2020.emnlp-main.45},
+	month = nov,
+	pages = {609--626},
+	publisher = {Association for Computational Linguistics},
+	title = {Condolence and Empathy in Online Communities},
+	url = {https://aclanthology.org/2020.emnlp-main.45},
+	year = {2020},
+	bdsk-url-1 = {https://aclanthology.org/2020.emnlp-main.45},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2020.emnlp-main.45}}
+
+@inproceedings{hu-etal-2020-neural,
+	abstract = {Advances on deep generative models have attracted significant research interest in neural topic modeling. The recently proposed Adversarial-neural Topic Model models topics with an adversarially trained generator network and employs Dirichlet prior to capture the semantic patterns in latent topics. It is effective in discovering coherent topics but unable to infer topic distributions for given documents or utilize available document labels. To overcome such limitations, we propose Topic Modeling with Cycle-consistent Adversarial Training (ToMCAT) and its supervised version sToMCAT. ToMCAT employs a generator network to interpret topics and an encoder network to infer document topics. Adversarial training and cycle-consistent constraints are used to encourage the generator and the encoder to produce realistic samples that coordinate with each other. sToMCAT extends ToMCAT by incorporating document labels into the topic modeling process to help discover more coherent topics. The effectiveness of the proposed models is evaluated on unsupervised/supervised topic modeling and text classification. The experimental results show that our models can produce both coherent and informative topics, outperforming a number of competitive baselines.},
+	address = {Online},
+	author = {Hu, Xuemeng and Wang, Rui and Zhou, Deyu and Xiong, Yuxuan},
+	booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+	date-added = {2022-11-20 15:56:43 +0100},
+	date-modified = {2022-11-20 15:56:43 +0100},
+	doi = {10.18653/v1/2020.emnlp-main.725},
+	month = nov,
+	pages = {9018--9030},
+	publisher = {Association for Computational Linguistics},
+	title = {Neural Topic Modeling with Cycle-Consistent Adversarial Training},
+	url = {https://aclanthology.org/2020.emnlp-main.725},
+	year = {2020},
+	bdsk-url-1 = {https://aclanthology.org/2020.emnlp-main.725},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2020.emnlp-main.725}}
+
+@inproceedings{wang-etal-2021-phrase,
+	abstract = {Phrase representations derived from BERT often do not exhibit complex phrasal compositionality, as the model relies instead on lexical similarity to determine semantic relatedness. In this paper, we propose a contrastive fine-tuning objective that enables BERT to produce more powerful phrase embeddings. Our approach (Phrase-BERT) relies on a dataset of diverse phrasal paraphrases, which is automatically generated using a paraphrase generation model, as well as a large-scale dataset of phrases in context mined from the Books3 corpus. Phrase-BERT outperforms baselines across a variety of phrase-level similarity tasks, while also demonstrating increased lexical diversity between nearest neighbors in the vector space. Finally, as a case study, we show that Phrase-BERT embeddings can be easily integrated with a simple autoencoder to build a phrase-based neural topic model that interprets topics as mixtures of words and phrases by performing a nearest neighbor search in the embedding space. Crowdsourced evaluations demonstrate that this phrase-based topic model produces more coherent and meaningful topics than baseline word and phrase-level topic models, further validating the utility of Phrase-BERT.},
+	address = {Online and Punta Cana, Dominican Republic},
+	author = {Wang, Shufan and Thompson, Laure and Iyyer, Mohit},
+	booktitle = {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+	date-added = {2022-11-20 15:56:43 +0100},
+	date-modified = {2022-11-20 15:56:43 +0100},
+	doi = {10.18653/v1/2021.emnlp-main.846},
+	month = nov,
+	pages = {10837--10851},
+	publisher = {Association for Computational Linguistics},
+	title = {Phrase-{BERT}: Improved Phrase Embeddings from {BERT} with an Application to Corpus Exploration},
+	url = {https://aclanthology.org/2021.emnlp-main.846},
+	year = {2021},
+	bdsk-url-1 = {https://aclanthology.org/2021.emnlp-main.846},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2021.emnlp-main.846}}
+
+@inproceedings{mekala-etal-2017-scdv,
+	abstract = {We present a feature vector formation technique for documents - Sparse Composite Document Vector (SCDV) - which overcomes several shortcomings of the current distributional paragraph vector representations that are widely used for text representation. In SCDV, word embeddings are clustered to capture multiple semantic contexts in which words occur. They are then chained together to form document topic-vectors that can express complex, multi-topic documents. Through extensive experiments on multi-class and multi-label classification tasks, we outperform the previous state-of-the-art method, NTSG. We also show that SCDV embeddings perform well on heterogeneous tasks like Topic Coherence, context-sensitive Learning and Information Retrieval. Moreover, we achieve a significant reduction in training and prediction times compared to other representation methods. SCDV achieves best of both worlds - better performance with lower time and space complexity.},
+	address = {Copenhagen, Denmark},
+	author = {Mekala, Dheeraj and Gupta, Vivek and Paranjape, Bhargavi and Karnick, Harish},
+	booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+	date-added = {2022-11-20 15:56:43 +0100},
+	date-modified = {2022-11-20 15:56:43 +0100},
+	doi = {10.18653/v1/D17-1069},
+	month = sep,
+	pages = {659--669},
+	publisher = {Association for Computational Linguistics},
+	title = {{SCDV} : Sparse Composite Document Vectors using soft clustering over distributional representations},
+	url = {https://aclanthology.org/D17-1069},
+	year = {2017},
+	bdsk-url-1 = {https://aclanthology.org/D17-1069},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/D17-1069}}
+
+@incollection{Ferner_2020,
+	author = {Cornelia Ferner and Stefan Wegenkittl},
+	booktitle = {Machine Learning and Knowledge Discovery in Databases},
+	date-added = {2022-11-20 15:56:08 +0100},
+	date-modified = {2022-11-20 15:56:08 +0100},
+	doi = {10.1007/978-3-030-46147-8_42},
+	pages = {697--710},
+	publisher = {Springer International Publishing},
+	title = {A Semi-discriminative Approach for Sub-sentence Level Topic Classification on a Small Dataset},
+	url = {https://doi.org/10.1007%2F978-3-030-46147-8_42},
+	year = 2020,
+	bdsk-url-1 = {https://doi.org/10.1007%2F978-3-030-46147-8_42},
+	bdsk-url-2 = {https://doi.org/10.1007/978-3-030-46147-8_42}}
+
+@incollection{Barbieri_2017,
+	author = {Nicola Barbieri and Giuseppe Manco and Ettore Ritacco},
+	booktitle = {Machine Learning and Knowledge Discovery in Databases},
+	date-added = {2022-11-20 15:56:08 +0100},
+	date-modified = {2022-11-20 15:56:08 +0100},
+	doi = {10.1007/978-3-319-71249-9_41},
+	pages = {684--700},
+	publisher = {Springer International Publishing},
+	title = {Survival Factorization on Diffusion Networks},
+	url = {https://doi.org/10.1007%2F978-3-319-71249-9_41},
+	year = 2017,
+	bdsk-url-1 = {https://doi.org/10.1007%2F978-3-319-71249-9_41},
+	bdsk-url-2 = {https://doi.org/10.1007/978-3-319-71249-9_41}}
+
+@incollection{Aletras_2017,
+	author = {Nikolaos Aletras and Arpit Mittal},
+	booktitle = {Lecture Notes in Computer Science},
+	date-added = {2022-11-20 15:55:55 +0100},
+	date-modified = {2022-11-20 15:55:55 +0100},
+	doi = {10.1007/978-3-319-56608-5_40},
+	pages = {500--505},
+	publisher = {Springer International Publishing},
+	title = {Labeling Topics with Images Using a Neural Network},
+	url = {https://doi.org/10.1007%2F978-3-319-56608-5_40},
+	year = 2017,
+	bdsk-url-1 = {https://doi.org/10.1007%2F978-3-319-56608-5_40},
+	bdsk-url-2 = {https://doi.org/10.1007/978-3-319-56608-5_40}}
+
+@incollection{Zosa_2022,
+	author = {Elaine Zosa and Lidia Pivovarova and Michele Boggia and Sardana Ivanova},
+	booktitle = {Lecture Notes in Computer Science},
+	date-added = {2022-11-20 15:55:55 +0100},
+	date-modified = {2022-11-20 15:55:55 +0100},
+	doi = {10.1007/978-3-030-99739-7_29},
+	pages = {248--256},
+	publisher = {Springer International Publishing},
+	title = {Multilingual Topic Labelling of News Topics Using Ontological Mapping},
+	url = {https://doi.org/10.1007%2F978-3-030-99739-7_29},
+	year = 2022,
+	bdsk-url-1 = {https://doi.org/10.1007%2F978-3-030-99739-7_29},
+	bdsk-url-2 = {https://doi.org/10.1007/978-3-030-99739-7_29}}
+
+@inproceedings{zhao-etal-2021-adversarial,
+	abstract = {In this paper, we propose the Brand-Topic Model (BTM) which aims to detect brand-associated polarity-bearing topics from product reviews. Different from existing models for sentiment-topic extraction which assume topics are grouped under discrete sentiment categories such as {`}positive{'}, {`}negative{'} and {`}neural{'}, BTM is able to automatically infer real-valued brand-associated sentiment scores and generate fine-grained sentiment-topics in which we can observe continuous changes of words under a certain topic (e.g., {`}shaver{'} or {`}cream{'}) while its associated sentiment gradually varies from negative to positive. BTM is built on the Poisson factorisation model with the incorporation of adversarial learning. It has been evaluated on a dataset constructed from Amazon reviews. Experimental results show that BTM outperforms a number of competitive baselines in brand ranking, achieving a better balance of topic coherence and unique-ness, and extracting better-separated polarity-bearing topics.},
+	address = {Online},
+	author = {Zhao, Runcong and Gui, Lin and Pergola, Gabriele and He, Yulan},
+	booktitle = {Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume},
+	date-added = {2022-11-20 15:55:00 +0100},
+	date-modified = {2022-11-20 15:55:00 +0100},
+	doi = {10.18653/v1/2021.eacl-main.199},
+	month = apr,
+	pages = {2341--2351},
+	publisher = {Association for Computational Linguistics},
+	title = {Adversarial Learning of {P}oisson Factorisation Model for Gauging Brand Sentiment in User Reviews},
+	url = {https://aclanthology.org/2021.eacl-main.199},
+	year = {2021},
+	bdsk-url-1 = {https://aclanthology.org/2021.eacl-main.199},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2021.eacl-main.199}}
+
+@inproceedings{popa-rebedea-2021-bart,
+	abstract = {We propose a novel solution for assigning labels to topic models by using multiple weak labelers. The method leverages generative transformers to learn accurate representations of the most important topic terms and candidate labels. This is achieved by fine-tuning pre-trained BART models on a large number of potential labels generated by state of the art non-neural models for topic labeling, enriched with different techniques. The proposed BART-TL model is able to generate valuable and novel labels in a weakly-supervised manner and can be improved by adding other weak labelers or distant supervision on similar tasks.},
+	address = {Online},
+	author = {Popa, Cristian and Rebedea, Traian},
+	booktitle = {Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume},
+	date-added = {2022-11-20 15:55:00 +0100},
+	date-modified = {2022-11-20 15:55:00 +0100},
+	doi = {10.18653/v1/2021.eacl-main.121},
+	month = apr,
+	pages = {1418--1425},
+	publisher = {Association for Computational Linguistics},
+	title = {{BART}-{TL}: Weakly-Supervised Topic Label Generation},
+	url = {https://aclanthology.org/2021.eacl-main.121},
+	year = {2021},
+	bdsk-url-1 = {https://aclanthology.org/2021.eacl-main.121},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2021.eacl-main.121}}
+
+@inproceedings{sorodoc-etal-2017-multimodal,
+	abstract = {Topics generated by topic models are typically presented as a list of topic terms. Automatic topic labelling is the task of generating a succinct label that summarises the theme or subject of a topic, with the intention of reducing the cognitive load of end-users when interpreting these topics. Traditionally, topic label systems focus on a single label modality, e.g. textual labels. In this work we propose a multimodal approach to topic labelling using a simple feedforward neural network. Given a topic and a candidate image or textual label, our method automatically generates a rating for the label, relative to the topic. Experiments show that this multimodal approach outperforms single-modality topic labelling systems.},
+	address = {Valencia, Spain},
+	author = {Sorodoc, Ionut and Lau, Jey Han and Aletras, Nikolaos and Baldwin, Timothy},
+	booktitle = {Proceedings of the 15th Conference of the {E}uropean Chapter of the Association for Computational Linguistics: Volume 2, Short Papers},
+	date-added = {2022-11-20 15:55:00 +0100},
+	date-modified = {2022-11-20 15:55:00 +0100},
+	month = apr,
+	pages = {701--706},
+	publisher = {Association for Computational Linguistics},
+	title = {Multimodal Topic Labelling},
+	url = {https://aclanthology.org/E17-2111},
+	year = {2017},
+	bdsk-url-1 = {https://aclanthology.org/E17-2111}}
+
+@inproceedings{austin-etal-2022-community,
+	abstract = {We present our novel, hyperparameter-free topic modelling algorithm, Community Topic. Our algorithm is based on mining communities from term co-occurrence networks. We empirically evaluate and compare Community Topic with Latent Dirichlet Allocation and the recently developed top2vec algorithm. We find that Community Topic runs faster than the competitors and produces topics that achieve higher coherence scores. Community Topic can discover coherent topics at various scales. The network representation used by Community Topic results in a natural relationship between topics and a topic hierarchy. This allows sub- and super-topics to be found on demand. These features make Community Topic the ideal tool for downstream applications such as applied research and conversational agents.},
+	address = {Gyeongju, Republic of Korea},
+	author = {Austin, Eric and Za{\"\i}ane, Osmar R. and Largeron, Christine},
+	booktitle = {Proceedings of the 29th International Conference on Computational Linguistics},
+	date-added = {2022-11-20 15:54:40 +0100},
+	date-modified = {2022-11-20 15:54:40 +0100},
+	month = oct,
+	pages = {971--983},
+	publisher = {International Committee on Computational Linguistics},
+	title = {Community Topic: Topic Model Inference by Consecutive Word Community Discovery},
+	url = {https://aclanthology.org/2022.coling-1.81},
+	year = {2022},
+	bdsk-url-1 = {https://aclanthology.org/2022.coling-1.81}}
+
+@inproceedings{yin-etal-2022-improving,
+	abstract = {Driven by recent advances in neural networks, various Deep Embedding Clustering (DEC) based short text clustering models are being developed. In these works, latent representation learning and text clustering are performed simultaneously. Although these methods are becoming increasingly popular, they use pure cluster-oriented objectives, which can produce meaningless representations. To alleviate this problem, several improvements have been developed to introduce additional learning objectives in the clustering process, such as models based on contrastive learning. However, existing efforts rely heavily on learning meaningful representations at the instance level. They have limited focus on learning global representations, which are necessary to capture the overall data structure at the cluster level. In this paper, we propose a novel DEC model, which we named the deep embedded clustering model with cluster-level representation learning (DECCRL) to jointly learn cluster and instance level representations. Here, we extend the embedded topic modelling approach to introduce reconstruction constraints to help learn cluster-level representations. Experimental results on real-world short text datasets demonstrate that our model produces meaningful clusters.},
+	address = {Gyeongju, Republic of Korea},
+	author = {Yin, Qing and Wang, Zhihua and Song, Yunya and Xu, Yida and Niu, Shuai and Bai, Liang and Guo, Yike and Yang, Xian},
+	booktitle = {Proceedings of the 29th International Conference on Computational Linguistics},
+	date-added = {2022-11-20 15:54:40 +0100},
+	date-modified = {2022-11-20 15:54:40 +0100},
+	month = oct,
+	pages = {2226--2236},
+	publisher = {International Committee on Computational Linguistics},
+	title = {Improving Deep Embedded Clustering via Learning Cluster-level Representations},
+	url = {https://aclanthology.org/2022.coling-1.195},
+	year = {2022},
+	bdsk-url-1 = {https://aclanthology.org/2022.coling-1.195}}
+
+@inproceedings{nouri-etal-2020-mining,
+	abstract = {Crowdsourcing is used in academia and industry to solve tasks that are easy for humans but hard for computers, in natural language processing mostly to annotate data. The quality of annotations is affected by problems in the task design, task operation, and task evaluation that workers face with requesters in crowdsourcing processes. To learn about the major problems, we provide a short but comprehensive survey based on two complementary studies: (1) a literature review where we collect and organize problems known from interviews with workers, and (2) an empirical data analysis where we use topic modeling to mine workers{'} complaints from a new English corpus of workers{'} forum discussions. While literature covers all process phases, problems in the task evaluation are prevalent, including unfair rejections, late payments, and unjustified blockings of workers. According to the data, however, poor task design in terms of malfunctioning environments, bad workload estimation, and privacy violations seems to bother the workers most. Our findings form the basis for future research on how to improve crowdsourcing processes.},
+	address = {Barcelona, Spain (Online)},
+	author = {Nouri, Zahra and Wachsmuth, Henning and Engels, Gregor},
+	booktitle = {Proceedings of the 28th International Conference on Computational Linguistics},
+	date-added = {2022-11-20 15:54:40 +0100},
+	date-modified = {2022-11-20 15:54:40 +0100},
+	doi = {10.18653/v1/2020.coling-main.551},
+	month = dec,
+	pages = {6264--6276},
+	publisher = {International Committee on Computational Linguistics},
+	title = {Mining Crowdsourcing Problems from Discussion Forums of Workers},
+	url = {https://aclanthology.org/2020.coling-main.551},
+	year = {2020},
+	bdsk-url-1 = {https://aclanthology.org/2020.coling-main.551},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2020.coling-main.551}}
+
+@inproceedings{an-etal-2018-model,
+	abstract = {Word composition is a promising technique for representation learning of large linguistic units (e.g., phrases, sentences and documents). However, most of the current composition models do not take the ambiguity of words and the context outside of a linguistic unit into consideration for learning representations, and consequently suffer from the inaccurate representation of semantics. To address this issue, we propose a model-free context-aware word composition model, which employs the latent semantic information as global context for learning representations. The proposed model attempts to resolve the word sense disambiguation and word composition in a unified framework. Extensive evaluation shows consistent improvements over various strong word representation/composition models at different granularities (including word, phrase and sentence), demonstrating the effectiveness of our proposed method.},
+	address = {Santa Fe, New Mexico, USA},
+	author = {An, Bo and Han, Xianpei and Sun, Le},
+	booktitle = {Proceedings of the 27th International Conference on Computational Linguistics},
+	date-added = {2022-11-20 15:54:40 +0100},
+	date-modified = {2022-11-20 15:54:40 +0100},
+	month = aug,
+	pages = {2834--2845},
+	publisher = {Association for Computational Linguistics},
+	title = {Model-Free Context-Aware Word Composition},
+	url = {https://aclanthology.org/C18-1240},
+	year = {2018},
+	bdsk-url-1 = {https://aclanthology.org/C18-1240}}
+
+@inproceedings{10.1145/3357384.3358048,
+	abstract = {Identifying the topic (domain) of each user's utterance in open-domain conversational systems is a crucial step for all subsequent language understanding and response tasks. In particular, for complex domains, an utterance is often routed to a single component responsible for that domain. Thus, correctly mapping a user utterance to the right domain is critical. This is a challenging task: users could mention entities like actors, singers or locations to implicitly indicate the domain, which requires extensive domain knowledge to interpret. To address this problem, we introduce ConCET: a Concurrent Entity-aware conversational Topic classifier, which incorporates entity type information together with the utterance content features. Specifically, ConCET utilizes entity information to enrich the utterance representation, combining character, word, and entity type embeddings into a single representation. However, for rich domains with millions of available entities, unrealistic amounts of labeled training data would be required. To complement our model, we propose a simple and effective method for generating synthetic training data, to augment the typically limited amounts of labeled training data, using commonly available knowledge bases as to generate additional labeled utterances. We extensively evaluate ConCET and our proposed training method first on an openly available human-human conversational dataset called Self-Dialogue, to calibrate our approach against previous state-of-the-art methods; second, we evaluate ConCET on a large dataset of human-machine conversations with real users, collected as part of the Amazon Alexa Prize. Our results show that ConCET significantly improves topic classification performance on both datasets, reaching 8-10% improvements compared to state-of-the-art deep learning methods. We complement our quantitative results with detailed analysis of system performance, which could be used for further improvements of conversational agents.},
+	address = {New York, NY, USA},
+	author = {Ahmadvand, Ali and Sahijwani, Harshita and Choi, Jason Ingyu and Agichtein, Eugene},
+	booktitle = {Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+	date-added = {2022-11-20 15:54:19 +0100},
+	date-modified = {2022-11-20 15:54:19 +0100},
+	doi = {10.1145/3357384.3358048},
+	isbn = {9781450369763},
+	keywords = {conversational topic classification, entity-aware conversation domain classification, open-domain conversational agents},
+	location = {Beijing, China},
+	numpages = {10},
+	pages = {1371--1380},
+	publisher = {Association for Computing Machinery},
+	series = {CIKM '19},
+	title = {ConCET: Entity-Aware Topic Classification for Open-Domain Conversational Agents},
+	url = {https://doi.org/10.1145/3357384.3358048},
+	year = {2019},
+	bdsk-url-1 = {https://doi.org/10.1145/3357384.3358048}}
+
+@inproceedings{10.1145/3511808.3557410,
+	abstract = {Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional. In contrast, this paper provides evidence that human assessments about the quality of topic labels consist of multiple latent dimensions. This evidence comes from human assessments of four simple labeling techniques. For each label, study participants responded to several items asking them to assess each label according to a variety of different criteria. Exploratory factor analysis shows that these human assessments of labeling quality have a two-factor latent structure. Subsequent analysis demonstrates that this multi-item, two-factor assessment can reveal nuances that would be missed using either a single-item human assessment of perceived label quality or established performance metrics. The paper concludes by suggesting future directions for the development of human-centered approaches to evaluating NLP and ML systems more broadly.},
+	address = {New York, NY, USA},
+	author = {Hosseiny Marani, Amin and Levine, Joshua and Baumer, Eric P.S.},
+	booktitle = {Proceedings of the 31st ACM International Conference on Information &amp; Knowledge Management},
+	date-added = {2022-11-20 15:54:19 +0100},
+	date-modified = {2022-11-20 15:54:19 +0100},
+	doi = {10.1145/3511808.3557410},
+	isbn = {9781450392365},
+	keywords = {topic labeling, topic modeling, human assessment, performance metrics, exploratory factor analysis},
+	location = {Atlanta, GA, USA},
+	numpages = {12},
+	pages = {768--779},
+	publisher = {Association for Computing Machinery},
+	series = {CIKM '22},
+	title = {One Rating to Rule Them All? Evidence of Multidimensionality in Human Assessment of Topic Labeling Quality},
+	url = {https://doi.org/10.1145/3511808.3557410},
+	year = {2022},
+	bdsk-url-1 = {https://doi.org/10.1145/3511808.3557410}}
+
+@inproceedings{he-etal-2017-unsupervised,
+	abstract = {Aspect extraction is an important and challenging task in aspect-based sentiment analysis. Existing works tend to apply variants of topic models on this task. While fairly successful, these methods usually do not produce highly coherent aspects. In this paper, we present a novel neural approach with the aim of discovering coherent aspects. The model improves coherence by exploiting the distribution of word co-occurrences through the use of neural word embeddings. Unlike topic models which typically assume independently generated words, word embedding models encourage words that appear in similar contexts to be located close to each other in the embedding space. In addition, we use an attention mechanism to de-emphasize irrelevant words during training, further improving the coherence of aspects. Experimental results on real-life datasets demonstrate that our approach discovers more meaningful and coherent aspects, and substantially outperforms baseline methods on several evaluation tasks.},
+	address = {Vancouver, Canada},
+	author = {He, Ruidan and Lee, Wee Sun and Ng, Hwee Tou and Dahlmeier, Daniel},
+	booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+	date-added = {2022-11-20 15:54:06 +0100},
+	date-modified = {2022-11-20 15:54:06 +0100},
+	doi = {10.18653/v1/P17-1036},
+	month = jul,
+	pages = {388--397},
+	publisher = {Association for Computational Linguistics},
+	title = {An Unsupervised Neural Attention Model for Aspect Extraction},
+	url = {https://aclanthology.org/P17-1036},
+	year = {2017},
+	bdsk-url-1 = {https://aclanthology.org/P17-1036},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/P17-1036}}
+
+@inproceedings{wu-etal-2020-neural,
+	abstract = {Mixed counting models that use the negative binomial distribution as the prior can well model over-dispersed and hierarchically dependent random variables; thus they have attracted much attention in mining dispersed document topics. However, the existing parameter inference method like Monte Carlo sampling is quite time-consuming. In this paper, we propose two efficient neural mixed counting models, i.e., the Negative Binomial-Neural Topic Model (NB-NTM) and the Gamma Negative Binomial-Neural Topic Model (GNB-NTM) for dispersed topic discovery. Neural variational inference algorithms are developed to infer model parameters by using the reparameterization of Gamma distribution and the Gaussian approximation of Poisson distribution. Experiments on real-world datasets indicate that our models outperform state-of-the-art baseline models in terms of perplexity and topic coherence. The results also validate that both NB-NTM and GNB-NTM can produce explainable intermediate variables by generating dispersed proportions of document topics.},
+	address = {Online},
+	author = {Wu, Jiemin and Rao, Yanghui and Zhang, Zusheng and Xie, Haoran and Li, Qing and Wang, Fu Lee and Chen, Ziye},
+	booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+	date-added = {2022-11-20 15:54:06 +0100},
+	date-modified = {2022-11-20 15:54:06 +0100},
+	doi = {10.18653/v1/2020.acl-main.548},
+	month = jul,
+	pages = {6159--6169},
+	publisher = {Association for Computational Linguistics},
+	title = {Neural Mixed Counting Models for Dispersed Topic Discovery},
+	url = {https://aclanthology.org/2020.acl-main.548},
+	year = {2020},
+	bdsk-url-1 = {https://aclanthology.org/2020.acl-main.548},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2020.acl-main.548}}
+
+@inproceedings{card-etal-2018-neural,
+	abstract = {Most real-world document collections involve various types of metadata, such as author, source, and date, and yet the most commonly-used approaches to modeling text corpora ignore this information. While specialized models have been developed for particular applications, few are widely used in practice, as customization typically requires derivation of a custom inference algorithm. In this paper, we build on recent advances in variational inference methods and propose a general neural framework, based on topic models, to enable flexible incorporation of metadata and allow for rapid exploration of alternative models. Our approach achieves strong performance, with a manageable tradeoff between perplexity, coherence, and sparsity. Finally, we demonstrate the potential of our framework through an exploration of a corpus of articles about US immigration.},
+	address = {Melbourne, Australia},
+	author = {Card, Dallas and Tan, Chenhao and Smith, Noah A.},
+	booktitle = {Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+	date-added = {2022-11-20 15:54:06 +0100},
+	date-modified = {2022-11-20 15:54:06 +0100},
+	doi = {10.18653/v1/P18-1189},
+	month = jul,
+	pages = {2031--2040},
+	publisher = {Association for Computational Linguistics},
+	title = {Neural Models for Documents with Metadata},
+	url = {https://aclanthology.org/P18-1189},
+	year = {2018},
+	bdsk-url-1 = {https://aclanthology.org/P18-1189},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/P18-1189}}
+
+@inproceedings{huang-2018-phrasectm,
+	abstract = {Recent emerged phrase-level topic models are able to provide topics of phrases, which are easy to read for humans. But these models are lack of the ability to capture the correlation structure among the discovered numerous topics. We propose a novel topic model PhraseCTM and a two-stage method to find out the correlated topics at phrase level. In the first stage, we train PhraseCTM, which models the generation of words and phrases simultaneously by linking the phrases and component words within Markov Random Fields when they are semantically coherent. In the second stage, we generate the correlation of topics from PhraseCTM. We evaluate our method by a quantitative experiment and a human study, showing the correlated topic modeling on phrases is a good and practical way to interpret the underlying themes of a corpus.},
+	address = {Melbourne, Australia},
+	author = {Huang, Weijing},
+	booktitle = {Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
+	date-added = {2022-11-20 15:54:06 +0100},
+	date-modified = {2022-11-20 15:54:06 +0100},
+	doi = {10.18653/v1/P18-2083},
+	month = jul,
+	pages = {521--526},
+	publisher = {Association for Computational Linguistics},
+	title = {{P}hrase{CTM}: Correlated Topic Modeling on Phrases within {M}arkov Random Fields},
+	url = {https://aclanthology.org/P18-2083},
+	year = {2018},
+	bdsk-url-1 = {https://aclanthology.org/P18-2083},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/P18-2083}}
+
+@inproceedings{maiti-vucetic-2019-spatial,
+	abstract = {Spatial aggregation refers to merging of documents created at the same spatial location. We show that by spatial aggregation of a large collection of documents and applying a traditional topic discovery algorithm on the aggregated data we can efficiently discover spatially distinct topics. By looking at topic discovery through matrix factorization lenses we show that spatial aggregation allows low rank approximation of the original document-word matrix, in which spatially distinct topics are preserved and non-spatial topics are aggregated into a single topic. Our experiments on synthetic data confirm this observation. Our experiments on 4.7 million tweets collected during the Sandy Hurricane in 2012 show that spatial and temporal aggregation allows rapid discovery of relevant spatial and temporal topics during that period. Our work indicates that different forms of document aggregation might be effective in rapid discovery of various types of distinct topics from large collections of documents.},
+	address = {Florence, Italy},
+	author = {Maiti, Aniruddha and Vucetic, Slobodan},
+	booktitle = {Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics},
+	date-added = {2022-11-20 15:54:06 +0100},
+	date-modified = {2022-11-20 15:54:06 +0100},
+	doi = {10.18653/v1/P19-1025},
+	month = jul,
+	pages = {252--262},
+	publisher = {Association for Computational Linguistics},
+	title = {Spatial Aggregation Facilitates Discovery of Spatial Topics},
+	url = {https://aclanthology.org/P19-1025},
+	year = {2019},
+	bdsk-url-1 = {https://aclanthology.org/P19-1025},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/P19-1025}}
+
+@inproceedings{lau-etal-2017-topically,
+	abstract = {Language models are typically applied at the sentence level, without access to the broader document context. We present a neural language model that incorporates document context in the form of a topic model-like architecture, thus providing a succinct representation of the broader document context outside of the current sentence. Experiments over a range of datasets demonstrate that our model outperforms a pure sentence-based model in terms of language model perplexity, and leads to topics that are potentially more coherent than those produced by a standard LDA topic model. Our model also has the ability to generate related sentences for a topic, providing another way to interpret topics.},
+	address = {Vancouver, Canada},
+	author = {Lau, Jey Han and Baldwin, Timothy and Cohn, Trevor},
+	booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+	date-added = {2022-11-20 15:54:06 +0100},
+	date-modified = {2022-11-20 15:54:06 +0100},
+	doi = {10.18653/v1/P17-1033},
+	month = jul,
+	pages = {355--365},
+	publisher = {Association for Computational Linguistics},
+	title = {Topically Driven Neural Language Model},
+	url = {https://aclanthology.org/P17-1033},
+	year = {2017},
+	bdsk-url-1 = {https://aclanthology.org/P17-1033},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/P17-1033}}
+
+@inproceedings{Broscheit_2022,
+	author = {Samuel Broscheit and Quynh Do and Judith Gaspers},
+	booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+	date-added = {2022-10-23 22:46:41 +0200},
+	date-modified = {2022-10-23 22:46:41 +0200},
+	doi = {10.18653/v1/2022.acl-long.139},
+	publisher = {Association for Computational Linguistics},
+	title = {Distributionally Robust Finetuning {BERT} for Covariate Drift in Spoken Language Understanding},
+	url = {https://doi.org/10.18653%2Fv1%2F2022.acl-long.139},
+	year = 2022,
+	bdsk-url-1 = {https://doi.org/10.18653%2Fv1%2F2022.acl-long.139},
+	bdsk-url-2 = {https://doi.org/10.18653/v1/2022.acl-long.139}}
+
+@comment{BibDesk Static Groups{
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>group name</key>
+		<string>ACL</string>
+		<key>keys</key>
+		<string>he-etal-2017-unsupervised,wu-etal-2020-neural,card-etal-2018-neural,huang-2018-phrasectm,maiti-vucetic-2019-spatial,lau-etal-2017-topically</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>CIKM</string>
+		<key>keys</key>
+		<string>10.1145/3357384.3358048,10.1145/3511808.3557410</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>COLING</string>
+		<key>keys</key>
+		<string>austin-etal-2022-community,yin-etal-2022-improving,nouri-etal-2020-mining,an-etal-2018-model</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>EACL</string>
+		<key>keys</key>
+		<string>zhao-etal-2021-adversarial,popa-rebedea-2021-bart,sorodoc-etal-2017-multimodal</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>ECIR</string>
+		<key>keys</key>
+		<string>Aletras_2017,Zosa_2022</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>ECML PKDD</string>
+		<key>keys</key>
+		<string>Ferner_2020,Barbieri_2017</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>EMNLP</string>
+		<key>keys</key>
+		<string>zhou-jurgens-2020-condolence,hu-etal-2020-neural,wang-etal-2021-phrase,mekala-etal-2017-scdv</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>KDD</string>
+		<key>keys</key>
+		<string>10.1145/3534678.3542675,10.1145/3394486.3403244,10.1145/3394486.3403242,10.1145/3219819.3220064</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>NAACL</string>
+		<key>keys</key>
+		<string>pergola-etal-2021-disentangled,doogan-buntine-2021-topic</string>
+	</dict>
+	<dict>
+		<key>group name</key>
+		<string>SIGIR</string>
+		<key>keys</key>
+		<string>10.1145/3397271.3401185,10.1145/3397271.3401269,10.1145/3077136.3084138</string>
+	</dict>
+</array>
+</plist>
+}}
