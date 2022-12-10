@@ -1,0 +1,68 @@
+10.18653/v1/D19-1176
+10.1016/j.jesp.2019.103869
+HuggingFace's Transformers: State-of-the-art Natural Language Processing
+RoBERTa: A Robustly Optimized BERT Pretraining Approach
+10.1037/xge0000595
+10.18653/v1/N19-1423
+10.18653/v1/d18-1507
+10.1080/10503307.2016.1204023
+10.1177/2056305118763366
+10.18653/v1/D18-1004
+Identifying Empathetic Messages in Online Health Communities
+10.18653/v1/D17-1244
+10.1609/icwsm.v11i1.14942
+10.1609/icwsm.v11i1.14891
+10.1126/science.aaj2014
+10.1080/08838151.2016.1273926
+Social and linguistic behavior and its correlation to trait empathy
+10.18653/v1/W16-6205
+10.1007/978-3-319-75487-1_14
+10.1177/1754073914558466
+10.1037/emo0000144
+10.18653/v1/P16-1030
+10.3115/v1/P15-2072
+10.3115/v1/W15-1102
+10.1177/1094670515583271
+10.1037/a0039252
+10.1145/2630067
+10.3115/v1/W14-2704
+10.1609/icwsm.v8i1.14526
+10.1609/icwsm.v8i1.14550
+10.1111/jpc.12478
+The Relationship between Social Media and Empathy
+Identifying Emotional and Informational Support in Online Health Communities
+10.1111/j.1467-8640.2012.00460.x
+10.1057/9781137351692_11
+Baselines and Bigrams: Simple, Good Sentiment and Topic Classification
+Who's Swearing Now? The Social Aspects of Conversational Swearing
+10.1609/icwsm.v6i1.14256
+Affect, alignment and investment in the analysis of stancetaking
+10.1080/10510974.2011.598208
+10.1145/1958824.1958843
+10.5555/1953048.2078195
+10.1037/a0018807
+Understanding the difficulty of training deep feedforward neural networks
+10.1037/12061-000
+10.1007/S11199-009-9623-7
+10.1177/0265407509105519
+10.1145/1460563.1460608
+10.1080/07481180802006711
+10.1177/0265407507075411
+Linguistic Inquiry and Word Count (LIWC2007)
+10.1162/jocn.2007.19.1.42
+10.4324/9781410607133-22
+10.1037/10436-013
+10.1177/074873000129001350
+10.1007/BF02436773
+10.2466/pr0.1998.83.2.627
+10.1177/019394599401600202
+10.1177/0265407594111003
+shouldn’t, I’m sorry you feel Table 11: Phrases and regular expressions used to detect minimizing language, adapted from examples in Lehman et al
+10.1016/0738-3991(92)90154-B
+10.1111/J.1467-6494.1987.TB00426.X
+10.1037/0022-006X.54.4.438
+10.1080/07481188408251378
+10.1001/ARCHPSYC.1984.01790120076010
+10.1177/000306518303100104
+The holiday syndrome.
+The holiday syndrome.

@@ -1,0 +1,24 @@
+10.1145/3097983.3098074
+10.18653/v1/P16-2062
+10.3115/v1/P14-1110
+10.3115/v1/E14-1056
+Lexical and Hierarchical Topic Regression
+Binary to Bushy: Bayesian Hierarchical Clustering with the Beta Coalescent
+Distributed Representations of Words and Phrases and their Compositionality
+Improving Topic Coherence with Regularized Topic Models
+Reading Tea Leaves: How Humans Interpret Topic Models
+10.1145/1553374.1553378
+An Efficient Sequential Monte Carlo Algorithm for Coalescent Clustering
+10.1145/1341531.1341560
+Supervised Topic Models
+Bayesian Agglomerative Clustering with Coalescents
+A Topic Model for Word Sense Disambiguation
+10.1214/07-AOAS114
+10.1016/B978-0-12-411519-4.00006-9
+10.3115/1073083.1073135
+10.17877/DE290R-14262
+Komplexitätsreduktion in Multivariaten Datenstrukturen
+10.3115/981863.981887
+10.1016/b978-1-55860-377-6.50048-7
+Accurate Methods for the Statistics of Surprise and Coincidence
+10.1016/0031-3203(79)90049-9

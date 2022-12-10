@@ -1,0 +1,107 @@
+Is Automated Topic Model Evaluation Broken?: The Incoherence of Coherence
+10.1145/3449168
+Supporting Serendipity: Opportunities and Challenges for Human-AI Collaboration in Qualitative Analysis
+10.1080/07370024.2020.1734460
+10.1177/0049124117729703
+10.1177/2378023120967171
+10.1145/3311957.3359435
+10.1080/13639080.2019.1679728
+10.1109/ICSE-SEIS.2019.00009
+10.1109/ICCV.2019.00541
+How Computers See Gender: An Evaluation of Gender Classification in Commercial Facial Analysis Services
+10.1145/3274417
+10.1145/3239235.3267435
+The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning
+10.1145/3205942
+10.1145/3196709.3196730
+10.1109/CVPR.2018.00608
+10.1145/3173574.3174230
+10.1145/3178876.3186143
+Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification
+10.1109/TIP.2018.2865674
+10.1093/qje/qjx032
+10.1145/3134687
+10.1177/0261927X17744004
+10.3389/fpsyg.2017.01552
+10.1145/3064663.3064703
+10.1145/3025453.3025739
+10.18653/v1/P17-1033
+10.1145/2998181.2998321
+10.1162/tacl_a_00042
+10.1145/3038912.3052660
+10.1109/TPAMI.2016.2598339
+How to Make a Racist AI without Really Trying
+Automatic Labelling of Topics with Neural Embeddings
+10.1016/J.JESP.2015.07.006
+10.1109/TIFS.2016.2561898
+Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
+10.18653/v1/N16-1057
+10.1007/978-3-319-30671-1_36
+10.2139/SSRN.2477899
+10.1109/ICMLA.2015.88
+10.1007/978-3-319-25252-0_18
+10.1145/2675133.2675285
+10.1145/2684822.2685324
+10.5220/0005346002770283
+Flickr Faces Complaints over ’offensive’ Auto-Tagging for Photos
+10.1109/CIDM.2014.7008665
+10.1109/VAST.2014.7042493
+10.1111/AJPS.12081
+10.3115/v1/P14-2103
+10.1353/nlh.2014.0025
+10.1609/icwsm.v8i1.14550
+10.1145/2556288.2557094
+10.1007/978-3-662-44848-9_32
+10.3115/v1/E14-1056
+Inadvertent Algorithmic Cruelty
+10.1016/J.POETIC.2013.10.001
+A computational approach to politeness with application to social factors
+Learning Fair Representations
+10.1145/2447976.2447990
+10.1371/journal.pone.0052168
+10.1027/1614-2241/A000051
+Mallet: A Wrapper around the Java Machine Learning Tool MALLET
+Multivariate Data Analysis. Pearson Education Limited
+10.1145/2254556.2254572
+10.1177/1525822X12444061
+10.1007/978-1-4899-7687-1_907
+10.1093/pan/mpr057
+Topic Modeling and Figurative Language
+Can an Algorithm be Wrong
+Automatic Labelling of Topic Models
+The Curious Connection between Apps for Gay Men and Sex Offenders
+10.1145/2133806.2133826
+10.21500/20112084.854
+Automatic Evaluation of Topic Coherence
+10.1111/J.1540-5907.2009.00428.X
+Reading Tea Leaves: How Humans Interpret Topic Models
+10.1145/1518701.1518736
+10.1016/j.patrec.2008.08.010
+10.3115/1613715.1613751
+10.1561/1500000011
+10.1145/1281192.1281246
+10.1002/asi.20459
+Google: "Did You Mean: ’He Invented’?
+10.1177/0894439305281503
+10.1145/1124772.1124894
+Evaluating the Effectiveness of Visual Analog Scales : A Web Experiment
+10.1353/SOF.2005.0050
+10.1287/isre.1040.0032
+10.1111/J.1525-1497.2004.30262.X
+10.1016/B978-0-12-411519-4.00006-9
+10.3115/1073083.1073135
+MALLET: A Machine Learning for Language Toolkit
+10.7748/ns.16.2.16.s38
+10.1037/0003-066X.52.5.509
+10.3138/cjcrim.38.4.439
+10.1201/9781498710411-35
+10.2307/249477
+10.1037/0022-3514.54.6.1063
+10.1016/0377-0427(87)90125-7
+10.1037/0022-3514.52.1.81
+10.1037/H0077714
+10.1007/BF02289468
+10.1207/s15327906mbr0102_10
+10.1007/BF02289447
+10.1177/001316446002000116
+10.1007/BF02289233

@@ -1,0 +1,72 @@
+10.18637/JSS.V091.I02
+10.1093/eurheartj/ehz282
+10.1038/s41467-019-11401-8
+10.2139/ssrn.2944816
+10.1007/s11842-018-9411-8
+10.3390/SU10082779
+Transfer Topic Labeling with Domain-Specific Knowledge Base: An Analysis of UK House of Commons Speeches 1935-2014
+10.1016/J.BIOCON.2018.01.029
+Canada's new superclusters
+10.1016/J.TRC.2017.12.018
+10.1016/j.joi.2017.05.016
+10.1016/J.TRC.2017.01.013
+10.1016/J.JOI.2017.01.001
+10.1017/psrm.2016.44
+10.1007/s11192-016-1852-2
+10.1016/J.TECHFORE.2016.01.015
+10.1007/s11192-015-1825-x
+A Historical Analysis of the Field of OR/MS using Topic Models
+10.1016/j.joi.2015.08.002
+10.5762/KAIS.2015.16.9.6411
+10.1371/journal.pone.0133061
+Latent Topic Networks: A Versatile Probabilistic Programming Framework for Topic Models
+10.1093/pan/mpu019
+10.1002/asi.23329
+10.1007/s11192-014-1308-5
+10.3166/dn.17.1.61-84
+Evaluating topic coherence measures
+10.1111/AJPS.12103
+10.1093/pan/mps028
+Towards Topic Labeling with Phrase Entailment and Aggregation
+10.3743/KOSIM.2013.30.1.007
+10.1145/2433396.2433454
+10.1016/j.ipm.2012.06.003
+10.1111/J.1541-0072.2012.00470.X
+Summarizing topical content with word frequency and exclusivity
+On Estimation and Selection for Topic Models
+10.1016/J.RESPOL.2011.05.023
+Optimizing Semantic Coherence in Topic Models
+Sparse Additive Generative Models of Text
+"In the Pipeline" or "Over a Barrel"? Assessing Canadian Efforts to Manage U.S. Canadian Energy Interdependence
+Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics
+10.1002/ASI.21435
+Best Topic Word Selection for Topic Labelling
+10.1007/978-3-642-13657-3_43
+10.1145/1718487.1718520
+10.1109/ISDA.2009.165
+10.1145/1553374.1553515
+10.1609/icwsm.v3i1.13937
+Document Clustering and Visualization with Latent Dirichlet Allocation and Self-Organizing Maps
+Bibliometrics and Citation Analysis: From the Science Citation Index to Cybermetrics
+10.1016/j.neucom.2008.06.011
+10.1007/s10531-008-9445-x
+Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression
+10.1088/1742-5468/2008/10/P10008
+10.1145/1342211.1342234
+10.1145/1281192.1281246
+10.1214/07-AOAS114
+10.4324/9780203936399
+10.1007/springerreference_65196
+10.1145/1143844.1143859
+10.1201/9781420011319
+Energy and the economy
+10.1073/PNAS.0307752101
+10.1038/nbt1003-1144
+10.1016/B978-0-12-411519-4.00006-9
+10.1002/asi.1130
+10.1006/JCSS.2000.1711
+Inference of population structure using multilocus genotype data.
+Visualization of Categorical Data
+10.2307/3324639
+10.2307/2288384
+10.2307/2346526

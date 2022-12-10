@@ -1,0 +1,18 @@
+10.14744/sigma.2022.00043
+10.16984/saufenbilder.872227
+10.1016/j.eswa.2020.114231
+10.1016/j.eswa.2021.114599
+10.38065/euroasiaorg.149
+10.1109/ACCESS.2020.2987355
+Financial sentiment analysis with Deep Ensemble Models (DEMs) for stock market prediction
+The Evaluation of Interest-Free Finance System in Turkey within the Context of Sentiment Analysis
+10.1016/j.ipm.2018.08.001
+10.1016/j.engappai.2017.04.003
+10.46430/PHEN0017
+10.3906/ELK-1102-1015
+10.1109/ICSCCW.2009.5379479
+10.1109/TPAMI.2008.110
+10.1103/PhysRevE.76.036106
+Zemberek, an open source nlp framework for turkic languages
+10.1016/0306-4573(95)00011-5
+10.1002/ASI.4630270302

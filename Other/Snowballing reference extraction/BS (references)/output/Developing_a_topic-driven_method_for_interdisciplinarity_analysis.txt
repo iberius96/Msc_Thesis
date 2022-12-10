@@ -1,0 +1,36 @@
+10.1002/asi.24433
+10.1002/asi.24416
+10.1177/0961000620907958
+10.3390/sym11121525
+10.1145/3308558.3313642
+10.1016/J.JOI.2018.12.006
+10.1108/OIR-12-2016-0361
+10.1007/s11192-018-2724-8
+10.1007/s11192-017-2528-2
+10.1186/s12889-017-4267-y
+10.18653/v1/P17-1054
+10.1002/asi.23596
+10.1002/asi.23487
+10.18653/v1/P16-1154
+10.1007/s11192-015-1792-2
+10.4018/IJDLDC.2014100101
+10.1002/asi.22953
+COMMITTEE ON SCIENCE, ENGINEERING, AND PUBLIC POLICY
+10.1007/s11192-012-0767-9
+10.1890/10-2402.1
+10.1017/S0376892910000822
+10.1145/1852102.1852106
+10.1007/s11192-010-0180-1
+10.1609/icwsm.v3i1.13937
+10.1007/s11192-009-0041-y
+Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression
+10.1088/1742-5468/2008/10/P10008
+10.1002/asi.20614
+10.1098/rsif.2007.0213
+Diversity measures and network centralities as indicators of interdisciplinarity: Case studies in BionanoScience
+10.1108/00242530510605494
+TextRank: Bringing Order into Text
+On the economics and analysis of diversity
+10.1525/AE.1997.24.1.219
+10.1086/229694
+Diversity: its measurement, decomposition, apportionment and analysis

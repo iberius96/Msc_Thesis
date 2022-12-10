@@ -1,0 +1,41 @@
+10.18653/v1/N16-1057
+10.18653/v1/N16-1036
+Largercontext language modelling with recurrent neural network
+Document Context Language Models
+Depth-Gated LSTM
+End-To-End Memory Networks
+10.1609/aaai.v29i1.9499
+Adam: A Method for Stochastic Optimization
+Memory Networks
+Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
+Neural Turing Machines
+Recurrent Neural Network Regularization
+10.3115/v1/W14-4012
+10.3115/v1/E14-1056
+10.1109/ICFHR.2014.55
+10.5555/2627435.2670313
+Evaluating Topic Coherence Using Distributional Semantics
+A Neural Autoregressive Topic Model
+A Hybrid Neural Network-Latent Topic Model
+A hybrid neural networklatent topic model Larger - context language modelling with recurrent neural network
+Optimizing Semantic Coherence in Topic Models
+Learning Word Vectors for Sentiment Analysis
+10.5555/1953048.2078186
+Automatic Evaluation of Topic Coherence
+Visualizing document collections and search results using topic mapping
+Recurrent neural network based language model
+Reading Tea Leaves: How Humans Interpret Topic Models
+Replicated Softmax: an Undirected Topic Model
+10.1145/1553374.1553515
+10.3115/1613715.1613763
+Griffiths , Mark Steyvers , David M . Blei , and Joshua B . Tenenbaum . 2004 . Integrating topics and syntax
+Supervised Topic Models
+The British National Corpus, version 3 (BNC XML Edition)
+10.1145/1150402.1150450
+Integrating Topics and Syntax
+10.1073/PNAS.0307752101
+10.3115/1075096.1075150
+10.1016/B978-0-12-411519-4.00006-9
+10.1109/IJCNN.2000.861302
+10.1162/neco.1997.9.8.1735
+Griffiths and Mark Steyvers . 2004 . Finding scientific topics

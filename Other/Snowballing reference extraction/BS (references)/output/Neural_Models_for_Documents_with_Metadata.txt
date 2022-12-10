@@ -1,0 +1,42 @@
+10.18653/v1/N18-1034
+10.1561/1500000030
+10.1145/3097983.3098074
+10.18653/v1/P17-1033
+Autoencoding Variational Inference For Topic Models
+Automatic Differentiation Variational Inference
+Edward: A library for probabilistic modeling, inference, and criticism
+The Generalized Reparameterization Gradient
+Neural Variational Inference for Text Processing
+Interpretability and measurement
+10.3115/v1/P15-1139
+10.3115/v1/P15-2072
+10.3115/v1/P15-1077
+Automatic Variational Inference in Stan
+10.1162/tacl_a_00140
+10.1609/aaai.v29i1.9499
+10.1201/b17520-15
+10.1111/AJPS.12103
+Stochastic Backpropagation and Approximate Inference in Deep Generative Models
+Lexical and Hierarchical Topic Regression
+A Neural Autoregressive Topic Model
+Kernel Topic Models
+Modeling Polarizing Topics : When Do Different Political Communities Respond Differently to the Same News ?
+Predicting a Scientific Community’s Response to an Article
+Sparse Additive Generative Models of Text
+Learning Word Vectors for Sentiment Analysis
+Automatic Evaluation of Topic Coherence
+10.1145/1667053.1667056
+Reading Tea Leaves: How Humans Interpret Topic Models
+Rethinking LDA: Why Priors Matter
+Replicated Softmax: an Undirected Topic Model
+10.3115/1699510.1699543
+10.1145/1553374.1553535
+10.1155/2009/785152
+Importance of Semantic Representation: Dataless Classification
+Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression
+Supervised Topic Models
+10.1145/1143844.1143859
+Correlated Topic Models
+The Author-Topic Model for Authors and Documents
+10.1016/B978-0-12-411519-4.00006-9
+English gigaword corpus

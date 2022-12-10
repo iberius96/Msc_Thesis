@@ -1,0 +1,59 @@
+10.1016/J.JII.2019.04.002
+10.1016/J.DSS.2019.113074
+10.3390/PR7060379
+10.1016/J.JNCA.2019.02.027
+10.1007/s10916-019-1195-7
+10.1109/ACCESS.2019.2895646
+10.1016/j.eswa.2018.09.037
+The blockchain : State - ofthe - art and research challenges
+The evolution of blockchain : A bib - liometric study
+10.1109/ISSPIT.2018.8642679
+10.1177/1460458216678443
+10.1016/j.eswa.2018.06.021
+10.1007/s10916-018-0993-7
+10.1007/978-3-319-95450-9_3
+10.1109/IVS.2018.8500606
+10.1016/J.SCS.2018.02.014
+10.1080/09537325.2018.1434138
+10.3390/SU9122214
+10.5121/IJCSIT.2017.9511
+Scrambling for Metadata: Using Topic Modeling and Word2Vec to Explore the Archives of the European Commission
+10.1007/978-3-319-62407-5_18
+10.1109/BIGDATACONGRESS.2017.85
+Identifying Leading Blockchain Startups on a Worldwide Level
+10.1371/journal.pone.0163477
+10.1145/2911451.2911499
+10.1007/978-3-319-23240-9_9
+10.18653/v1/D15-1036
+10.2139/ssrn.2646618
+10.1016/j.eswa.2015.01.050
+10.13088/JIIS.2015.21.1.65
+10.1016/j.eswa.2014.09.011
+Blockchain: Blueprint for a New Economy
+10.14569/IJACSA.2015.060121
+
+10.3115/v1/D14-1162
+10.3115/v1/E14-1056
+Linguistic Regularities in Continuous Space Word Representations
+10.1016/J.WPI.2012.10.005
+Evaluating Topic Coherence Using Distributional Semantics
+Efficient Estimation of Word Representations in Vector Space
+10.18637/JSS.V050.I10
+10.1007/s12528-011-9044-9
+10.1111/j.1467-8535.2010.01144.x
+Optimizing Semantic Coherence in Topic Models
+Reading Tea Leaves: How Humans Interpret Topic Models
+10.1016/J.TECHNOVATION.2008.10.006
+10.1145/1367497.1367514
+Bitcoin: A Peer-to-Peer Electronic Cash System
+10.1016/j.ipm.2006.11.011
+10.1109/ICSMC.2006.385062
+10.1002/asi.20342
+10.1023/A:1007612920971
+10.1016/B978-0-12-411519-4.00006-9
+10.1162/153244303322533223
+Probabilistic Latent Semantic Analysis
+Overview of Process Trend Analysis Methods and Applications
+10.1016/0377-0427(87)90125-7
+10.1214/AOS/1176344136
+

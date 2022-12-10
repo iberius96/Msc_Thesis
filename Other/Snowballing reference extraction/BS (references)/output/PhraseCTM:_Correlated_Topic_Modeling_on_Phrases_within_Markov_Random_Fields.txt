@@ -1,0 +1,23 @@
+10.1109/TKDE.2018.2812203
+10.1145/3097983.3098074
+10.1007/978-3-319-55753-3_4
+10.1080/01621459.2016.1141684
+10.1609/aaai.v30i1.10365
+10.1145/2723372.2751523
+10.1145/2684822.2685324
+10.3115/v1/N15-1074
+10.14778/2735508.2735519
+Understanding the Limiting Factors of Topic Modeling via Posterior Contraction Analysis
+10.1145/2556195.2559895
+Distributed Representations of Words and Phrases and their Compositionality
+Scalable inference for logisticnormal topic models
+10.1109/ICDM.2009.43
+10.3115/1667583.1667673
+Normalized (pointwise) mutual information in collocation extraction
+10.1109/ICDM.2007.86
+10.1214/07-AOAS114
+Correlated Topic Models
+Pubmed central: an nih-operated site for electronic distribution of life sciences research reports
+10.1016/b978-1-55860-377-6.50048-7
+10.2307/2982045
+Markov random fields and their applications, volume 1

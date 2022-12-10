@@ -1,0 +1,52 @@
+10.18653/v1/2021.emnlp-main.765
+MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering
+10.18653/V1/2021.NAACL-MAIN.427
+10.1609/aaai.v35i10.17037
+10.18653/v1/2020.emnlp-main.35
+Neural Topic Model with Attention for Supervised Learning
+10.1007/978-3-030-58607-2_16
+A Simple Framework for Contrastive Learning of Visual Representations
+10.1007/978-3-030-51310-8_10
+Self-labelling via simultaneous clustering and representation learning
+10.1162/tacl_a_00325
+Adversarial Learning for Robust Deep Clustering
+10.18653/v1/D19-1513
+10.1109/ICCV.2019.00654
+Topic Augmented Generator for Abstractive Summarization
+10.18653/v1/D19-1410
+RoBERTa: A Robustly Optimized BERT Pretraining Approach
+10.1109/CVPR.2019.00452
+10.1109/ICCV.2019.00824
+10.18653/v1/N19-1015
+Learning Representations for Time Series Clustering
+10.18653/v1/D18-1351
+Unsupervised Learning of Sentence Representations Using Sequence Consistency
+10.1007/978-3-030-01264-9_9
+10.18653/v1/N18-2072
+WHAI: Weibull Hybrid Autoencoding Inference for Deep Topic Modeling
+Deep Temporal Clustering : Fully Unsupervised Learning of Time-Domain Features
+10.1145/3159652.3159677
+Clustering with Deep Learning: Taxonomy and New Methods
+Bert: Pre-training of deep
+10.24963/ijcai.2017/243
+Deep Latent Dirichlet Allocation with Topic-Layer-Adaptive Stochastic Gradient Riemannian MCMC
+10.18653/v1/P17-1099
+Autoencoding Variational Inference For Topic Models
+10.1016/j.neunet.2016.12.008
+10.24963/ijcai.2017/273
+TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency
+Unsupervised Deep Embedding for Clustering Analysis
+10.1109/TPAMI.2015.2496141
+Skip-Thought Vectors
+Text Understanding from Scratch
+10.1111/coin.12017
+Adam: A Method for Stochastic Optimization
+10.1609/aaai.v28i1.8916
+Stochastic Backpropagation and Approximate Inference in Deep Generative Models
+Efficient Estimation of Word Representations in Vector Space
+10.1109/ICDM.2012.26
+10.1145/2337542.2337551
+10.5555/1756006.1953039
+Visualizing Data using t-SNE
+10.1162/153244303321897735
+10.1016/0377-0427(87)90125-7

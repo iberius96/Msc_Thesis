@@ -1,0 +1,47 @@
+Is Automated Topic Model Evaluation Broken?: The Incoherence of Coherence
+10.18653/V1/2021.NAACL-MAIN.300
+Vec2GC - A Graph Based Clustering Method for Text Representations
+The future is big graphs: a community view on graph processing systems
+Top2Vec: Distributed Representations of Topics
+10.1162/tacl_a_00325
+10.18653/v1/P19-1640
+10.1111/PSJ.12343
+10.1561/2200000056
+10.18653/v1/W19-4103
+10.1038/s41598-019-41695-z
+Decoupling Sparsity and Smoothness in the Dirichlet Variational Autoencoder Topic Model
+10.1145/3239235.3267435
+10.18653/v1/P18-2040
+UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction
+10.1109/ICDM.2017.73
+Autoencoding Variational Inference For Topic Models
+10.1145/3130348.3130370
+Exploring Topic Discriminating Power of Words in Latent Dirichlet Allocation
+10.1186/s40064-016-3252-8
+10.1016/j.physrep.2016.09.002
+10.1162/tacl_a_00099
+Neural Variational Inference for Text Processing
+10.1145/2684822.2685324
+More Efficient Topic Modelling Through a Noun Only Approach
+Distributed Representations of Sentences and Documents
+Distributed Representations of Words and Phrases and their Compositionality
+10.1145/2484028.2484166
+10.1007/978-3-642-37456-2_14
+Evaluating Topic Coherence Using Distributional Semantics
+10.1002/sam.10133
+10.1016/j.physrep.2009.11.002
+Normalized (pointwise) mutual information in collocation extraction
+10.1109/WIIAT.2008.24
+10.1007/springerreference_179172
+10.1002/9781119991083.ch42
+10.1145/1143844.1143917
+10.1145/1143844.1143859
+10.1007/11569596_31
+Correlated Topic Models
+10.1145/1014052.1014087
+10.1023/A:1007665907178
+Hierarchical Topic Models and the Nested Chinese Restaurant Process
+10.1016/B978-0-12-411519-4.00006-9
+10.1038/44565
+10.1145/219717.219748
+10.1002/(SICI)1097-4571(199009)41:6%3C391::AID-ASI1%3E3.0.CO;2-9

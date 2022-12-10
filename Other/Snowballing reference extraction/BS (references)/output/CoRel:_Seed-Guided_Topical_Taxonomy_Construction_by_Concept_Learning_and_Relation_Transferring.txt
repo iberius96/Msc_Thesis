@@ -1,0 +1,42 @@
+10.1145/3394486.3403242
+10.1145/3366423.3380284
+10.1609/AAAI.V34I05.6263
+Discriminative Topic Mining via Category-Name Guided Text Embedding
+Spherical Text Embedding
+10.1609/AAAI.V33I01.33016407
+10.18653/v1/P19-1279
+10.18653/v1/P19-1313
+10.18653/v1/N19-1423
+10.18653/v1/D18-1514
+10.1145/3219819.3220115
+10.1145/3219819.3220064
+10.1145/3178876.3186024
+10.18653/v1/N18-1045
+10.1109/TKDE.2018.2812203
+10.1007/978-3-319-71249-9_18
+Poincaré Embeddings for Learning Hierarchical Representations
+10.1609/aaai.v31i1.10956
+10.18653/v1/P16-1226
+10.1145/2835776.2835808
+Order-Embeddings of Images and Language
+10.3115/v1/P14-1113
+10.1145/2556195.2556236
+Distributed Representations of Words and Phrases and their Compositionality
+10.1145/2487575.2487631
+10.1162/COLI_a_00146
+10.1145/2339530.2339754
+PATTY: A Taxonomy of Relational Patterns with Semantic Types
+10.5591/978-1-57735-516-8/IJCAI11-313
+A Semi-Supervised Method to Learn and Construct Taxonomies Using the Web
+Learning Word-Class Lattices for Definition and Hypernym Extraction
+10.3115/1687878.1687918
+10.1145/1273496.1273576
+10.1126/SCIENCE.1136800
+10.3115/1219840.1219854
+Learning Syntactic Patterns for Automatic Hypernym Discovery
+10.3115/1220355.1220501
+Comparing Conceptual, Divise and Agglomerative Clustering for Learning Taxonomies from Text
+Hierarchical Topic Models and the Nested Chinese Restaurant Process
+10.1101/GR.648603
+10.1016/B978-155558242-5/50003-6
+10.3115/992133.992154

@@ -1,0 +1,51 @@
+The Pile: An 800GB Dataset of Diverse Text for Language Modeling
+10.18653/v1/2021.acl-long.518
+10.18653/v1/2020.emnlp-main.733
+10.18653/v1/2020.nlpcss-1.23
+10.18653/v1/2020.emnlp-main.55
+10.18653/v1/2020.emnlp-main.397
+10.18653/v1/2020.acl-main.431
+10.18653/v1/2020.repl4nlp-1.20
+10.1162/tacl_a_00300
+10.1162/tacl_a_00325
+The Curious Case of Neural Text Degeneration
+STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation
+spaCy: Industrial-strength Natural Language Processing in Python
+10.18653/v1/D19-1666
+RoBERTa: A Robustly Optimized BERT Pretraining Approach
+10.18653/v1/N19-1050
+10.18653/v1/N19-1131
+TransferTransfo: A Transfer Learning Approach for Neural Network Based Conversational Agents
+10.18653/v1/N19-1423
+Sentencebert: Sentence embeddings using siamese bertnetworks
+Language Models are Unsupervised Multitask Learners
+10.18653/v1/P18-1198
+10.1609/aaai.v32i1.12340
+10.18653/v1/D18-1052
+10.18653/v1/P18-1042
+Learning Phrase Embeddings from Paraphrases with GRUs
+Pointer Sentinel Mixture Models
+Fine-grained Analysis of Sentence Embeddings Using Auxiliary Prediction Tasks
+10.18653/v1/N16-1180
+10.1145/2872427.2883037
+10.3115/v1/P15-2070
+10.3115/v1/P15-1153
+10.1162/tacl_a_00135
+Adam: A Method for Stochastic Optimization
+Neural Machine Translation by Jointly Learning to Align and Translate
+Using phrases in mallet topic models
+10.14778/2735508.2735519
+10.3115/v1/P14-5010
+Distributed Representations of Words and Phrases and their Compositionality
+10.1145/2483691.2483692
+10.1613/jair.3640
+Parsing Natural Scenes and Natural Language with Recursive Neural Networks
+Reading Tea Leaves: How Humans Interpret Topic Models
+10.1109/ICDM.2007.86
+10.1037/0033-295X.114.2.211
+10.1016/B978-0-12-411519-4.00006-9
+Mallet: A machine learning for language toolkit
+Binary codes capable of correcting deletions, insertions, and reversals
+Sofie Van Landeghem, and Adriane Boyd. 2020. spaCy: Industrial-strength Natural Language Processing in Python
+Nanyun Peng, and Mohit Iyyer. 2020. STO-RIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation
+Dataset # Docs # Words # Phrases Tok/doc

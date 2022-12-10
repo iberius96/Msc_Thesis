@@ -1,0 +1,62 @@
+10.1016/j.compedu.2021.104354
+10.1186/S41239-021-00244-3
+10.1109/ACCESS.2021.3062052
+Introducing new tools and features as demand for online learning grows
+Sentiment analysis of mooc learner reviews: What motivates learners to complete a course
+Unstoppable study with MOOCs during COVID 19 pandemic: A study
+What is domestika? URL: https://tinyworkshops.co m/domestika
+Impact report 2021: Serving the world through learning
+By the numbers : Moocs in 2020 Did you pay for an online course and never finish it ? you aren ’ t alone and lack of time isn ’ t always to blame
+10.1007/978-3-030-59413-8_6
+10.1177/0047239520934018
+10.19173/irrodl.v21i4.4643
+10.1109/ICCES48766.2020.9137993
+10.1186/s41239-020-0179-5
+Adapting to the next normal in retail: The customer experience imperative
+10.1142/9789811215094_0005
+10.4018/978-1-5225-9304-1.ch012
+Remember the moocs? after near-death, they're booming. The New York Times 26
+10.1016/J.COMPELECENG.2019.06.016
+10.1109/ACCESS.2019.2897979
+10.1016/j.dib.2018.11.139
+Nlp: Pre-trained sentiment analysis. URL: https: //medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysi s-1eb52a9d742c. [Web; last access on 20-10-2021
+Evaluate topic models : Latent dirichlet allocation ( lda )
+10.1016/j.compedu.2018.02.010
+10.4324/9780429494758-5
+10.31046/TL.V11I1.506
+Textblob documentation
+fastText Quick Start Guide: Get started with Facebook's library for text representation and classification
+10.1007/s11042-017-4620-2
+10.1109/TEL-NET.2017.8343568
+10.1007/S10551-016-3328-Y
+A review of literature on the reasons that cause the high dropout rates in the MOOCS
+10.1007/978-981-10-2419-1_20
+10.1109/ICALT.2016.42
+10.1007/978-3-662-49851-4_1
+10.14569/IJACSA.2016.070323
+Learning scrapy
+What do star rates
+10.1016/J.ESWA.2015.02.055
+MOOCs for Development: Trends, Challenges, and Opportunities
+10.1111/bjet.12274
+10.1145/2684822.2685324
+10.3916/C44-2015-10
+selenium. IEEE software
+10.1007/978-3-319-10671-7_4
+MOOCs Completion Rates and Possible Methods to Improve Retention - A Literature Review
+10.1016/J.EDUREV.2014.05.001
+10.1007/S40031-014-0074-3
+MOOCs for Professional Teacher Development
+Dropout: MOOC participants’perspective
+Sentiment Analysis in MOOC Discussion Forums: What does it tell us?
+Massive Open Online Courses (MOOCs): Current Applications and Future Potential.
+MOOCs and The Future of Higher Education
+10.46430/PHEN0017
+10.5120/5053-7085
+India: Asia-Pacific Society for computers
+The year of the mooc. The New York Times 2
+10.1086/651235
+10.1109/MS.2009.144
+10.1145/1557019.1557121
+Analysis Using Natural Language Toolkit and VADER Sentiment
+Class central

@@ -1,0 +1,29 @@
+10.1002/asi.23574
+10.1007/978-3-319-56608-5_40
+Automatic Labelling of Topics with Neural Embeddings
+Labeling Topics with Images using Neural Networks
+10.18653/v1/P16-1217
+10.18653/v1/P16-1110
+10.18653/v1/N16-1057
+10.1007/978-3-319-28940-3_20
+Very Deep Convolutional Networks for Large-Scale Image Recognition
+10.1109/JCDL.2014.6970174
+10.3115/v1/P14-2101
+10.3115/v1/W14-3110
+10.3115/v1/P14-2103
+Distributed Representations of Sentences and Documents
+Dependencybased word embeddings
+La - belling topics using unsupervised graph - based meth
+Distributed Representations of Words and Phrases and their Compositionality
+Representing Topics Using Images
+10.1609/icwsm.v6i1.14321
+Automatic Labelling of Topic Models
+10.1145/1816123.1816156
+Visualizing document collections and search results using topic mapping
+10.1109/CVPR.2009.5206848
+10.1145/1281192.1281246
+10.1037/0033-295X.114.2.211
+10.1016/B978-0-12-411519-4.00006-9
+Latent Dirichlet allocation. Journal of Machine Learning Research
+10.1016/S0169-7552(98)00110-X
+Griffiths , Mark Steyvers , and Joshua B . Tenenbaum . 2007 . Topics in semantic representation

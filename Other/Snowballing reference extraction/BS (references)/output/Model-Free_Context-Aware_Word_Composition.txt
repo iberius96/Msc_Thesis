@@ -1,0 +1,47 @@
+10.18653/v1/N18-1202
+10.18653/v1/N18-2088
+10.1145/3077136.3080806
+10.18653/v1/P17-2070
+10.1109/TASLP.2016.2632521
+10.18653/v1/K16-1006
+10.18653/v1/P16-1121
+Contextual LSTM (CLSTM) models for Large scale NLP tasks
+Towards Universal Paraphrastic Sentence Embeddings
+10.18653/v1/D15-1167
+10.18653/v1/D15-1161
+10.18653/v1/D15-1177
+10.3115/v1/P15-1010
+Skip-Thought Vectors
+10.1162/tacl_a_00143
+10.3115/v1/W15-1509
+10.18653/v1/S15-1002
+10.1609/aaai.v29i1.9522
+10.3115/v1/N15-1028
+Neural Word Embedding as Implicit Matrix Factorization
+Global Belief Recursive Neural Networks
+10.3115/v1/D14-1113
+10.3115/v1/D14-1163
+10.3115/v1/D14-1162
+A Probabilistic Model for Learning Multi-Prototype Word Embeddings
+Learning Sense-specific Word Embeddings By Exploiting Bilingual Resources
+10.3115/v1/P14-1129
+10.3115/v1/P14-1101
+Distributed Representations of Sentences and Documents
+Griffiths and Mark Steyvers . 2004 . Finding scientific topics
+Distributed Representations of Words and Phrases and their Compositionality
+Semantic Compositionality through Recursive Matrix-Vector Spaces
+Improving Word Representations via Global Context and Multiple Word Prototypes
+Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection
+Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions
+10.1111/j.1551-6709.2010.01106.x
+Recurrent neural network based language model
+10.3115/1599081.1599188
+10.1145/1390156.1390177
+Gibbslda++: Ac/c++ implementation of latent dirichlet allocation (lda)
+British national corpus version 3 (bnc xml edition)
+10.3115/1220355.1220406
+10.1073/PNAS.0307752101
+10.1016/B978-0-12-411519-4.00006-9
+10.1023/A:1026594023292
+10.1162/neco.1997.9.8.1735
+10.1007/978-94-017-6059-1_36

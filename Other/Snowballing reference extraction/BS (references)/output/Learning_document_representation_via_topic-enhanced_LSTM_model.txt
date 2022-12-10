@@ -1,0 +1,39 @@
+10.1016/j.csl.2018.10.004
+10.1109/TEVC.2018.2808689
+10.1109/TFUZZ.2017.2690222
+10.1162/tacl_a_00005
+Combining LSTM and Latent Topic Modeling for Mortality Prediction
+10.1016/j.engappai.2017.04.003
+10.1109/TKDE.2017.2669982
+10.1016/j.knosys.2017.01.012
+10.1109/LSP.2017.2673123
+TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency
+10.1016/j.ins.2016.08.084
+10.1371/journal.pone.0165560
+10.1016/j.knosys.2016.05.003
+10.1016/j.knosys.2016.05.045
+10.1016/j.patrec.2016.06.012
+Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec
+Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves
+10.1109/MIS.2016.45
+10.1109/TASLP.2016.2520371
+10.18653/v1/D15-1237
+10.3115/v1/P15-1107
+10.3115/v1/P15-1150
+10.1609/aaai.v29i1.9501
+Distributed Representations of Words and Phrases and their Compositionality
+A Neural Autoregressive Topic Model
+10.1109/TKDE.2011.104
+10.1109/TPAMI.2011.170
+Enhancing Navigation on Wikipedia with Social Tags
+10.1145/1882471.1882480
+10.1016/j.knosys.2008.06.002
+10.3115/1621474.1621487
+What is the Jeopardy Model? A Quasi-Synchronous Grammar for QA
+Hidden Topic Markov Models
+10.1016/B978-0-12-411519-4.00006-9
+Probabilistic Latent Semantic Analysis
+10.1162/neco.1997.9.8.1735
+10.1002/(SICI)1097-4571(199009)41:6%3C391::AID-ASI1%3E3.0.CO;2-9
+10.1145/361219.361220
+10.1007/978-94-017-6059-1_36

@@ -1,0 +1,28 @@
+BERTScore: Evaluating Text Generation with BERT
+10.18653/v1/W19-0404
+10.18653/V1/E17-2069
+10.1162/tacl_a_00042
+10.1002/asi.23574
+10.1007/978-3-319-56608-5_40
+Automatic Labelling of Topics with Neural Embeddings
+Labeling Topics with Images using Neural Networks
+10.18653/v1/P16-1217
+10.18653/v1/N16-1057
+Neural Machine Translation by Jointly Learning to Align and Translate
+Sequence to Sequence Learning with Neural Networks
+10.1109/JCDL.2014.6970174
+10.3115/v1/D14-1179
+10.3115/v1/P14-2101
+10.3115/v1/P14-2103
+Representing Topics Using Images
+Evaluating Topic Coherence Using Distributional Semantics
+10.1145/2433396.2433454
+10.1609/icwsm.v6i1.14321
+Optimizing Semantic Coherence in Topic Models
+Automatic Labelling of Topic Models
+Best Topic Word Selection for Topic Labelling
+Automatic Evaluation of Topic Coherence
+10.1109/ISDA.2009.165
+10.1007/978-3-642-00958-7_6
+10.1145/1281192.1281246
+10.1016/B978-0-12-411519-4.00006-9

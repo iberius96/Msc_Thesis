@@ -1,0 +1,43 @@
+10.1109/tkde.2020.2999489
+10.18653/v1/2020.emnlp-main.725
+10.18653/v1/2020.acl-main.475
+10.18653/v1/2020.acl-main.32
+Decoupling Representation and Classifier for Long-Tailed Recognition
+Generalized gumbelsoftmax gradient estimator for various discrete random variables
+10.1109/IJCNN.2019.8852462
+10.18653/v1/P19-1640
+10.1016/J.IPM.2019.102098
+10.18653/v1/P19-1041
+10.1007/978-3-030-05090-0_25
+Effective Attention Modeling for Aspect-Level Sentiment Classification
+10.1080/19325037.2018.1473180
+10.18653/v1/P18-1189
+10.1609/aaai.v32i1.11867
+10.18653/v1/D18-1494
+10.1137/1.9781611975321.81
+10.1145/3132847.3132942
+10.1007/978-3-319-71249-9_32
+10.24963/ijcai.2017/247
+10.1145/3077136.3080816
+Autoencoding Variational Inference For Topic Models
+Categorical Reparameterization with Gumbel-Softmax
+10.1609/aaai.v31i1.10726
+10.18653/v1/P17-1036
+Automatic Labelling of Topics with Neural Embeddings
+Ladder Variational Autoencoders
+10.1145/2872427.2883037
+10.1080/01621459.2017.1285773
+10.1145/2783258.2783293
+10.1145/2783258.2783264
+Scalable Deep Poisson Factor Analysis for Topic Modeling
+10.1145/2684822.2685324
+Generative Adversarial Nets
+Autoencoding variational bayes
+10.1145/1645953.1646003
+Topic Tracking Model for Analyzing Consumer Purchase Behavior
+Financial Topic Models
+10.1561/2200000001
+Blei . 2020 . Text - based ideal points
+10.1023/A:1007665907178
+10.1016/B978-0-12-411519-4.00006-9
+Seungjae Shin, and Il-Chul Moon. 2020. Generalized gumbelsoftmax gradient estimator for various discrete random variables

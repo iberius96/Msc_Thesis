@@ -1,0 +1,21 @@
+10.18653/v1/2021.eacl-main.229
+10.1609/AAAI.V34I05.6512
+Unsupervised Multi-Document Opinion Summarization as Copycat-Review Generation
+10.1145/3357384.3358142
+10.18653/v1/D19-1410
+10.1145/3359274
+MeanSum: A Neural Model for Unsupervised Multi-Document Abstractive Summarization
+10.18653/v1/D18-1403
+10.1145/3209978.3210030
+10.18653/v1/P18-2094
+10.18653/v1/W18-2706
+10.1016/j.eswa.2017.02.006
+10.1609/aaai.v31i1.10958
+10.18653/v1/P17-1036
+10.18653/v1/W17-1003
+Easy-read Documents as a Gold Standard for Evaluation of Text Simplification Output
+Gurobi -The overall fastest and best supported solver available
+10.1016/j.eswa.2014.05.045
+10.3115/v1/P14-5010
+Opinosis: A Graph Based Approach to Abstractive Summarization of Highly Redundant Opinions
+10.1145/1014052.1014073

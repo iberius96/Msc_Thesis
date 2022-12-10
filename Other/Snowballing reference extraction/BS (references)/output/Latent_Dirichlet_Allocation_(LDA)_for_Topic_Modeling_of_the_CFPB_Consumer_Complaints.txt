@@ -1,0 +1,35 @@
+10.1177/0149206318773861
+Universal Sentence Encoder
+10.5465/AMBPP.2017.16300ABSTRACT
+10.1145/3130348.3130370
+10.1080/19368623.2015.983631
+Examination as a Method of Consumer Protection
+10.1002/SMJ.2294
+10.1108/IMDS-07-2014-0225
+10.1177/0018720813519473
+10.1111/AJPS.12103
+Distributed Representations of Words and Phrases and their Compositionality
+10.2139/SSRN.2295157
+10.1007/978-1-4614-3223-4
+Explore Python, machine learning, and the NLTK library
+Explore Python, machine learning, and the NLTK library.IBM Developer Works
+Explore Python, machine learning, and the NLTK library.IBM
+First Year of the Consumer Financial Protection Bureau: An Overview, The
+First Year of the Consumer Financial Protection Bureau: An Overview
+Normalized frequency of top 60 issues in the CFPB dataset. These issues cover labeling of more than 99% of the whole consumer complaints in the dataset
+10.19030/JBER.V7I5.2286
+10.1145/2133806.2133826
+Probabilistic Topic Models: A focus on graphical model design and applications to document and image analysis.
+Reading Tea Leaves: How Humans Interpret Topic Models
+10.1201/9781420059458
+10.4135/9781483399782.n15
+10.1007/978-3-540-73345-4_56
+10.1198/016214506000000302
+10.1145/1148170.1148204
+10.1073/PNAS.0307752101
+10.1016/B978-0-12-411519-4.00006-9
+10.1145/584792.584877
+10.1002/(SICI)1097-4571(199009)41:6%3C391::AID-ASI1%3E3.0.CO;2-9
+Machine learning - applications in expert systems and information retrieval
+Introduction to Modern Information Retrieval
+10.2307/2346830

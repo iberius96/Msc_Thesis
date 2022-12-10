@@ -1,0 +1,103 @@
+10.1007/978-3-319-76941-7_23
+10.1016/J.ESWA.2017.08.047
+10.1080/21670811.2015.1093271
+10.18653/V1/E17-2070
+10.1177/0165551515617393
+10.18420/in2017_215
+Proceedings of the 2017 EMNLP Workshop: Natural Language Processing meets Journalism. Copenhagen, Denmark: Association for Computational Linguistics
+Topics and their Salience in the 2015 Parliamentary Election in Croatia: A Topic Model based Analysis of the Media Agenda
+10.18653/v1/W16-1609
+10.1145/2911451.2914720
+10.1017/CBO9781316257340.004
+Reuters institute digital news report
+
+10.1145/2809936.2809942
+10.1016/J.ESWA.2015.02.055
+10.1162/tacl_a_00143
+10.1109/PACIFICVIS.2015.7156366
+10.1145/2684822.2685324
+10.1016/j.eswa.2014.08.004
+10.1201/b17520-16
+10.3115/v1/D14-1162
+10.1080/17512786.2014.883116
+10.1145/2615569.2615680
+10.2139/SSRN.2619576
+10.1016/j.eswa.2013.11.020
+10.1145/2567948.2577379
+10.3115/v1/E14-1056
+Evaluating topic coherence measures
+Large-Scale Topical Analysis of Multiple Online News Sources with Media Cloud
+10.1201/b17520-21
+NewsReader: recording history from daily news streams
+An introduction to the Europe Media Monitor family of applications
+10.1093/pan/mps028
+Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment
+10.1145/2507157.2507166
+Evaluating Topic Coherence Using Distributional Semantics
+10.1080/21670811.2012.714928
+Efficient Estimation of Word Representations in Vector Space
+10.1007/978-3-642-28569-1
+10.1145/2396761.2398417
+10.1109/VAST.2012.6400485
+Exploring Topic Coherence over Many Models and Many Topics
+10.1145/2207676.2207738
+10.1145/2086737.2086744
+10.1016/j.neucom.2011.04.032
+10.1007/978-3-642-23538-2_50
+10.1007/s11390-011-0175-2
+Optimizing Semantic Coherence in Topic Models
+Bayesian Checking for Topic Models
+10.5591/978-1-57735-516-8/IJCAI11-312
+10.5591/978-1-57735-516-8/IJCAI11-298
+10.1145/1963405.1963445
+10.1186/1471-2105-12-77
+10.1093/pan/mpp034
+Online Learning for Latent Dirichlet Allocation
+10.1145/2133806.2133826
+10.1109/WI-IAT.2010.205
+Word Representations: A Simple and General Method for Semi-Supervised Learning
+Automatic Evaluation of Topic Coherence
+Sentiment Analysis in the News
+Reading Tea Leaves: How Humans Interpret Topic Models
+10.1145/1645953.1646003
+10.1007/978-3-642-04180-8_22
+10.1145/1553374.1553515
+10.1007/978-3-642-00958-7_6
+Evaluating topic models with stability
+Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression
+10.1007/978-3-540-69858-6_21
+A Joint Model of Text and Aspect Ratings for Sentiment Summarization
+Exploring Network Structure, Dynamics, and Function using NetworkX
+
+10.1145/1297231.1297256
+A Topic Model for Word Sense Disambiguation
+10.1214/07-AOAS114
+10.1103/PhysRevE.75.027105
+Large-Scale Sentiment Analysis for News and Blogs (system demonstration)
+Probabalistic walks in semantic hierarchies as a topic model for WSD
+10.1145/1148170.1148204
+10.1007/11760146_9
+10.1017/CBO9780511809071
+10.5860/choice.52-0663
+10.1103/PhysRevE.71.056103
+10.1073/PNAS.0307752101
+Visualization of News Articles
+10.1016/S0957-4174(03)00062-9
+AUC: a Statistically Consistent and more Discriminating Measure than Accuracy
+10.1111/1467-8284.00420
+10.1016/B978-0-12-411519-4.00006-9
+10.1017/S1351324902003029
+The Reuters Corpus Volume 1 -from Yesterday’s News to Tomorrow’s Language Resources
+Topic detection and tracking: event-based information organization
+10.4135/9781071802878
+10.1038/44565
+10.1038/nbt1194-1048b
+10.1145/133160.133177
+10.1002/(SICI)1097-4571(199009)41:6%3C391::AID-ASI1%3E3.0.CO;2-9
+10.2307/2531595
+10.1016/0306-4573(88)90021-0
+10.1111/J.1460-2466.1993.TB01304.X
+10.1016/0378-8733(78)90021-7
+10.2307/2529310
+10.1016/S0363-8111(77)80008-8
+

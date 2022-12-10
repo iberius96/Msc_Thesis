@@ -1,0 +1,82 @@
+10.1002/asi.24175
+Topic identification based on multi-semantic relation fusion
+10.1007/s11192-018-2917-1
+10.1186/s12859-018-2283-2
+10.1162/qss_a_00035
+10.1016/j.joi.2017.10.002
+10.1007/s11192-017-2296-z
+10.1007/s11192-017-2290-5
+10.1371/journal.pone.0170895
+Analysis of technology opportunity based on "coupling and co-citation" hybrid network
+10.2991/MSOTA-16.2016.12
+10.1002/asi.23522
+10.1007/s11192-016-2041-z
+10.1016/j.joi.2016.04.002
+10.1016/J.TECHFORE.2016.01.015
+10.1093/bioinformatics/btv636
+10.1504/IJFIP.2015.074391
+Measuring Technology Maturity: Operationalizing Information from Patents, Scientific Publications, and the Web
+10.1007/S11135-014-0145-1
+Multiple-pattern Analysis and Prediction of Topic Evolution Path Based on Topic Correlation: A Case Study of Information Science Research
+Heterogeneous knowledge flow network measurement based on perspective of intergration innovation
+10.1007/s11192-015-1826-9
+10.1109/PICMET.2015.7273147
+10.1016/j.joi.2015.02.001
+Research on multiple main paths method oriented to analysis of technology evolution
+10.1093/bioinformatics/btu567
+10.1016/J.RESPOL.2014.02.005
+10.4028/www.scientific.net/KEM.625.536
+A survey of intellectual property rights literature from 1971 to 2012: The main path analysis
+10.1109/IWECA.2014.6845553
+10.1002/asi.23054
+10.1007/S00191-014-0349-5
+10.1080/09537325.2013.803064
+10.1007/s11192-012-0917-0
+10.1007/s11192-012-0691-z
+10.1002/asi.21692
+Topic Linkages between Papers and Patents
+10.1016/J.RESPOL.2011.10.012
+10.1109/TVCG.2011.185
+10.1109/TVCG.2011.239
+10.1007/s11192-011-0563-y
+10.1145/1718487.1718520
+10.1002/asi.21366
+10.1007/s11192-009-0154-3
+The Nature of Technology: What it Is and How it Evolves
+10.1016/J.JOM.2008.08.001
+10.1016/J.ESWA.2007.01.033
+10.1073/pnas.0706851105
+Supervised Topic Models
+10.1016/J.TECHNOVATION.2007.02.011
+10.1007/s11192-007-1741-1
+10.1007/s11192-007-0211-8
+10.1145/1148170.1148204
+10.1145/1143844.1143859
+10.1007/s11192-006-0135-8
+10.1007/BF02017155
+10.1007/BF02016800
+The Author-Topic Model for Authors and Documents
+LexPageRank: Prestige in Multi-Document Text Summarization
+10.1073/PNAS.0307752101
+10.1023/A:1016057727209
+10.1023/A:1010577030871
+10.1023/A:1016034516731
+10.1007/1-4020-2755-9_31
+10.1023/A:1026248929668
+10.1002/asi.10227
+10.1016/B978-0-12-411519-4.00006-9
+10.1016/S0048-7333(02)00070-7
+10.1109/17.922473
+10.1016/S0048-7333(99)00040-2
+10.1023/A:1005647328460
+10.1007/S001910050093
+10.2139/ssrn.200788
+10.1002/(SICI)1097-4571(1999)50:12%3C1051::AID-ASI2%3E3.0.CO;2-Z
+10.1080/095006999290732
+10.1002/(SICI)1097-4571(1998)49:13%3C1206::AID-ASI7%3E3.0.CO;2-F
+10.1002/(SICI)1097-4571(1998)49:1%3C68::AID-ASI9%3E3.0.CO;2-1
+Theory of three main sociological differences between science and technology
+10.1016/0378-8733(89)90017-8
+10.4135/9781412961288.n223
+10.1119/1.1969660
+10.5962/BHL.TITLE.5727

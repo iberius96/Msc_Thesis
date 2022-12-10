@@ -1,0 +1,35 @@
+Variational Autoencoders for Sparse and Overdispersed Discrete Data
+10.18653/v1/P19-1640
+10.1609/aaai.v33i01.33016505
+10.1214/17-BA1070
+Discovering Discrete Latent Topics with Neural Variational Inference
+Autoencoding Variational Inference For Topic Models
+Reparameterization Gradients through Acceptance-Rejection Sampling Algorithms
+Stickbreaking variational autoencoders
+Neural Variational Inference for Text Processing
+Nonparametric Bayesian Factor Analysis for Dynamic Count Matrices
+10.3115/v1/P15-1077
+Adam: A Method for Stochastic Optimization
+10.1109/TPAMI.2013.211
+10.1145/2623330.2623708
+10.1080/01621459.2015.1075407
+10.3115/v1/E14-1056
+Neural Variational Inference and Learning in Belief Networks
+Stochastic Backpropagation and Approximate Inference in Deep Generative Models
+and Max Welling . 2014 . Auto - encoding variational bayes
+10.1145/2488388.2488514
+Augment-and-Conquer Negative Binomial Processes
+Online Variational Inference for the Hierarchical Dirichlet Process
+10.3115/1699510.1699543
+10.1145/1557019.1557121
+The Infinite Gamma-Poisson Feature Model
+Hierarchical Beta Processes and the Indian Buffet Process
+10.1145/1150402.1150450
+10.1145/1143844.1143859
+Correlated Topic Models
+Sharing Clusters among Related Groups: Hierarchical Dirichlet Processes
+10.1016/B978-0-12-411519-4.00006-9
+10.1007/3-540-47977-5_9
+Probabilistic Latent Semantic Analysis
+10.1002/(SICI)1097-4571(199009)41:6%3C391::AID-ASI1%3E3.0.CO;2-9
+10.2140/PJM.1967.21.59

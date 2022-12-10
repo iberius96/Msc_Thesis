@@ -1,0 +1,46 @@
+10.1016/j.eswa.2017.02.002
+10.1016/j.eswa.2016.10.065
+10.1016/J.ESWA.2016.10.043
+10.1007/978-3-319-57529-2_29
+Automatic Labelling of Topics with Neural Embeddings
+10.1016/j.artint.2016.05.003
+10.18653/v1/S16-1002
+10.1016/j.ins.2016.01.013
+10.18653/v1/N16-1091
+10.3115/v1/P15-1077
+10.1162/tacl_a_00140
+10.18653/v1/S15-2082
+10.3115/v1/S14-2004
+10.1016/j.knosys.2013.11.009
+10.3115/v1/P14-1033
+Learning sentiment-Specific word embedding
+10.1016/j.eswa.2013.01.019
+10.1609/aaai.v27i1.8700
+Linguistic Regularities in Continuous Space Word Representations
+Efficient Estimation of Word Representations in Vector Space
+Opinion Target Extraction Using Word-Based Translation Model
+Aspect Extraction through Semi-Supervised Modeling
+10.1109/TKDE.2011.48
+10.1007/978-1-4899-7687-1_907
+10.1109/ICDMW.2011.125
+10.1162/coli_a_00034
+10.1145/1935826.1935932
+Jointly Modeling Aspects and Opinions with a MaxEnt-LDA Hybrid
+Generating Focused Topic-Specific Sentiment Lexicons
+Word Representations: A Simple and General Method for Semi-Supervised Learning
+An Unsupervised Aspect-Sentiment Model for Online Reviews
+10.1145/1645953.1646003
+10.3115/1699648.1699700
+10.3115/1699510.1699543
+10.3115/1609067.1609142
+Beyond the Stars: Improving Rating Predictions using Review Text Content
+10.1145/1390156.1390177
+Building a Sentiment Summarizer for Local Service Reviews
+10.1561/1500000011
+Supervised Topic Models
+10.3115/1220575.1220618
+Mining Opinion Features in Customer Reviews
+10.1073/PNAS.0307752101
+10.1145/944012.944013
+10.1016/B978-0-12-411519-4.00006-9
+Class-Based n-gram Models of Natural Language

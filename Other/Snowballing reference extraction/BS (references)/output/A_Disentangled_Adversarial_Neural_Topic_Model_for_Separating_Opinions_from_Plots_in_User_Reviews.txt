@@ -1,0 +1,69 @@
+10.1016/j.ipm.2019.102084
+10.18653/v1/D19-1410
+10.18653/v1/P19-1640
+10.18653/v1/P19-1248
+Domain Agnostic Learning with Disentangled Representations
+10.18653/v1/D19-1350
+10.1080/08839514.2019.1630148
+10.1016/J.IPM.2019.102098
+10.18653/v1/P19-1041
+Structured Disentangled Representations
+Auto-Encoding Total Correlation Explanation
+10.18653/v1/N19-1423
+SentenceBERT: Sentence embeddings using Siamese BERTnetworks
+Atm: Adversarial-neural topic model. Information Processing & Management
+Towards a Definition of Disentangled Representations
+10.1007/978-3-030-05090-0_25
+10.18653/v1/d18-1096
+A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation
+Learning to Decompose and Disentangle Representations for Video Prediction
+Disentangling the independently controllable factors of variation by interacting with the world
+MPST: A Corpus of Movie Plot Synopses with Tags
+Isolating Sources of Disentanglement in Variational Autoencoders
+Topical Phrase Extraction from Clinical Reports by Incorporating both Local and Global Context
+Variational Inference of Disentangled Latent Concepts from Unlabeled Observations
+10.1109/ITA.2018.8503149
+10.18653/v1/P18-1189
+Isolating Sources of Disentanglement in VAEs
+Discovering Discrete Latent Topics with Neural Variational Inference
+Independently Controllable Features
+Improved Variational Autoencoders for Text Modeling using Dilated Convolutions
+Autoencoding Variational Inference For Topic Models
+beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework
+TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency
+Recurrent Batch Normalization
+10.1609/aaai.v31i1.10966
+Variational autoencoder for semisupervised text classification
+Disentangling factors of variation in deep representation using adversarial training
+10.18653/v1/W16-5619
+InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
+10.18653/v1/K16-1002
+Neural Variational Inference for Text Processing
+Tomonari Masada and Atsuhiro Takasu . 2018 . Adversarial learning for topic models
+Adversarial Autoencoders
+10.1145/2766462.2767755
+10.1145/2684822.2685324
+Adam: A Method for Stochastic Optimization
+NICE: Non-linear Independent Components Estimation
+Generative Adversarial Nets
+10.3115/v1/E14-1056
+Neural Variational Inference and Learning in Belief Networks
+Auto-Encoding Variational Bayes
+Autoencoding variational bayes
+10.1109/TPAMI.2013.50
+10.1109/TKDE.2011.48
+Learning Word Vectors for Sentiment Analysis
+Parallel Gibbs Sampling: From Colored Fields to Thin Junction Trees
+10.1145/1935826.1935932
+Deep learning via Hessian-free optimization
+Understanding the difficulty of training deep feedforward neural networks
+Understand - ing the difficulty of training deep feedforward neural networks
+Reading Tea Leaves: How Humans Interpret Topic Models
+10.1145/1645953.1646003
+10.1145/1553374.1553515
+Supervised Topic Models
+10.1145/1150402.1150450
+10.1145/1143844.1143859
+10.3115/1218955.1218990
+The Author-Topic Model for Authors and Documents
+10.1016/B978-0-12-411519-4.00006-9

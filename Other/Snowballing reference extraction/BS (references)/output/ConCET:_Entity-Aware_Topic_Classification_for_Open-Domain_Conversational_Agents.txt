@@ -1,0 +1,29 @@
+10.1109/SLT.2018.8639552
+10.18653/v1/P18-1052
+Universal Sentence Encoder
+On Evaluating and Comparing Open Domain Dialog Systems
+On Evaluating and Comparing Conversational Agents
+Topic-based Evaluation for Conversational Bots
+Conversational AI: The Science Behind the Alexa Prize
+Anushree Venkatesh, Raefer Gabriel, and Arindam Mandal
+Edina: Building an Open Domain Socialbot with Self-dialogues
+10.24963/ijcai.2017/406
+10.1162/tacl_a_00069
+10.1162/tacl_a_00051
+10.18653/V1/E17-1104
+10.1145/2970398.2970423
+Very Deep Convolutional Networks for Natural Language Processing
+Recurrent Neural Network for Text Classification with Multi-Task Learning
+10.1145/2872427.2883061
+Understanding short texts(tutorial)
+10.1109/APSIPA.2014.7041546
+10.3115/v1/D14-1181
+10.1162/tacl_a_00179
+Explicit and Implicit Syntactic Features for Text Classification
+Efficient Estimation of Word Representations in Vector Space
+10.1145/2063518.2063519
+Optimizing Semantic Coherence in Topic Models
+Normalized (pointwise) mutual information in collocation extraction
+10.1007/978-3-540-76298-0_52
+The discipline of machine learning
+Machine learning. Number 35

@@ -1,0 +1,47 @@
+10.1109/TNNLS.2017.2676817
+10.1609/aaai.v32i1.11942
+10.1007/s11192-018-2695-9
+10.1162/qss_a_00035
+10.1002/asi.23814
+10.1109/TKDE.2016.2636182
+10.1007/s11192-017-2306-1
+10.1287/MNSC.2015.2366
+10.1002/asi.23734
+10.1016/J.JOI.2016.09.006
+10.1016/j.joi.2016.07.009
+10.1002/asi.23596
+10.1016/J.TECHFORE.2016.01.015
+Bipartite Graph for Topic Extraction
+Dependent Indian Buffet Process-based Sparse Nonparametric Nonnegative Matrix Factorization
+10.1038/nature14539
+10.1162/tacl_a_00134
+Neural Word Embedding as Implicit Matrix Factorization
+10.1002/asi.23134
+10.3115/v1/D14-1162
+10.1016/J.RESPOL.2014.01.012
+10.1016/J.TECHFORE.2013.12.019
+Distributed Representations of Sentences and Documents
+10.1002/asi.23027
+Distributed Representations of Words and Phrases and their Compositionality
+10.1016/J.JOI.2013.08.004
+Topic Extraction from Online Reviews for Classification and Recommendation
+10.1371/journal.pone.0018029
+10.1145/2133806.2133826
+10.5555/1756006.1859899
+10.1007/978-3-540-87479-9_3
+10.1007/s10791-009-9106-z
+10.1002/asi.20732
+10.1007/s10791-008-9066-8
+10.1109/TKDE.2007.1040
+10.1109/TNN.2005.845141
+10.1007/s10618-005-0361-3
+10.1145/1014052.1014118
+10.1023/B:MACH.0000027785.44527.d6
+10.1016/B978-0-12-411519-4.00006-9
+10.1109/TPAMI.2002.1017616
+10.1145/331499.331504
+10.1016/0048-7333(93)90031-C
+10.1016/B978-0-444-70537-2.50014-3
+Introduction to Modern Information Retrieval
+A Synopsis of Linguistic Theory, 1930-1955
+A synopsis of linguistic theory 1930-55, Studies in Linguistic Analysis The Philological Society
