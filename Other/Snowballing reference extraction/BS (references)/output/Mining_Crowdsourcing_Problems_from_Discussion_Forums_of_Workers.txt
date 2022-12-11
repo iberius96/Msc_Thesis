@@ -1,0 +1,53 @@
+10.1109/TSC.2018.2791601
+10.4324/9781003071709-29
+10.1145/3290605.3300512
+10.1177/0730888418791652
+Digital labour platforms and the future of work
+10.1177/0730888418762263
+10.1145/3134748
+10.20982/TQMP.13.3.P174
+10.1080/03637751.2017.1359748
+10.1145/3078714.3078715
+10.1145/3022198.3023270
+10.17705/1jais.00441
+10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0131
+10.1145/2858036.2858539
+10.1016/j.chb.2015.08.031
+10.1111/joms.12140
+10.1145/2684822.2685324
+Human-centered computing and the future of work: lessons from Mechanical Turk and Turkopticon, 2008-2015
+Beyond Mechanical Turk: An Analysis of Paid Crowd Work Platforms
+10.1145/2660398.2660403
+Evolution of crowdsourcing: potential data protection, privacy and security concerns under the new media age
+10.1145/2556288.2557155
+10.1109/MS.2014.31
+10.1145/2531602.2531663
+Privacy Attitudes of Mechanical Turk Workers and the U.S. Public
+10.1007/978-1-4614-8806-4_30
+10.1007/978-3-642-40498-6_33
+10.1145/2470654.2470742
+10.2139/ssrn.2228728
+Risks and Rewards of Crowdsourcing Marketplaces, pages 377–392
+Exploring Topic Coherence over Many Models and Many Topics
+10.1145/2145204.2145355
+Optimizing Semantic Coherence in Topic Models
+10.1145/1979742.1979606
+10.1145/1926180.1926195
+10.1145/1869086.1869100
+10.1145/1869086.1869096
+10.1145/1837885.1837891
+10.1007/978-3-642-13657-3_43
+Automatic Evaluation of Topic Coherence
+10.1145/1753846.1753873
+What’s fair? Rational action and its residuals in an electronic market
+Rethinking LDA: Why Priors Matter
+Reading Tea Leaves: How Humans Interpret Topic Models
+10.1145/1553374.1553515
+10.1016/j.neucom.2008.06.011
+Normalized (pointwise) mutual information in collocation extraction
+The rise of crowdsourcing
+The rise of crowdsourcing. Wired magazine
+10.1111/j.1083-6101.2004.tb00228.x
+10.1073/PNAS.0307752101
+10.1016/B978-0-12-411519-4.00006-9
+10.1086/269312

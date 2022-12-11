@@ -1,0 +1,23 @@
+10.18653/v1/2021.findings-acl.248
+10.18653/v1/2021.eacl-main.121
+Topic modelling discourse dynamics in historical newspapers
+10.1145/3388440.3412418
+10.1145/3397271.3401185
+10.1162/tacl_a_00343
+10.18653/v1/2020.acl-main.703
+BERTScore: Evaluating Text Generation with BERT
+Finnish News Agency Archive 1992-2018, CoNLL-U, source (http://urn.fi/urn:nbn:fi:lb-2020031201
+10.3745/JIPS.04.0137
+10.18653/v1/D19-1410
+10.18653/v1/K18-2013
+Attention is All you Need
+10.1017/S0003055417000570
+Automatic Labelling of Topics with Neural Embeddings
+10.1007/978-3-319-28940-3_20
+10.3115/v1/P14-2101
+10.3115/v1/E14-1056
+10.1145/2433396.2433454
+Automatic Labelling of Topic Models
+10.1145/1281192.1281246
+10.1016/B978-0-12-411519-4.00006-9
+Finnish News Agency Archive

@@ -3,3 +3,31 @@
 10.1016/J.IPM.2019.102098
 10.1109/ICASSP.2018.8461377
 10.18653/v1/P18-1189
+Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+Wasserstein Generative Adversarial Networks
+Discovering Discrete Latent Topics with Neural Variational Inference
+10.18653/V1/E17-1076
+Improved Training of Wasserstein GANs
+Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
+Autoencoding Variational Inference For Topic Models
+Adversarial Feature Learning
+Neural Variational Inference for Text Processing
+Character-level Convolutional Networks for Text Classification
+Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+10.1145/2684822.2685324
+Adam: A Method for Stochastic Optimization
+Generative Adversarial Nets
+Auto-Encoding Variational Bayes
+Evaluating Topic Coherence Using Distributional Semantics
+Autoencoding variational bayes
+Rectifier Nonlinearities Improve Neural Network Acoustic Models
+Hidden factors and hidden topics
+Sparse Additive Generative Models of Text
+Automatic Evaluation of Topic Coherence
+Rethinking LDA: Why Priors Matter
+10.1145/1645953.1646003
+Normalized (pointwise) mutual information in collocation extraction
+Supervised Topic Models
+10.1073/PNAS.0307752101
+10.1023/A:1007558615313
+10.1016/B978-0-12-411519-4.00006-9

@@ -1,0 +1,26 @@
+10.1145/3397271.3401185
+10.18653/v1/2020.acl-main.703
+BERTScore: Evaluating Text Generation with BERT
+CTRL: A Conditional Transformer Language Model for Controllable Generation
+RoBERTa: A Robustly Optimized BERT Pretraining Approach
+10.18653/v1/N19-1423
+Language Models are Unsupervised Multitask Learners
+10.1007/978-3-319-91947-8_37
+Attention is All you Need
+10.18653/V1/E17-2111
+10.1145/3130348.3130370
+Automatic Labelling of Topics with Neural Embeddings
+10.1145/2684822.2685324
+Adam: A Method for Stochastic Optimization
+Neural Machine Translation by Jointly Learning to Align and Translate
+Distributed Representations of Sentences and Documents
+Distributed Representations of Words and Phrases and their Compositionality
+Automatic Labelling of Topic Models
+Online Variational Inference for the Hierarchical Dirichlet Process
+Online Learning for Latent Dirichlet Allocation
+10.1145/1281192.1281246
+10.1016/B978-0-12-411519-4.00006-9
+10.1145/582415.582418
+The PageRank Citation Ranking : Bringing Order to the Web
+10.1002/(SICI)1097-4571(199009)41:6%3C391::AID-ASI1%3E3.0.CO;2-9
+Indexing by Latent Semantic Analysis. Journal of the American society for information science

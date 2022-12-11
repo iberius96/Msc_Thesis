@@ -1,0 +1,24 @@
+Results of the WNUT16 Named Entity Recognition Shared Task
+10.18653/v1/S16-1002
+Semi-supervised Sequence Learning
+10.18653/v1/W15-4319
+10.3115/v1/S14-2004
+10.1561/2200000013
+10.5555/1953048.2078195
+Investigating classification for natural language processing tasks
+Introduction to information retrieval (IR)
+Posterior decoding methods for optimization and accuracy control of multiple alignments
+10.1016/j.ipm.2005.09.002
+10.1017/CBO9780511809071
+10.3115/1073445.1073473
+10.1145/860435.860479
+Efficiently Inducing Features of Conditional Random Fields
+10.3115/1118693.1118695
+10.3115/1118693.1118704
+10.1145/601858.601867
+On Discriminative vs
+Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data
+On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes
+Maximum Entropy Markov Models for Information Extraction and Segmentation
+Hidden Markov Models: Fundamentals and Applications Part 1: Markov Chains and Mixture Models
+Hidden Markov Models: Fundamentals and Applications

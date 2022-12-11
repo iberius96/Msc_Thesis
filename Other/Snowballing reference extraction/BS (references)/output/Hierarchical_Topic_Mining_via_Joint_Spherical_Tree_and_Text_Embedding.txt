@@ -1,0 +1,37 @@
+10.1145/3394486.3403244
+10.3389/fdata.2020.00009
+10.1145/3366423.3380284
+Discriminative Topic Mining via Category-Name Guided Text Embedding
+10.1162/tacl_a_00325
+Spherical Text Embedding
+10.1109/ICDM.2019.00098
+10.1609/aaai.v33i01.33016826
+Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs
+Poincaré GloVe: Hyperbolic Word Embeddings
+10.1145/3269206.3271737
+Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry
+Hyperbolic Entailment Cones for Learning Hierarchical Embeddings
+10.1109/TKDE.2018.2812203
+Poincaré Embeddings for Learning Hierarchical Representations
+10.1162/tacl_a_00078
+10.18653/v1/P16-2087
+大規模要約資源としてのNew York Times Annotated Corpus
+10.1609/aaai.v29i1.9522
+10.3115/v1/D14-1162
+10.3115/v1/W14-1618
+Distributed Representations of Sentences and Documents
+Distributed Representations of Words and Phrases and their Compositionality
+SSHLDA: A Semi-Supervised Hierarchical Topic Model
+Pattern Learning for Relation Extraction with a Hierarchical Topic Model
+Incorporating Lexical Priors into Topic Models
+Hierarchically Supervised Latent Dirichlet Allocation
+10.1145/2020408.2020574
+10.1093/pan/mpp034
+10.3115/1621829.1621835
+Visualizing Data using t-SNE
+Supervised Topic Models
+10.1145/1273496.1273576
+10.1145/1143844.1143917
+Hierarchical Topic Models and the Nested Chinese Restaurant Process
+10.1016/B978-0-12-411519-4.00006-9
+10.1145/312624.312649
