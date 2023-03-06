@@ -7689,29 +7689,19 @@ linguistic_research" -> chen_2019_experimental_explorations_on_short_text_topic_
 	kashyap_2022_so_different_yet_so_alike_constrained_unsupervised_text_style_transfer -> john_2018_disentangled_representation_learning_for_non_parallel_text_style_transfer	[pos="e,411.19,747.91 411.47,748.01 411.42,747.99 411.37,747.98 411.33,747.96"];
 	kashyap_2022_so_different_yet_so_alike_constrained_unsupervised_text_style_transfer -> holtzman_2019_the_curious_case_of_neural_text_degeneration	[pos="e,463.32,728.04 463.36,728.13 463.35,728.11 463.35,728.09 463.34,728.08"];
 	kashyap_2022_so_different_yet_so_alike_constrained_unsupervised_text_style_transfer -> krishna_2020_reformulating_unsupervised_style_transfer_as_paraphrase_generation	[pos="e,478.37,704.32 478.37,704.36 478.37,704.35 478.37,704.34 478.37,704.33"];
-	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models"	[height=2,
-		id="shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models",
+	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models"	[height=2,
+		id="shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models",
 		label=shao_2022,
 		shape=circle,
 		width=2];
-	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models" -> srivastava_2017_autoencoding_variational_inference_for_topic_models	[pos="e,473.65,719.25 473.6,719.35 473.61,719.33 473.62,719.31 473.63,719.29"];
-	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models" -> nan_2019_topic_modeling_with_wasserstein_autoencoders	[pos="e,494.96,753.57 494.86,753.6 494.88,753.59 494.9,753.58 494.91,753.58"];
-	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models" -> miao_2017_discovering_discrete_latent_topics_with_neural_variational_inference	[pos="e,482.75,775.57 482.68,775.55 482.69,775.55 482.71,775.56 482.72,775.56"];
-	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models" -> ding_2018_coherence_aware_neural_topic_modeling	[pos="e,521.85,768.01 521.33,768 521.42,768 521.5,768 521.59,768"];
-	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models" -> dieng_2019_topic_modeling_in_embedding_spaces	[pos="e,474.44,702.39 474.42,702.43 474.43,702.42 474.43,702.41 474.43,702.41"];
-	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models" -> wang_2020_neural_topic_modeling_with_bidirectional_adversarial_training	[pos="e,470.1,754.58 470.05,754.61 470.06,754.61 470.07,754.6 470.08,754.6"];
-	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models" -> hu_2020_neural_topic_modeling_with_cycle_consistent_adversarial_training	[pos="e,471.43,766.98 471.38,766.98 471.39,766.98 471.4,766.98 471.41,766.98"];
-	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_\
-models" -> xiong_2018_a_short_text_sentiment_topic_model_for_product_reviews	[pos="e,510.31,728.16 509.82,728.47 509.9,728.42 509.99,728.36 510.07,728.31"];
+	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models" -> srivastava_2017_autoencoding_variational_inference_for_topic_models	[pos="e,473.65,719.25 473.6,719.35 473.61,719.33 473.62,719.31 473.63,719.29"];
+	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models" -> nan_2019_topic_modeling_with_wasserstein_autoencoders	[pos="e,494.96,753.57 494.86,753.6 494.88,753.59 494.9,753.58 494.91,753.58"];
+	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models" -> miao_2017_discovering_discrete_latent_topics_with_neural_variational_inference	[pos="e,482.75,775.57 482.68,775.55 482.69,775.55 482.71,775.56 482.72,775.56"];
+	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models" -> ding_2018_coherence_aware_neural_topic_modeling	[pos="e,521.85,768.01 521.33,768 521.42,768 521.5,768 521.59,768"];
+	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models" -> dieng_2019_topic_modeling_in_embedding_spaces	[pos="e,474.44,702.39 474.42,702.43 474.43,702.42 474.43,702.41 474.43,702.41"];
+	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models" -> wang_2020_neural_topic_modeling_with_bidirectional_adversarial_training	[pos="e,470.1,754.58 470.05,754.61 470.06,754.61 470.07,754.6 470.08,754.6"];
+	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models" -> hu_2020_neural_topic_modeling_with_cycle_consistent_adversarial_training	[pos="e,471.43,766.98 471.38,766.98 471.39,766.98 471.4,766.98 471.41,766.98"];
+	"shao_2022_towards_better_understanding_with_uniformity_and_explicit_regularization_of_embeddings_in_embedding_based_neural_topic_models" -> xiong_2018_a_short_text_sentiment_topic_model_for_product_reviews	[pos="e,510.31,728.16 509.82,728.47 509.9,728.42 509.99,728.36 510.07,728.31"];
 	sia_2021_adaptive_mixed_component_lda_for_low_resource_topic_modeling	[height=2,
 		id=sia_2021_adaptive_mixed_component_lda_for_low_resource_topic_modeling,
 		label=sia_2021,
