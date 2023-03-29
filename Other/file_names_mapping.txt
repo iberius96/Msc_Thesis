@@ -20,7 +20,6 @@ ECIR/978-3-030-99739-7_29 -> Zosa_2022_Multilingual_Topic_Labelling_of_News_Topi
 ECIR/978-3-319-56608-5_40 -> Aletras_2017_Labeling_Topics_with_Images_Using_a_Neural_Network
 
 ECML_PKDD/978-3-030-46147-8_42 -> Ferner_2020_A_Semi-discriminative_Approach_for_Sub-sentence_Level_Topic_Classification_on_a_Small_Dataset
-ECML_PKDD/978-3-319-71249-9_41 -> Barbieri_2017_Survival_Factorization_on_Diffusion_Networks
 
 EMNLP/2020.emnlp-main.45 -> Zhou_2020_Condolence_and_Empathy_in_Online_Communities
 EMNLP/2020.emnlp-main.725 -> Hu_2020_Neural_Topic_Modeling_with_Cycle-Consistent_Adversarial_Training
