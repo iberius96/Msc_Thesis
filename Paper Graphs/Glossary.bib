@@ -77,6 +77,7 @@
 	pages = {547--562},
 	title = {On‐demand recent personal tweets summarization on mobile devices},
 	url = {https://onlinelibrary.wiley.com/doi/10.1002/asi.24137},
+	abstract = {Tweets summarization aims to find a group of representative tweets for a specific set of input tweets or a given topic. In recent times, there have been several research efforts toward devising a variety of techniques to summarize tweets in Twitter. However, these techniques are either not personal (that is, consider only tweets in the timeline of a specific user) or are too expensive to be realized on a mobile device. Given that 80% of active Twitter users access the site on mobile devices, in this article we present a lightweight, personal, on-demand, topic modeling-based tweets summarization engine called TOTEM, designed for such devices. Specifically, TOTEM first preprocesses recent tweets in a user's timeline and exploits Latent Dirichlet Allocation-based topic modeling to assign each preprocessed tweet to a topic. Then it generates a ranked list of relevant tweets, a topic label, and a topic summary for each of the topics. Our experimental study with real-world data sets demonstrates the superiority of TOTEM.},
 	urldate = {2022-11-25},
 	volume = {70},
 	year = {2019},
@@ -85,6 +86,7 @@
 
 @article{symitsi_2020_the_informational_value_of_employee_online_reviews,
 	author = {Efthymia Symitsi and Panagiotis Stamolampros and George Daskalakis and Nikolaos Korfiatis},
+	abstract = {This paper investigates the informational value of online reviews posted by employees for their employer, a rather untapped source of online information from employees, using a sample of 349,550 reviews from 40,915 UK firms. We explore this novel form of electronic Word-of-Mouth (e-WOM) from different perspectives, namely: (i) its information content as a tool to identify the drivers of job satisfaction/dissatisfaction, (ii) its predictive ability on firm financial performance and (iii) its operational and managerial value. Our approach considers both the rating score as well as the review text through a probabilistic topic modeling method, providing also a roadmap to quantify and exploit employee big data analytics. The novelty of this study lies in the coupling of structured and unstructured data for deriving managerial insights through a battery of econometric, financial and operational research methodologies. Our empirical analyses reveal that employee online reviews have informational value and incremental predictability gains for a firm's internal and external stakeholders. The results indicate that when models integrate structured and unstructured big data there are leveraged opportunities for firms and managers to enhance the informativeness of decision support systems and in turn, gain competitive advantage.},
 	date-added = {2023-02-14 15:56:20 +0100},
 	date-modified = {2023-02-14 15:56:20 +0100},
 	journal = {European Finance eJournal},
@@ -206,6 +208,7 @@
 	publisher = {Australasian Language Technology Association},
 	title = {Principled Analysis of Energy Discourse across Domains with Thesaurus-based Automatic Topic Labeling},
 	url = {https://aclanthology.org/2021.alta-1.11},
+	journal = {ALTA},
 	year = {2021},
 	doi = {5333e23c2bcff148da0993c1eaa726cb8eefc930},
 	bdsk-url-1 = {https://aclanthology.org/2021.alta-1.11}}
@@ -356,6 +359,8 @@ Accepted to Findings of EMNLP 2022},
 	url = {https://aclanthology.org/2021.naacl-main.228},
 	urldate = {2022-11-25},
 	year = {2021},
+	journal = {NAACL},
+	abstract = {The flexibility of the inference process in Variational Autoencoders (VAEs) has recently led to revising traditional probabilistic topic models giving rise to Neural Topic Models (NTM). Although these approaches have achieved significant results, surprisingly very little work has been done on how to disentangle the latent topics. Existing topic models when applied to reviews may extract topics associated with writers’ subjective opinions mixed with those related to factual descriptions such as plot summaries in movie and book reviews. It is thus desirable to automatically separate opinion topics from plot/neutral ones enabling a better interpretability. In this paper, we propose a neural topic model combined with adversarial training to disentangle opinion topics from plot and neutral ones. We conduct an extensive experimental assessment introducing a new collection of movie and book reviews paired with their plots, namely MOBO dataset, showing an improved coherence and variety of topics, a consistent disentanglement rate, and sentiment classification performance superior to other supervised topic models.},
 	bdsk-url-1 = {https://aclanthology.org/2021.naacl-main.228},
 	bdsk-url-2 = {10.18653/v1/2021.naacl-main.228}}
 
@@ -380,6 +385,8 @@ Accepted to Findings of EMNLP 2022},
 
 @inproceedings{zhao_2021_adversarial_learning_of_poisson_factorisation_model_for_gauging_brand_sentiment_in_user_reviews,
 	address = {Online},
+	journal = {EACL},
+	abstract = {In this paper, we propose the Brand-Topic Model (BTM) which aims to detect brand-associated polarity-bearing topics from product reviews. Different from existing models for sentiment-topic extraction which assume topics are grouped under discrete sentiment categories such as ‘positive’, ‘negative’ and ‘neural’, BTM is able to automatically infer real-valued brand-associated sentiment scores and generate fine-grained sentiment-topics in which we can observe continuous changes of words under a certain topic (e.g., ‘shaver’ or ‘cream’) while its associated sentiment gradually varies from negative to positive. BTM is built on the Poisson factorisation model with the incorporation of adversarial learning. It has been evaluated on a dataset constructed from Amazon reviews. Experimental results show that BTM outperforms a number of competitive baselines in brand ranking, achieving a better balance of topic coherence and unique-ness, and extracting better-separated polarity-bearing topics.},
 	author = {Zhao, Runcong and Gui, Lin and Pergola, Gabriele and He, Yulan},
 	booktitle = {Proceedings of the 16th {Conference} of the {European} {Chapter} of the {Association} for {Computational} {Linguistics}: {Main} {Volume}},
 	date-added = {2023-02-14 15:09:01 +0100},
@@ -741,6 +748,8 @@ Proceedings of ICLR, 2022},
 
 @inproceedings{hu_2020_neural_topic_modeling_with_cycle_consistent_adversarial_training,
 	address = {Online},
+	abstract = {Advances on deep generative models have attracted significant research interest in neural topic modeling. The recently proposed Adversarial-neural Topic Model models topics with an adversarially trained generator network and employs Dirichlet prior to capture the semantic patterns in latent topics. It is effective in discovering coherent topics but unable to infer topic distributions for given documents or utilize available document labels. To overcome such limitations, we propose Topic Modeling with Cycle-consistent Adversarial Training (ToMCAT) and its supervised version sToMCAT. ToMCAT employs a generator network to interpret topics and an encoder network to infer document topics. Adversarial training and cycle-consistent constraints are used to encourage the generator and the encoder to produce realistic samples that coordinate with each other. sToMCAT extends ToMCAT by incorporating document labels into the topic modeling process to help discover more coherent topics. The effectiveness of the proposed models is evaluated on unsupervised/supervised topic modeling and text classification. The experimental results show that our models can produce both coherent and informative topics, outperforming a number of competitive baselines.},
+	journal = {EMNLP},
 	author = {Hu, Xuemeng and Wang, Rui and Zhou, Deyu and Xiong, Yuxuan},
 	booktitle = {Proceedings of the 2020 {Conference} on {Empirical} {Methods} in {Natural} {Language} {Processing} ({EMNLP})},
 	date-added = {2023-02-14 15:09:01 +0100},
@@ -1650,6 +1659,8 @@ Proceedings of ICLR, 2022},
 	url = {http://aclweb.org/anthology/P18-1189},
 	urldate = {2022-11-25},
 	year = {2018},
+	journal = {ACL},
+	abstract = {Most real-world document collections involve various types of metadata, such as author, source, and date, and yet the most commonly-used approaches to modeling text corpora ignore this information. While specialized models have been developed for particular applications, few are widely used in practice, as customization typically requires derivation of a custom inference algorithm. In this paper, we build on recent advances in variational inference methods and propose a general neural framework, based on topic models, to enable flexible incorporation of metadata and allow for rapid exploration of alternative models. Our approach achieves strong performance, with a manageable tradeoff between perplexity, coherence, and sparsity. Finally, we demonstrate the potential of our framework through an exploration of a corpus of articles about US immigration.},
 	bdsk-url-1 = {http://aclweb.org/anthology/P18-1189},
 	bdsk-url-2 = {10.18653/v1/P18-1189}}
 
@@ -1761,6 +1772,8 @@ Proceedings of ICLR, 2022},
 	language = {en},
 	month = oct,
 	pages = {768--779},
+	journal = {CIKM},
+	abstract = {Two general approaches are common for evaluating automatically generated labels in topic modeling: direct human assessment; or performance metrics that can be calculated without, but still correlate with, human assessment. However, both approaches implicitly assume that the quality of a topic label is single-dimensional. In contrast, this paper provides evidence that human assessments about the quality of topic labels consist of multiple latent dimensions. This evidence comes from human assessments of four simple labeling techniques. For each label, study participants responded to several items asking them to assess each label according to a variety of different criteria. Exploratory factor analysis shows that these human assessments of labeling quality have a two-factor latent structure. Subsequent analysis demonstrates that this multi-item, two-factor assessment can reveal nuances that would be missed using either a single-item human assessment of perceived label quality or established performance metrics. The paper concludes by suggesting future directions for the development of human-centered approaches to evaluating NLP and ML systems more broadly.},
 	publisher = {ACM},
 	shorttitle = {One {Rating} to {Rule} {Them} {All}?},
 	title = {One {Rating} to {Rule} {Them} {All}?: {Evidence} of {Multidimensionality} in {Human} {Assessment} of {Topic} {Labeling} {Quality}},
@@ -2264,6 +2277,7 @@ http://urn.fi/urn:isbn:9789526230146},
 
 @article{rosati_2022_moving_beyond_word_lists_towards_abstractive_topic_labels_for_human_like_topics_of_scientific_documents,
 	abstract = {Topic models represent groups of documents as a list of words (the topic labels). This work asks whether an alternative approach to topic labeling can be developed that is closer to a natural language description of a topic than a word list. To this end, we present an approach to generating human-like topic labels using abstractive multi-document summarization (MDS). We investigate our approach with an exploratory case study. We model topics in citation sentences in order to understand what further research needs to be done to fully operationalize MDS for topic labeling. Our case study shows that in addition to more human-like topics there are additional advantages to evaluation by using clustering and summarization measures instead of topic model measures. However, we find that there are several developments needed before we can design a well-powered study to evaluate MDS for topic modeling fully. Namely, improving cluster cohesion, improving the factuality and faithfulness of MDS, and increasing the number of documents that might be supported by MDS. We present a number of ideas on how these can be tackled and conclude with some thoughts on how topic modeling can also be used to improve MDS in general.},
+	journal = {AACL-IJCNLP},
 	annote = {Other
 Accepted to WIESP @ AACL-IJCNLP},
 	author = {Rosati, Domenic},
@@ -2300,6 +2314,8 @@ Accepted to WIESP @ AACL-IJCNLP},
 	urldate = {2022-11-25},
 	volume = {13186},
 	year = {2022},
+	journal = {Lecture Notes in Computer Science},
+	abstract = {The large volume of news produced daily makes topic modelling useful for analysing topical trends. A topic is usually represented by a ranked list of words but this can be difficult and time-consuming for humans to interpret. Therefore, various methods have been proposed to generate labels that capture the semantic content of a topic. However, there has been no work so far on coming up with multilingual labels which can be useful for exploring multilingual news collections. We propose an ontological mapping method that maps topics to concepts in a language-agnostic news ontology. We test our method on Finnish and English topics and show that it performs on par with state-of-the-art label generation methods, is able to produce multilingual labels, and can be applied to topics from languages that have not been seen during training without any modifications.},
 	bdsk-url-1 = {https://link.springer.com/10.1007/978-3-030-99739-7_29},
 	bdsk-url-2 = {10.1007/978-3-030-99739-7_29}}
 
@@ -2388,6 +2404,8 @@ to appear at ACL 2022 main conference},
 	url = {https://ieeexplore.ieee.org/document/9534093/},
 	urldate = {2022-11-25},
 	year = {2021},
+	journal = {IJCNN},
+	abstract = {The automatic topic labeling model aims at generating a sound, interpretable, and meaningful topic label that is used to interpret an LDA-style discovered topic, intending to reduce the cognitive load of end-users while browsing or investigating the topics. In this study, we first introduced the pre-trained language model BERT to topic labeling tasks. It exploits the contextual embedding of the pre-trained language model to improve the quality of encoding sentences. To generate a topic label with higher Relevance, Coverage, and Discrimination, we propose a novel summarization neural framework. Specifically, it exploits the paired-attention to model the relationship between the candidate sentences first and then decides which sentences should be included in the final summarization topic label. Moreover, we expected that high-quality sentence encoding representation could improve our model's performance. So, for each discovered topic, we trained a specific layer to extract the important topic-related features from the sentence embeddings as well as filter the noise information. The experimental results showed that our model significantly outperforms the state-of-the-art and classic topic labeling models.},
 	bdsk-url-1 = {https://ieeexplore.ieee.org/document/9534093/},
 	bdsk-url-2 = {10.1109/IJCNN52387.2021.9534093}}
 
@@ -2419,6 +2437,7 @@ to appear at ACL 2022 main conference},
 	file = {Full Text:files/1290/Truica and Apostol - 2021 - TLATR Automatic Topic Labeling Using Automatic (D.pdf:application/pdf},
 	issn = {2169-3536},
 	journal = {IEEE Access},
+	abstract = {Topic modeling is a probabilistic graphical model for discovering latent topics in text corpora by using multinomial distributions of topics over words. Topic labeling is used to assign meaningful labels for the discovered topics. In this paper, we present a new topic labeling method that uses automatic term recognition to discover and assign relevant labels for each topic, i.e., TLATR (Topic Labeling using Automatic Term Recognition). TLATR uses domain-specific multi-terms that appear in the set of documents belonging to a topic. The multi-term having the highest score as determined by the automatic term recognition algorithm is chosen as the label for that topic. To evaluate TLATR, we use two real, publicly available datasets that contain scientific articles' abstracts. The topic label evaluation is done both automatically and using human annotators. For the automatic evaluation, we use Pointwise Mutual Information, Normalized Pointwise Mutual Information, and document similarity. For human evaluation, we employ the average rating method. Furthermore, we also evaluate the quality of the topic models using the Adjusted Rand Index. To prove that our novel method extracts relevant topic labels, we compare TLATR with two state-of-the-art methods, one supervised and one unsupervised, provided by the NETL Automatic Topic Labelling system. The experimental results show that our method outperforms or provides similar results with both NETL's supervised and unsupervised approaches.},
 	pages = {76624--76641},
 	shorttitle = {{TLATR}},
 	title = {{TLATR}: {Automatic} {Topic} {Labeling} {Using} {Automatic} ({Domain}-{Specific}) {Term} {Recognition}},
@@ -2440,6 +2459,7 @@ to appear at ACL 2022 main conference},
 	month = nov,
 	pages = {596--608},
 	title = {Automatic topic labeling using graph-based pre-trained neural embedding},
+	abstract = {It is necessary to reduce the cognitive overhead of interpreting the native topic term list of the Latent Dirichlet Allocation (LDA) style topic model. In this regard, automatic topic labeling has become an effective approach to generate meaningful alternative representations of topics discovered for end-users. In this study, we introduced a novel two-phase neural embedding framework with the redundancy-aware graph-based ranking process. It demonstrated how pre-trained neural embedding could be usefully applied in topic terms, sentence presentations, and automatic topic labeling tasks. Moreover, reranking the topic terms optimized the discovered topics with fewer yet more representative terms while retaining the topic information integrality and fidelity. It further decreased the burden of computation caused by neural embedding and improved the overall effectiveness of the labeling system. Compared with the prevailing state-of-the-art and classical labeling systems, our efficient model boosted the quality of the topic labels generated and discovered more meaningful topic labels.},
 	url = {https://linkinghub.elsevier.com/retrieve/pii/S0925231221012686},
 	urldate = {2022-11-25},
 	volume = {463},
@@ -2518,6 +2538,7 @@ to appear at ACL 2022 main conference},
 	urldate = {2022-11-25},
 	volume = {7},
 	year = {2019},
+	abstract = {Generated topic label, an alternative representation of topics learned by topic model, is widely used to help the user interpret the topics more efficiently. A major challenge now is to label a discovered topic accurately in an objective way. This article introduces a novel graph-based ranking model (TLRank), to find a meaningful topic label with high Relevance, Coverage, and Discrimination. The model applies a specific strategy that suppresses or enhances the matrix transition probability according to the textual similarity between vertices (sentences) and the characteristics of vertices respectively. Moreover, to boost diversity and enhance performance, TLRank scores the candidate sentences and refrains redundancy of topic labels simultaneously in a single labeling process. In our experiments, the evaluation results showed that the TLRank model significantly and consistently outperformed the prevailing state-of-the-art and classic models in topic labeling task.},
 	bdsk-url-1 = {https://ieeexplore.ieee.org/document/8831386/},
 	bdsk-url-2 = {10.1109/ACCESS.2019.2940516}}
 
@@ -2537,6 +2558,8 @@ to appear at ACL 2022 main conference},
 	url = {https://aclanthology.org/2021.eacl-main.121},
 	urldate = {2022-11-25},
 	year = {2021},
+	journal = {EACL},
+	abstract = {We propose a novel solution for assigning labels to topic models by using multiple weak labelers. The method leverages generative transformers to learn accurate representations of the most important topic terms and candidate labels. This is achieved by fine-tuning pre-trained BART models on a large number of potential labels generated by state of the art non-neural models for topic labeling, enriched with different techniques. The proposed BART-TL model is able to generate valuable and novel labels in a weakly-supervised manner and can be improved by adding other weak labelers or distant supervision on similar tasks.},
 	bdsk-url-1 = {https://aclanthology.org/2021.eacl-main.121},
 	bdsk-url-2 = {10.18653/v1/2021.eacl-main.121}}
 
@@ -2555,6 +2578,8 @@ to appear at ACL 2022 main conference},
 
 @misc{herzog_2018_transfer_topic_labeling_with_domain_specific_knowledge_base_an_analysis_of_uk_house_of_commons_speeches_1935_2014,
 	author = {Herzog, Alexander and John, Peter and Mikhaylov, Slava Jankin},
+	abstract = {Topic models are widely used in natural language processing, allowing researchers to estimate the underlying themes in a collection of documents. Most topic models use unsupervised methods and hence require the additional step of attaching meaningful labels to estimated topics. This process of manual labeling is not scalable and suffers from human bias. We present a semi-automatic transfer topic labeling method that seeks to remedy these problems. Domain-specific codebooks form the knowledge-base for automated topic labeling. We demonstrate our approach with a dynamic topic model analysis of the complete corpus of UK House of Commons speeches 1935-2014, using the coding instructions of the Comparative Agendas Project to label topics. We show that our method works well for a majority of the topics we estimate; but we also find that institution-specific topics, in particular on subnational governance, require manual input. We validate our results using human expert coding.},
+	journal = {arXiv},
 	copyright = {arXiv.org perpetual, non-exclusive license},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
@@ -2607,24 +2632,23 @@ to appear at ACL 2022 main conference},
 	bdsk-url-2 = {10.1007/s42979-022-01414-4}}
 
 @inproceedings{alokaili_2020_automatic_generation_of_topic_labels,
-	address = {Virtual Event China},
-	author = {Alokaili, Areej and Aletras, Nikolaos and Stevenson, Mark},
-	booktitle = {Proceedings of the 43rd {International} {ACM} {SIGIR} {Conference} on {Research} and {Development} in {Information} {Retrieval}},
-	date-added = {2023-02-14 15:09:01 +0100},
-	date-modified = {2023-02-14 15:09:01 +0100},
-	doi = {10.1145/3397271.3401185},
-	file = {Accepted Version:files/1025/Alokaili et al. - 2020 - Automatic Generation of Topic Labels.pdf:application/pdf},
-	isbn = {978-1-4503-8016-4},
-	language = {en},
-	month = jul,
-	pages = {1965--1968},
-	publisher = {ACM},
-	title = {Automatic {Generation} of {Topic} {Labels}},
-	url = {https://dl.acm.org/doi/10.1145/3397271.3401185},
-	urldate = {2022-11-25},
-	year = {2020},
-	bdsk-url-1 = {https://dl.acm.org/doi/10.1145/3397271.3401185},
-	bdsk-url-2 = {10.1145/3397271.3401185}}
+author = {Alokaili, Areej and Aletras, Nikolaos and Stevenson, Mark},
+journal = {SIGIR},
+title = {Automatic Generation of Topic Labels},
+year = {2020},
+isbn = {9781450380164},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3397271.3401185},
+doi = {10.1145/3397271.3401185},
+abstract = {Topic modelling is a popular unsupervised method for identifying the underlying themes in document collections that has many applications in information retrieval. A topic is usually represented by a list of terms ranked by their probability but, since these can be difficult to interpret, various approaches have been developed to assign descriptive labels to topics. Previous work on the automatic assignment of labels to topics has relied on a two-stage approach: (1) candidate labels are retrieved from a large pool (e.g. Wikipedia article titles); and then (2) re-ranked based on their semantic similarity to the topic terms. However, these extractive approaches can only assign candidate labels from a restricted set that may not include any suitable ones. This paper proposes using a sequence-to-sequence neural-based approach to generate labels that does not suffer from this limitation. The model is trained over a new large synthetic dataset created using distant supervision. The method is evaluated by comparing the labels it generates to ones rated by humans.},
+booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {1965–1968},
+numpages = {4},
+keywords = {neural network, topic representation, topic modeling},
+location = {Virtual Event, China},
+series = {SIGIR '20}
+}
 
 @inproceedings{sorodoc_2017_multimodal_topic_labelling,
 	address = {Valencia, Spain},
@@ -2641,6 +2665,8 @@ to appear at ACL 2022 main conference},
 	url = {http://aclweb.org/anthology/E17-2111},
 	urldate = {2022-11-25},
 	year = {2017},
+	journal = {EACL},
+	abstract = {Topics generated by topic models are typically presented as a list of topic terms. Automatic topic labelling is the task of generating a succinct label that summarises the theme or subject of a topic, with the intention of reducing the cognitive load of end-users when interpreting these topics. Traditionally, topic label systems focus on a single label modality, e.g. textual labels. In this work we propose a multimodal approach to topic labelling using a simple feedforward neural network. Given a topic and a candidate image or textual label, our method automatically generates a rating for the label, relative to the topic. Experiments show that this multimodal approach outperforms single-modality topic labelling systems.},
 	bdsk-url-1 = {http://aclweb.org/anthology/E17-2111},
 	bdsk-url-2 = {10.18653/v1/E17-2111}}
 
@@ -3965,6 +3991,8 @@ To appear at Findings of EMNLP 2022},
 
 @inproceedings{meng_2020_hierarchical_topic_mining_via_joint_spherical_tree_and_text_embedding,
 	address = {Virtual Event CA USA},
+	abstract = {KDD},
+	journal = {Mining a set of meaningful topics organized into a hierarchy is intuitively appealing since topic correlations are ubiquitous in massive text corpora. To account for potential hierarchical topic structures, hierarchical topic models generalize flat topic models by incorporating latent topic hierarchies into their generative modeling process. However, due to their purely unsupervised nature, the learned topic hierarchy often deviates from users' particular needs or interests. To guide the hierarchical topic discovery process with minimal user supervision, we propose a new task, Hierarchical Topic Mining, which takes a category tree described by category names only, and aims to mine a set of representative terms for each category from a text corpus to help a user comprehend his/her interested topics. We develop a novel joint tree and text embedding method along with a principled optimization procedure that allows simultaneous modeling of the category tree structure and the corpus generative process in the spherical space for effective category-representative term discovery. Our comprehensive experiments show that our model, named JoSH, mines a high-quality set of hierarchical topics with high efficiency and benefits weakly-supervised hierarchical text classification tasks.},
 	author = {Meng, Yu and Zhang, Yunyi and Huang, Jiaxin and Zhang, Yu and Zhang, Chao and Han, Jiawei},
 	booktitle = {Proceedings of the 26th {ACM} {SIGKDD} {International} {Conference} on {Knowledge} {Discovery} \& {Data} {Mining}},
 	date-added = {2023-02-14 15:09:01 +0100},
@@ -4416,6 +4444,8 @@ Github Repo: https://github.com/zhoushengisnoob/DeepClustering},
 @inproceedings{huang_2020_corel_seed_guided_topical_taxonomy_construction_by_concept_learning_and_relation_transferring,
 	address = {Virtual Event CA USA},
 	author = {Huang, Jiaxin and Xie, Yiqing and Meng, Yu and Zhang, Yunyi and Han, Jiawei},
+	journal = {KDD},
+	abstract = {Taxonomy is not only a fundamental form of knowledge representation, but also crucial to vast knowledge-rich applications, such as question answering and web search. Most existing taxonomy construction methods extract hypernym-hyponym entity pairs to organize a "universal" taxonomy. However, these generic taxonomies cannot satisfy user's specific interest in certain areas and relations. Moreover, the nature of instance taxonomy treats each node as a single word, which has low semantic coverage for people to fully understand. In this paper, we propose a method for seed-guided topical taxonomy construction, which takes a corpus and a seed taxonomy described by concept names as input, and constructs a more complete taxonomy based on user's interest, wherein each node is represented by a cluster of coherent terms. Our framework, CoRel, has two modules to fulfill this goal. A relation transferring module learns and transfers the user's interested relation along multiple paths to expand the seed taxonomy structure in width and depth. A concept learning module enriches the semantics of each concept node by jointly embedding the taxonomy and text. Comprehensive experiments conducted on real-world datasets show that CoRel generates high-quality topical taxonomies and outperforms all the baselines significantly.},
 	booktitle = {Proceedings of the 26th {ACM} {SIGKDD} {International} {Conference} on {Knowledge} {Discovery} \& {Data} {Mining}},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
@@ -4645,6 +4675,7 @@ Github Repo: https://github.com/zhoushengisnoob/DeepClustering},
 @article{yoo_2023_exploring_the_nexus_between_food_and_vegn_lifestyle_via_text_mining_based_online_community_analytics,
 	author = {Yoo, Ra and Kim, Seo-Young and Kim, Do-Hee and Kim, Jiyoung and Jeon, Ye Ji and Park, Jung Han Yoon and Lee, Ki Won and Yang, Hee},
 	date-added = {2023-02-14 15:09:01 +0100},
+	abstract = {Attention towards veg*nism is increasing as the impact of food choices on health and sustainability as well as ethical concerns regarding animal welfare emerge. Although online user analysis is an effective tool to obtain practical insights without geographical constraints, implementation on a large veg*n population has been carried out within a limited scope. This study investigated two veg*n subreddits, r/Vegan and r/Vegetarian, using multiple text mining techniques to classify users' interests and preferences. Based on K-means and term frequency-inverse document frequency, six clusters were identified: Food, Perception, Health, Altruism, Emotion, and Situation. The proportion of each cluster and keywords representing the clusters were obtained. Being a major sector, further assessment of the Food cluster was conducted using Latent Dirichlet Allocation topic modeling technique. Confusion was observed in relation to being pressured with sudden changes in dietary patterns, including meal composition, preparation, and shopping routines. The results also revealed barriers to transition for individuals who have recently started veg*n diets, and those wishing to switch to stricter dietary patterns. In addition to difficulties relating to economic and social aspects, our findings suggest that the establishment of detailed guidelines may help accommodate the various dietary compositions across the veg*n spectrum, and clear information relating to veg*n food products is needed from manufacturers.},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.foodqual.2022.104714},
 	issn = {09503293},
@@ -5505,7 +5536,6 @@ Github Repo: https://github.com/zhoushengisnoob/DeepClustering},
 	bdsk-url-1 = {https://aclanthology.org/2022.lrec-1.674}}
 
 @inproceedings{austin_2022_community_topic_topic_model_inference_by_consecutive_word_community_discovery,
-	abstract = {We present our novel, hyperparameter-free topic modelling algorithm, Community Topic. Our algorithm is based on mining communities from term co-occurrence networks. We empirically evaluate and compare Community Topic with Latent Dirichlet Allocation and the recently developed top2vec algorithm. We find that Community Topic runs faster than the competitors and produces topics that achieve higher coherence scores. Community Topic can discover coherent topics at various scales. The network representation used by Community Topic results in a natural relationship between topics and a topic hierarchy. This allows sub- and super-topics to be found on demand. These features make Community Topic the ideal tool for downstream applications such as applied research and conversational agents.},
 	address = {Gyeongju, Republic of Korea},
 	author = {Austin, Eric and Za{\"\i}ane, Osmar R. and Largeron, Christine},
 	booktitle = {Proceedings of the 29th International Conference on Computational Linguistics},
@@ -5516,6 +5546,8 @@ Github Repo: https://github.com/zhoushengisnoob/DeepClustering},
 	publisher = {International Committee on Computational Linguistics},
 	title = {Community Topic: Topic Model Inference by Consecutive Word Community Discovery},
 	url = {https://aclanthology.org/2022.coling-1.81},
+	journal = {COLING},
+	abstract = {We present our novel, hyperparameter-free topic modelling algorithm, Community Topic. Our algorithm is based on mining communities from term co-occurrence networks. We empirically evaluate and compare Community Topic with Latent Dirichlet Allocation and the recently developed top2vec algorithm. We find that Community Topic runs faster than the competitors and produces topics that achieve higher coherence scores. Community Topic can discover coherent topics at various scales. The network representation used by Community Topic results in a natural relationship between topics and a topic hierarchy. This allows sub- and super-topics to be found on demand. These features make Community Topic the ideal tool for downstream applications such as applied research and conversational agents.},
 	year = {2022},
 	doi = {cc9f075a645aa8517dab9b59075bda42ea5d942d},
 	bdsk-url-1 = {https://aclanthology.org/2022.coling-1.81}}
@@ -6289,6 +6321,7 @@ Keywords: data mining, social media mining, big data, sentiment analysis, decisi
 	bdsk-url-2 = {10.1108/IJICC-03-2022-0065}}
 
 @article{meena_2022_online_food_delivery_companies_performance_and_consumers_expectations_during_covid_19_an_investigation_using_machine_learning_approach,
+	abstract = {Online food delivery (OFD) businesses flourished during COVID-19; however, OFD companies experienced different challenges and customers' expectations. This paper uses social media data to explore OFD companies' performance and customers' expectations during the COVID-19 pandemic. The most important topics in developed and developing countries are identified using machine learning. Results show that customers in India are more concerned about social responsibility, while financial aspects are more important in the US. Overall, customers in India are more satisfied with OFD companies during the COVID-19 pandemic than the US customers. We further find that factors such as OFD companies' brand, market size, country, and COVID-19 waves play a crucial role in moderating customer sentiment. The results of the study offer several managerial insights.},
 	author = {Meena, Purushottam and Kumar, Gopal},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
@@ -7621,6 +7654,7 @@ Keywords: data mining, social media mining, big data, sentiment analysis, decisi
 
 @article{chung_2022_understanding_music_streaming_services_via_text_mining_of_online_customer_reviews,
 	author = {Chung, Jaemin and Lee, Jiho and Yoon, Janghyeok},
+	abstract = {With the development of information technology, the subscription economy and streaming service market have grown rapidly. In particular, music streaming services have disrupted the traditional music industry. Nevertheless, few attempts have been made to understand music streaming services in terms of overall customer satisfaction. This study analyzes social media data to investigate the determinants of customer satisfaction in music streaming services. Topic modeling and text regression were applied to online app reviews for five music streaming services. This study finds that customers comment on factors related to usage environments, price plans, and content. All environment-related factors, some pricing-related factors, and content-related factors have a significant effect on customer satisfaction. In addition, the satisfaction determinants differ for each service. This study is an early attempt to analyze music streaming services from a data-driven perspective and contributes to a comprehensive understanding of music streaming services from the customer's point of view.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.elerap.2022.101145},
@@ -8492,6 +8526,7 @@ Keywords: data mining, social media mining, big data, sentiment analysis, decisi
 
 @article{chen_2020_detecting_latent_topics_and_trends_in_educational_technologies_over_four_decades_using_structural_topic_modeling_a_retrospective_of_all_volumes_of_computers__education,
 	author = {Chen, Xieling and Zou, Di and Cheng, Gary and Xie, Haoran},
+	abstract = {Computers & Education has been leading the field of computers in education for over 40 years, during which time it has developed into a well-known journal with significant influences on the educational technology research community. Questions such as “in what research topics were the academic community of Computers & Education interested?” “how did such research topics evolve over time?” and “what were the main research concerns of its major contributors?” are important to both the editorial board and readership of Computers & Education. To address these issues, this paper conducted a structural topic modeling analysis of 3963 articles published in Computers & Education between 1976 and 2018 bibliometrically. A structural topic model was used to profile the research hotspots. By further exploring annual topic proportion trends and topic correlations, potential future research directions and inter-topic research areas were identified. The major research concerns of the publications in Computers & Education by prolific countries/regions were shown and compared. Thus, this work provided useful insights and implications, and it could be used as a guide for contributors to Computers & Education.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.compedu.2020.103855},
@@ -9519,6 +9554,7 @@ Keywords: data mining, social media mining, big data, sentiment analysis, decisi
 
 @article{aman_2021_listen_to_e_scooter_riders_mining_rider_satisfaction_factors_from_app_store_reviews,
 	author = {Aman, Javad J.C. and Smith-Colin, Janille and Zhang, Wenwen},
+	abstract = {In this study, app store reviews from two major micromobility companies are investigated using machine learning techniques to identify the factors that influence rider satisfaction. The Latent Dirichlet Allocation model is applied to over 12,000 rider-generated reviews to identify twelve topics discussed within the reviews. These topics cover areas such as pricing, safety, customer service, map, refund, payment, app interface, and ease of use, to name a few. Using logistic regression, the most significant factors influencing rider satisfaction were identified. Moreover, name-centered gender prediction analysis is employed to identify rider gender and then discover differences in review content and factors of satisfaction across gender. Results suggest rider satisfaction levels tend to vary across topics and gender. Women were more satisfied with the services and exhibited more positive sentiment than men. Yet, scooter is still a male dominated mode of transportation. Findings contribute to the existing literature by demonstrating the use of app store reviews in a transportation mobility study. The development of a method to assess factors contributing to rider satisfaction offers the ability to evaluate e-scooter rider needs and barriers. An apparent policy opportunity to increase scooter ridership includes an emphasis on contributing factors such as ease of use, safety (speed and riding lane), as well as app issues that showed significant influence on user satisfaction. It is recommended that a policy approach focused on improving rider satisfaction and delivering service improvements incorporate opinion mining as a methodology.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.trd.2021.102856},
@@ -11162,6 +11198,7 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 
 @article{wahid_2022_topic2labels_a_framework_to_annotate_and_classify_the_social_media_data_through_lda_topics_and_deep_learning_models_for_crisis_response,
 	author = {Wahid, Junaid Abdul and Shi, Lei and Gao, Yufei and Yang, Bei and Wei, Lin and Tao, Yongcai and Hussain, Shabir and Ayoub, Muhammad and Yagoub, Imam},
+	abstract = {The abundant use of social media impacts every aspect of life, including crisis management. Disaster management needs real-time data to be used in machine learning and deep learning models to aid their decision making. Mostly the data that is newly generated from social media is unstructured and unlabeled. Current text classification models based on supervised deep learning models heavily rely on human-labeled data that very small size and imbalanced in the context of disasters, ultimately affecting the generalization of models. In this study, we propose Topic2labels (T2L) framework which provides an automated way of labeling the data through LDA (latent dirichlet allocation) topic modeling approach and utilize Bert (the bidirectional encoder representation from transformer) embeddings for construction of feature vector to be employed to classify the data contextually. Our framework consists of three layers. In the first layer, we adopt LDA to generate the topics from the data, and develop a new algorithm to rank the topics, and map the highest ranked dominant topic into label to annotate the data. In the second layer, we transform the labeled text into feature representation through Bert embeddings and in the third layer we leveraged deep learning models as classifiers to classify the textual data into multiple categories. Experimental results on crisis-related datasets show that our framework performs better in terms of classification performance and yields improvement as compared to other baseline approaches.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.eswa.2022.116562},
@@ -11658,6 +11695,8 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 	file = {Full Text:files/424/Doogan and Buntine - 2021 - Topic Model or Topic Twaddle Re-evaluating Semant.pdf:application/pdf},
 	language = {en},
 	pages = {3824--3848},
+	journal = {NAACL},
+	abstract = {When developing topic models, a critical question that should be asked is: How well will this model work in an applied setting? Because standard performance evaluation of topic interpretability uses automated measures modeled on human evaluation tests that are dissimilar to applied usage, these models’ generalizability remains in question. In this paper, we probe the issue of validity in topic model evaluation and assess how informative coherence measures are for specialized collections used in an applied setting. Informed by the literature, we propose four understandings of interpretability. We evaluate these using a novel experimental framework reflective of varied applied settings, including human evaluations using open labeling, typical of applied research. These evaluations show that for some specialized collections, standard coherence measures may not inform the most appropriate topic model or the optimal number of topics, and current interpretability performance validation methods are challenged as a means to confirm model quality in the absence of ground truth data.},
 	publisher = {Association for Computational Linguistics},
 	shorttitle = {Topic {Model} or {Topic} {Twaddle}?},
 	title = {Topic {Model} or {Topic} {Twaddle}? {Re}-evaluating {Semantic} {Interpretability} {Measures}},
@@ -11979,6 +12018,8 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 	month = {10},
 	title = {What matters most to patients? On the Core Determinants of Patient Experience from Free Text Feedback},
 	doi = {da26e4e97384db8305384b55236fe96fcf1d8202},
+	abstract = {Free-text feedback from patients is increasingly used for improving the quality of healthcare services and systems. A major reason for the growing interest in harnessing free-text feedback is the belief that it provides richer information about what patients want and care about. The use of computational approaches such as structural topic modelling for analysing large unstructured textual data such as free-text feedback from patients has also been gain traction lately. However, its use for generating insights is constrained by the apparent lack of statistical rigour and explanatory capability required for credible evidence in decision making. From the theoretical perspective, theory-building from unstructured textual data is also currently problematic in IS and health service research. This study presents an approach to address this challenge by integrating text analytics, predictive and quantitative models as part of a computational grounded theory approach to determine factors that significantly determine overall patient experience.},
+	journal = {ICIS},
 	year = {2021}}
 
 @article{polat_2022_analysis_of_fine_dining_restaurant_reviews_for_perception_of_customers_restaurant_service_quality,
@@ -12438,6 +12479,7 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 
 @article{chen_2022_a_decade_of_sentic_computing_topic_modeling_and_bibliometric_analysis,
 	author = {Chen, Xieling and Xie, Haoran and Cheng, Gary and Li, Zongxi},
+	abstract = {Research on sentic computing has received intensive attention in recent years, as indicated by the increased availability of academic literature. However, despite the growth in literature and researchers’ interests, there are no reviews on this topic. This study comprehensively explores the current research progress and tendencies, particularly the thematic structure of sentic computing, to provide insights into the issues addressed during the past decade and the potential future of sentic computing. We combined bibliometric analysis and structural topic modeling to examine sentic computing literature in various aspects, including the tendency of annual article count, top journals, countries/regions, institutions, and authors, the scientific collaborations between major contributors, as well as the major topics and their tendencies. We obtained interesting and meaningful findings. For example, sentic computing has attracted growing interest in academia. In addition, Cognitive Computation and Nanyang Technological University were found to be the most productive journal and institution in publishing sentic computing studies, respectively. Moreover, important issues such as cyber issues and public opinion, deep neural networks and personality, financial applications and user profiles, and affective and emotional computing have been commonly addressed by authors focusing on sentic computing. Our study provides a thorough overview of sentic computing, reveals major concerns among scholars during the past decade, and offers insights into the future directions of sentic computing research.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1007/s12559-021-09861-6},
@@ -12479,6 +12521,7 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 @article{kim_2020_word2vec_based_latent_semantic_analysis_w2v_lsa_for_topic_modeling_a_study_on_blockchain_technology_trend_analysis,
 	author = {Kim, Suhyeon and Park, Haecheong and Lee, Junghye},
 	date-added = {2023-02-14 15:09:01 +0100},
+	abstract = {Blockchain has become one of the core technologies in Industry 4.0. To help decision-makers establish action plans based on blockchain, it is an urgent task to analyze trends in blockchain technology. However, most of existing studies on blockchain trend analysis are based on effort demanding full-text investigation or traditional bibliometric methods whose study scope is limited to a frequency-based statistical analysis. Therefore, in this paper, we propose a new topic modeling method called Word2vec-based Latent Semantic Analysis (W2V-LSA), which is based on Word2vec and Spherical k-means clustering to better capture and represent the context of a corpus. We then used W2V-LSA to perform an annual trend analysis of blockchain research by country and time for 231 abstracts of blockchain-related papers published over the past five years. The performance of the proposed algorithm was compared to Probabilistic LSA, one of the common topic modeling techniques. The experimental results confirmed the usefulness of W2V-LSA in terms of the accuracy and diversity of topics by quantitative and qualitative evaluation. The proposed method can be a competitive alternative for better topic modeling to provide direction for future research in technology trend analysis and it is applicable to various expert systems related to text mining.},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.eswa.2020.113401},
 	file = {Full Text:files/1245/Kim et al. - 2020 - Word2vec-based latent semantic analysis (W2V-LSA) .pdf:application/pdf},
@@ -12636,6 +12679,7 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 
 @article{ding_2020_employing_structural_topic_modelling_to_explore_perceived_service_quality_attributes_in_airbnb_accommodation,
 	author = {Ding, Kai and Choo, Wei Chong and Ng, Keng Yap and Ng, Siew Imm},
+	abstract = {This study employs the structural topic model to extract service quality attributes from 242,020 Airbnb reviews in Malaysia. 22 service related topics were extracted from the corpus and four topics have not appeared in previous Airbnb studies. A widely used modified SERVQUAL questionnaire (MSQ) is cross-validated in this study by comparing its service quality attributes with the results of the topic modelling, which indicates that this MSQ can cover general Airbnb service quality attributes. This study also examines the different preferences of Malaysian and international Airbnb users and the changing patterns of the top six service quality attributes during a five-year period. The findings reveal that Malaysian Airbnb users care more about the appearance and location of the property, and international Airbnb users pay more attention to whether the property can accommodate a group of people. In addition, communication with the host is found to play an increasingly important role in Airbnb users’ lodging experiences.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.ijhm.2020.102676},
@@ -12845,6 +12889,7 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 	number = {6},
 	pages = {1097--1129},
 	title = {A {Structural} {Topic} {Modeling}-{Based} {Bibliometric} {Study} of {Sentiment} {Analysis} {Literature}},
+	abstract = {Sentiment analysis is an increasingly evolving field of research in computer science. With the considerable number of studies on innovative sentiment analysis available, it is worth the effort to present a review to understand the research on sentiment analysis comprehensively. This study aimed to investigate issues involved in sentiment analysis; for instance, (1) What types of research topics had been covered in sentiment analysis research? (2) How did the research topics evolve with time? (3) What were the topic distributions for major contributors? (4) How did major contributors collaborate in sentiment analysis research? Based on articles retrieved from the Web of Science, this study presented a bibliometric review of sentiment analysis with the basis of a structural topic modeling method to obtain an extensive overview of the research field. We also utilized methods such as regression analysis, geographic visualization, social network analysis, and the Mann–Kendal trend test. Sentiment analysis research had, overall, received a growing interest in academia. In addition, institutions and authors within the same countries/regions were liable to collaborate closely. Highly discussed topics were sentiment lexicons and knowledge bases, aspect-based sentiment analysis, and social network analysis. Several current and potential future directions, such as deep learning for natural language processing, web services, recommender systems and personalization, and education and social issues, were revealed. The findings provided a thorough understanding of the trends and topics regarding sentiment analysis, which could help in efficiently monitoring future research works and projects. Through this study, we proposed a framework for conducting a comprehensive bibliometric analysis.},
 	url = {https://link.springer.com/10.1007/s12559-020-09745-1},
 	urldate = {2022-11-25},
 	volume = {12},
@@ -12854,6 +12899,7 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 
 @article{stamolampros_2020_harnessing_the_wisdom_of_employees_from_online_reviews,
 	author = {Stamolampros, Panagiotis and Korfiatis, Nikolaos and Chalvatzis, Konstantinos and Buhalis, Dimitrios},
+	abstract = {.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.annals.2019.02.012},
@@ -12891,6 +12937,7 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 
 @article{stamolampros_2019_job_satisfaction_and_employee_turnover_determinants_in_high_contact_services_insights_from_employeesonline_reviews,
 	author = {Stamolampros, Panagiotis and Korfiatis, Nikolaos and Chalvatzis, Konstantinos and Buhalis, Dimitrios},
+	abstract = {We explore a special case of electronic word of mouth that of employees' online reviews to study the determinants of job satisfaction and employee turnover. We perform our analysis using a novel dataset of 297,933 employee online reviews from 11,975 US tourism and hospitality firms, taking advantage of both the review score and text. Leadership and cultural values are found to be better predictors of high employee satisfaction, while career progression is critical for employee turnover. One unit increase in the rating for career progression reduces the likelihood of an employee to leave a company by 14.87%. Additionally, we quantify the effect of job satisfaction on firm profitability, where one unit increase leads to an increase between 1.2 and 1.4 in ROA. We do not find evidence supporting the reverse relationship, that growth on firm profitability increases job satisfaction. The feedback to management in employee reviews provides specific managerial implications.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.tourman.2019.04.030},
@@ -13095,6 +13142,7 @@ Conclusion. Based on the findings, there are nine essential topics in the develo
 
 @article{luo_2020_topic_modelling_for_theme_park_online_reviews_analysis_of_disneyland,
 	author = {Luo, Jian Ming and Vu, Huy Quan and Li, Gang and Law, Rob},
+	abstract = {This study introduces topic modelling into the analysis of theme park online reviews to determine visitor behaviour and experiences. An exploratory analysis involving major Disneyland theme parks is presented using a large-scale review data set. A comprehensive list of the topics discussed by visitors when visiting Disneyland theme parks is constructed. Insights into the interests and concerns of various visitor groups across theme parks are revealed. The proposed approach and findings are beneficial to support theme park managers in understanding visitors’ perception, through which effective marketing and improvement plans can be developed to attract and retain future customers.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1080/10548408.2020.1740138},
@@ -16258,6 +16306,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{hagen_2019_open_data_visualizations_and_analytics_as_tools_for_policy_making,
 	author = {Hagen, Loni and Keller, Thomas E. and Yerden, Xiaoyi and Luna-Reyes, Luis Felipe},
+	abstract = {Government agencies collect large amounts of structured and unstructured data. Although these data can be used to improve services as well as policy processes, it is not always clear how to analyze the data and how to glean insights for policy making, especially when the data includes large volumes of unstructured text data. This article reports opinions found in “We the People” petition data using topic modeling and visual analytics. It provides an assessment of the usability of the visual analytics results for policy making based on interviews with data professionals and policy makers. We found that visual analytics have potentially positive impacts on policy making practices. Experts also articulated potential barriers regarding the adoption of visual analytics tools, and made suggestions. Potential barriers included insufficient resources in government agencies and difficulty integrating analytics with current work practices. The main suggestions involved providing training and interpretation guidelines along with the visual analytics tools. Major contributions of this study include: (1) suggesting viable visualization tools for analyzing textual data for policy making, and (2) suggesting how to lower barriers to adoption by increasing usability.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.giq.2019.06.004},
@@ -16338,6 +16387,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{ebadi_2021_understanding_the_temporal_evolution_of_covid_19_research_through_machine_learning_and_natural_language_processing,
 	author = {Ebadi, Ashkan and Xi, Pengcheng and Tremblay, St{\'e}phane and Spencer, Bruce and Pall, Raman and Wong, Alexander},
+	abstract = {The outbreak of the novel coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been continuously affecting human lives and communities around the world in many ways, from cities under lockdown to new social experiences. Although in most cases COVID-19 results in mild illness, it has drawn global attention due to the extremely contagious nature of SARS-CoV-2. Governments and healthcare professionals, along with people and society as a whole, have taken any measures to break the chain of transition and flatten the epidemic curve. In this study, we used multiple data sources, i.e., PubMed and ArXiv, and built several machine learning models to characterize the landscape of current COVID-19 research by identifying the latent topics and analyzing the temporal evolution of the extracted research themes, publications similarity, and sentiments, within the time-frame of January–May 2020. Our findings confirm the types of research available in PubMed and ArXiv differ significantly, with the former exhibiting greater diversity in terms of COVID-19 related issues and the latter focusing more on intelligent systems/tools to predict/diagnose COVID-19. The special attention of the research community to the high-risk groups and people with complications was also confirmed.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1007/s11192-020-03744-7},
@@ -16717,6 +16767,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{huang_2022_identification_of_topic_evolution_network_analytics_with_piecewise_linear_representation_and_word_embedding,
 	author = {Huang, Lu and Chen, Xiang and Zhang, Yi and Wang, Changtian and Cao, Xiaoli and Liu, Jiarun},
+	abstract = {Understanding the evolutionary relationships among scientific topics and learning the evolutionary process of innovations is a crucial issue for strategic decision makers in governments, firms and funding agencies when they carry out forward-looking research activities. However, traditional co-word network analysis on topic identification cannot effectively excavate semantic relationship from the context, and fixed time window method cannot scientifically reflect the evolution process of topics. This study proposes a framework of identifying topic evolutionary pathways based on network analytics: Firstly, keyword networks are constructed, in which a piecewise linear representation method is used for dividing time periods and a Word2Vec mode is used for capturing semantics from the context of titles and abstracts; Secondly, a community detection algorithm is used to identify topics in networks; Finally, evolutionary relationships between topics are represented by measuring the topic similarity between adjacent time periods, and then topic evolutionary pathways are identified and visualized. An empirical study on information science demonstrates the reliability of the methodology, with subsequent empirical validations.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1007/s11192-022-04273-1},
@@ -17062,6 +17113,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{zhang_2021_topic_evolution_disruption_and_resilience_in_early_covid_19_research,
 	author = {Zhang, Yi and Cai, Xiaojing and Fry, Caroline V. and Wu, Mengjia and Wagner, Caroline S.},
+	abstract = {The COVID-19 pandemic presented a challenge to the global research community as scientists rushed to find solutions to the devastating crisis. Drawing expectations from resilience theory, this paper explores how the trajectory of and research community around the coronavirus research was affected by the COVID-19 pandemic. Characterizing epistemic clusters and pathways of knowledge through extracting terms featured in articles in early COVID-19 research, combined with evolutionary pathways and statistical analysis, the results reveal that the pandemic disrupted existing lines of coronavirus research to a large degree. While some communities of coronavirus research are similar pre- and during COVID-19, topics themselves change significantly and there is less cohesion amongst early COVID-19 research compared to that before the pandemic. We find that some lines of research revert to basic research pursued almost a decade earlier, whilst others pursue brand new trajectories. The epidemiology topic is the most resilient among the many subjects related to COVID-19 research. Chinese researchers in particular appear to be driving more novel research approaches in the early months of the pandemic. The findings raise questions about whether shifts are advantageous for global scientific progress, and whether the research community will return to the original equilibrium or reorganize into a different knowledge configuration.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1007/s11192-021-03946-7},
@@ -18882,6 +18934,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{alp_2019_influence_factorization_for_identifying_authorities_in_twitter,
 	author = {Alp, Zeynep Zengin and {\"O}{\u g}{\"u}d{\"u}c{\"u}, {\c S}ule G{\"u}nd{\"u}z},
+	abstract = {Prevalent usage of social media attracted companies and researchers to analyze its dynamics and effects on user behavior. One of the most intriguing aspects of social networks is to identify influencers who are experts on a specific topic. With the identification of these users within the network, many applications can be built for user recommendation, information diffusion modeling, viral marketing, user modeling and many more. In this paper, we aim to identify topic-based experts using a large dataset collected from Twitter. Our proposed approach has three phases: (1) identification of topics on social media posts (more specifically, tweets), (2) user modeling, based on a group of user specific features, and (3) Influence Factorization to identify topical influencers. The main advantage of the proposed method is to identify future influencers as well as current ones on Twitter. Moreover, it is an easy to implement algorithm using Spark MLlib, which can be easily extended to include other user specific features, and compare with other methodologies. The effectiveness of the proposed method is tested on a large dataset that contains tweets of 180K user over 70 day period. The experimental results show that our proposed method identifies influencers successfully when used with a hybrid user specific feature that contains follower count and authenticity information, and is a highly scalable and extensible algorithm.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.knosys.2018.10.020},
@@ -21809,6 +21862,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{chen_2020_a_topic_sensitive_trust_evaluation_approach_for_users_in_online_communities,
 	author = {Chen, Xu and Yuan, Yuyu and Orgun, Mehmet Ali and Lu, Lilei},
+	abstract = {In order to facilitate human decision making, trust evaluation has received widespread attention in many fields, especially for online services. Most of the existing methods consider trust in a person as a value which does not vary across different scenarios without any attention to the distinction of domains or communities where trust is derived. However, the notion of context is a significant and indispensable factor for trust evaluation in practice. Due to the lack of the consideration of context, traditional methods cannot resolve the issue that arises when a highly trustworthy person in one domain is likely to dominate the results of trust assessment in others where the person is in fact less authoritative. To solve this problem, in this paper, we develop a general approach to accomplish topic-sensitive trust evaluation by considering the context of trust. We first propose a general framework which presents the well-organized architecture of topic-sensitive trust evaluation in online communities. Then, a user-topic model is proposed to automatically extract topic data from user-generated content based on the Labeled Latent Dirichlet Allocation (LLDA) model. To compare the topic differences between users, we design a topic coverage function for revealing their trust relationships in diverse topics. Moreover, we employ two traditional methods and extend them to accomplish trust prediction for people with multiple domain knowledge. Experiments based on a real-world dataset show that extended topic-sensitive approaches are more adaptive and accurate than those topic-free trust evaluation approaches, especially when the trust application scenario features multiple topics.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1016/j.knosys.2020.105546},
@@ -22110,6 +22164,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{jebari_2021_the_use_of_citation_context_to_detect_the_evolution_of_research_topics_a_large_scale_analysis,
 	author = {Jebari, Chaker and Herrera-Viedma, Enrique and Cobo, Manuel Jesus},
+	abstract = {With the exponential increase in the number of published papers, discovering how topics evolve becomes increasingly important for anybody involved in research, including researchers, institutes, research funding bodies, and decision-makers. This study proposes a large-scale analysis of the evolution of biomedical and life sciences using the citation contexts of the collected papers, or more precisely their citing sentences. Using 64,350 papers published in PubMed Central between 2008 and 2018, we determined the research trends for ten research topics. Moreover, we studied how these topics evolve across countries and across the most common journals in biomedical and life sciences.},
 	date-added = {2023-02-14 15:09:01 +0100},
 	date-modified = {2023-02-14 15:09:01 +0100},
 	doi = {10.1007/s11192-020-03858-y},
@@ -23078,6 +23133,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{liu_2017_an_investigation_of_brand_related_user_generated_content_on_twitter,
 	author = {Xia Liu and Alvin C. Burns and Yingjian Hou},
+	abstract = {The big data of user-generated content (UGC) on social media are laden with potential value for brand managers. However, there are many obstacles to using big data to answer brand-management questions. This article presents a framework that automatically derives latent brand topics and classifies brand sentiments. It applies text mining with latent Dirichlet allocation (LDA) and sentiment analysis on 1.7 million unique tweets for 20 brands across five industries: fast food, department store, footwear, electronics, and telecommunications. The framework is used to explore four brand-related questions on Twitter. There are three main findings. First, product, service, and promotions are the dominant topics of interest when consumers interact with brands on Twitter. Second, consumer sentiments toward brands vary within and across industries. Third, separate company-specific analyses of positive and negative tweets generate a more accurate understanding of Twitter users' major brand topics and sentiments. Our findings provide brand managers with actionable insights in targeted advertising, social customer relationship management (CRM), and brand management.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {10.1080/00913367.2017.1297273},
@@ -23165,6 +23221,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{huang_2018_analyst_information_discovery_and_interpretation_roles_a_topic_modeling_approach,
 	author = {Allen H. Huang and Reuven Lehavy and Amy Y. Zang and Rong Zheng},
+	abstract = {This study examines analyst information intermediary roles using a textual analysis of analyst reports and corporate disclosures. We employ a topic modeling methodology from computational linguistic research to compare the thematic content of a large sample of analyst reports issued promptly after earnings conference calls with the content of the calls themselves. We show that analysts discuss exclusive topics beyond those from conference calls and interpret topics from conference calls. In addition, we find that investors place a greater value on new information in analyst reports when managers face greater incentives to withhold value-relevant information. Analyst interpretation is particularly valuable when the processing costs of conference call information increase. Finally, we document that investors react to analyst report content that simply confirms managers’ conference call discussions. Overall, our study shows that analysts play the information intermediary roles by discovering information beyond corporate disclosures and by clarifying and confirming corporate disclosures.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {a98ca144a2afa4f36ea643120d0566e7064c5dea},
@@ -24401,6 +24458,8 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @inproceedings{campos_2020_recommendation_system_for_knowledge_acquisition_in_moocs_ecosystems,
 	author = {Rodrigo Campos and Rodrigo Santos and Jonice Oliveira},
+	journal = {SBSI},
+	abstract = {In recent years, students face difficulties in choosing the best content from the online distance learning of MOOCs (Massive Open Online Courses). The emerged recommendations systems to solve this problem do not identify the student's prior knowledge broadly. From this problem, the main contribution of this work is the identification and reduction of the students' knowledge gap in MOOCs. As such, in this Master's thesis, we model and analyze the MOOCs ecosystems and propose a solution for recommending parts of courses. Based on a set of three experiments, we verify that our recommendations are accurate, useful and reliable. We also present new content to fill the knowledge gap of users as the main contribution of this work to the state of the art.},
 	booktitle = {Anais Estendidos do {XVI} Simp{\'{o}}sio Brasileiro de Sistemas de Informa{\c{c}}{\~{a}}o (Anais Estendidos do {SBSI} 2020)},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
@@ -24648,6 +24707,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{dahal_2019_topic_modeling_and_sentiment_analysis_of_global_climate_change_tweets,
 	author = {Biraj Dahal and Sathish Alampalayam Kumar and Zhenlong Li},
+	abstract = {Social media websites can be used as a data source for mining public opinion on a variety of subjects including climate change. Twitter, in particular, allows for the evaluation of public opinion across both time and space because geotagged tweets include timestamps and geographic coordinates (latitude/longitude). In this study, a large dataset of geotagged tweets containing certain keywords relating to climate change is analyzed using volume analysis and text mining techniques such as topic modeling and sentiment analysis. Latent Dirichlet allocation was applied for topic modeling to infer the different topics of discussion, and Valence Aware Dictionary and sEntiment Reasoner was applied for sentiment analysis to determine the overall feelings and attitudes found in the dataset. These techniques are used to compare and contrast the nature of climate change discussion between different countries and over time. Sentiment analysis shows that the overall discussion is negative, especially when users are reacting to political or extreme weather events. Topic modeling shows that the different topics of discussion on climate change are diverse, but some topics are more prevalent than others. In particular, the discussion of climate change in the USA is less focused on policy-related topics than other countries.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	journal = {Social Network Analysis and Mining},
@@ -24977,6 +25037,8 @@ The alignment and misalignment in the changes of relative interest over the vari
 	bdsk-url-1 = {10.1109/ICTS.2019.8850982}}
 
 @inproceedings{syed_2017_full_text_or_abstract_examining_topic_coherence_scores_using_latent_dirichlet_allocation,
+	journal = {DSAA},
+	abstract = {This paper assesses topic coherence and human topic ranking of uncovered latent topics from scientific publications when utilizing the topic model latent Dirichlet allocation (LDA) on abstract and full-text data. The coherence of a topic, used as a proxy for topic quality, is based on the distributional hypothesis that states that words with similar meaning tend to co-occur within a similar context. Although LDA has gained much attention from machine-learning researchers, most notably with its adaptations and extensions, little is known about the effects of different types of textual data on generated topics. Our research is the first to explore these practical effects and shows that document frequency, document word length, and vocabulary size have mixed practical effects on topic coherence and human topic ranking of LDA topics. We furthermore show that large document collections are less affected by incorrect or noise terms being part of the topic-word distributions, causing topics to be more coherent and ranked higher. Differences between abstract and full-text data are more apparent within small document collections, with differences as large as 90% high-quality topics for full-text data, compared to 50% high-quality topics for abstract data.},
 	author = {Syed, Shaheen and Spruit, Marco},
 	booktitle = {2017 IEEE International Conference on Data Science and Advanced Analytics (DSAA)},
 	date-added = {2023-02-11 16:41:13 +0100},
@@ -25147,6 +25209,8 @@ The alignment and misalignment in the changes of relative interest over the vari
 	date-modified = {2023-02-11 16:41:13 +0100},
 	organization = {Springer},
 	pages = {73--79},
+	journal = {Lecture Notes in Computer Science},
+	abstract = {In MOOCs, course reviews are valuable sources for exploiting learners’ attitudes towards the courses provided. This study employed an innovative structural topic modeling technique to analyze 1920 reviews of 339 courses regarding computer science to understand what primary concerns the learners had. Nine major topics, including course levels, learning perception, course assessment, teaching styles, problem solving, course content, course organization, critique, and learning tools and platforms were revealed. In addition, we investigated how the identified nine topics varied across reviews with different ratings. Results indicated that negative reviews tended to relate more to issues such as course assessment, learning tools and platforms, and critique, while positive reviews concerned more about issues such as course levels, course organization, and learning perception. This study provided tutors with novel implications for developing online courses, particularly computer science courses.},
 	title = {What Are MOOCs Learners' Concerns? Text Analysis of Reviews for Computer Science Courses},
 	doi = {ab5d5fbd21ee560fcb1ac5a540532f8a0d6938ca},
 	year = {2020}}
@@ -26005,6 +26069,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{korfiatis_2019_measuring_service_quality_from_unstructured_data_a_topic_modeling_application_on_airline_passengers_online_reviews,
 	author = {Nikolaos Korfiatis and Panagiotis Stamolampros and Panos Kourouthanassis and Vasileios Sagiadinos},
+	abstract = {Service quality is a multi-dimensional construct which is not accurately measured by aspects deriving from numerical ratings and their associated weights. Extant literature in the expert and intelligent systems examines this issue by relying mainly on such constrained information sets. In this study, we utilize online reviews to show the information gains from the consideration of factors identified from topic modeling of unstructured data which provide a flexible extension to numerical scores to understand customer satisfaction and subsequently service quality. When numerical and textual features are combined, the explained variation in overall satisfaction improves significantly. We further present how such information can be of value for firms for corporate strategy decision-making when incorporated in an expert system that acts as a tool to perform market analysis and assess their competitive performance. We apply our methodology on airline passengers’ online reviews using Structural Topic Models (STM), a recent probabilistic extension to Latent Dirichlet Allocation (LDA) that allows the incorporation of document level covariates. This innovation allows us to capture dominant drivers of satisfaction along with their dynamics and interdependencies. Results unveil the orthogonality of the low-cost aspect of airline competition when all other service quality dimensions are considered, thus explaining the success of low-cost carriers in the airline market.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {10.1016/j.eswa.2018.09.037},
@@ -26342,6 +26407,7 @@ The alignment and misalignment in the changes of relative interest over the vari
 
 @article{light_2017_managing_the_boundaries_of_taste_culture_valuation_and_computational_social_science,
 	author = {Ryan Light and Colin Odden},
+	abstract = {The proliferation of cultural objects, such as music, books, film, and websites, has created a new problem: How do consumers determine the value of cultural objects in an age of information glut? Crowd-sourcing—paralleling word-of-mouth recommendations—has taken center stage, yet expert opinion has also assumed renewed importance. Prior work on the valuation of artworks and other cultural artifacts identifies ways critics establish and maintain classificatory boundaries, such as genre. We extend this research by offering a theoretical approach emphasizing the dynamics of critics’ valuation and classification. Empirically, this analysis turns to Pitchfork.com, an influential music review website, to examine the relationship between classification and valuation. Using topic models of fourteen years of Pitchfork.com album reviews (n = 14,495), we model the dynamics of valuation through genre and additional factors predictive of positive reviews and cultural consecration. We use gold-record awards to study the relationship between valuation processes and commercial outcomes. Conclusions highlight the role of professional critics, alongside crowd-sourcing and other forms of criticism, in the dynamic process of valuation and encourage the continued exploration of fruitful ways to connect computational and more canonical ways of conducting sociological research.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {10.1093/sf/sox055},
@@ -27050,21 +27116,22 @@ This study summarises the research trends in SEE based upon a corpus of 1178 art
 	year = {2018},
 	bdsk-url-1 = {10.1109/WI.2018.00-27}}
 
+
 @article{maier_2018_applying_lda_topic_modeling_in_communication_research_toward_a_valid_and_reliable_methodology,
+	abstract = { ABSTRACTLatent Dirichlet allocation (LDA) topic models are increasingly being used in communication research. Yet, questions regarding reliability and validity of the approach have received little attention thus far. In applying LDA to textual data, researchers need to tackle at least four major challenges that affect these criteria: (a) appropriate pre-processing of the text collection; (b) adequate selection of model parameters, including the number of topics to be generated; (c) evaluation of the model's reliability; and (d) the process of validly interpreting the resulting topics. We review the research literature dealing with these questions and propose a methodology that approaches these challenges. Our overall goal is to make LDA topic modeling more accessible to communication researchers and to ensure compliance with disciplinary standards. Consequently, we develop a brief hands-on user guide for applying LDA topic modeling. We demonstrate the value of our approach with empirical data from an ongoing research project. },
 	author = {Daniel Maier and A. Waldherr and P. Miltner and G. Wiedemann and A. Niekler and A. Keinert and B. Pfetsch and G. Heyer and U. Reber and T. H{\"a}ussler and H. Schmid-Petri and S. Adam},
-	date-added = {2023-02-11 16:41:13 +0100},
-	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {10.1080/19312458.2018.1430754},
+	eprint = {https://doi.org/10.1080/19312458.2018.1430754},
 	journal = {Communication Methods and Measures},
-	month = {feb},
 	number = {2-3},
-	pages = {93--118},
-	publisher = {Informa {UK} Limited},
-	title = {Applying {LDA} Topic Modeling in Communication Research: Toward a Valid and Reliable Methodology},
-	url = {10.1080%2F19312458.2018.1430754},
+	pages = {93-118},
+	publisher = {Routledge},
+	title = {Applying LDA Topic Modeling in Communication Research: Toward a Valid and Reliable Methodology},
+	url = {https://doi.org/10.1080/19312458.2018.1430754},
 	volume = {12},
-	year = 2018,
-	bdsk-url-1 = {10.1080/19312458.2018.1430754}}
+	year = {2018},
+	bdsk-url-1 = {https://doi.org/10.1080/19312458.2018.1430754}}
+
 
 @article{hew_2019_computer_science_in_asean_a_ten_year_bibliometric_analysis_2009textendash2018,
 	author = {Jun-Jie Hew and Voon-Hsien Lee and Keng-Boon Ooi and Binshan Lin},
@@ -27469,6 +27536,7 @@ This study summarises the research trends in SEE based upon a corpus of 1178 art
 
 @article{karami_2019_twitter_speaks_a_case_of_national_disaster_situational_awareness,
 	author = {Amir Karami and Vishal Shah and Reza Vaezi and Amit Bansal},
+	abstract = {In recent years, we have been faced with a series of natural disasters causing a tremendous amount of financial, environmental and human losses. The unpredictable nature of natural disasters behaviour makes it hard to have a comprehensive situational awareness (SA) to support disaster management. Using opinion surveys is a traditional approach to analyse public concerns during natural disasters; however, this approach is limited, expensive and time-consuming. Luckily, the advent of social media has provided scholars with an alternative means of analysing public concerns. Social media enable users (people) to freely communicate their opinions and disperse information regarding current events including natural disasters. This research emphasises the value of social media analysis and proposes an analytical framework: Twitter Situational Awareness (TwiSA). This framework uses text mining methods including sentiment analysis and topic modelling to create a better SA for disaster preparedness, response and recovery. TwiSA has also effectively deployed on a large number of tweets and tracks the negative concerns of people during the 2015 South Carolina flood.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {10.1177/0165551519828620},
@@ -28622,6 +28690,7 @@ This study summarises the research trends in SEE based upon a corpus of 1178 art
 
 @article{bagozzi_2018_the_politics_of_scrutiny_in_human_rights_monitoring_evidence_from_structural_topic_models_of_us_state_department_human_rights_reports,
 	author = {Bagozzi, Benjamin E. and Berliner, Daniel},
+	abstract = {Human rights monitoring reports play important roles both in the international human rights regime and in productions of human rights data. However, human rights reports are produced by organizations subject to formal and informal pressures that may influence the topics considered salient for attention and scrutiny. We study this potential using structural topic models (STMs), a method used for identifying the latent topical dimensions of texts and assessing the effects of covariates on these dimensions. We apply STMs to a corpus of 6298 State Department Country Reports on Human Rights Practices (1977–2012), identifying a plausible set of topics including killings and disappearances, freedoms of expression and movement, and labor rights, among others. We find that these topics vary markedly both over time and space. We also find that while US domestic politics play no systematic role in shaping topic prevalence, US allies tend to receive more attention to violations of physical integrity rights. These results challenge extant research, and illustrate the usefulness of STM methods for future study of foreign policy documents. Our findings also highlight the importance of topical attention shifts in documents that monitor and evaluate countries.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {10.1017/psrm.2016.44},
@@ -28690,6 +28759,7 @@ This study summarises the research trends in SEE based upon a corpus of 1178 art
 
 @article{kuhn_2018_using_structural_topic_modeling_to_identify_latent_topics_and_trends_in_aviation_incident_reports,
 	author = {Kenneth D. Kuhn},
+	abstract = {The Aviation Safety Reporting System includes over a million confidential reports describing aviation safety incidents. Natural language processing techniques allow for relatively rapid and largely automated analysis of large collections of text data. Interpretation of the results and further investigations by subject matter experts can produce meaningful results. This explains the many commercial and academic applications of natural language processing to aviation safety reports. Relatively few published articles have, however, employed topic modeling, an approach that can identify latent structure within a corpus of documents. Topic modeling is more flexible and relies less on subject matter experts than alternative document categorization and clustering methods. It can, for example, uncover any number of topics hidden in a set of incident reports that have been, or would be, assigned to the same category when using labels and methods applied in earlier research. This article describes the application of structural topic modeling to Aviation Safety Reporting System data. The application identifies known issues. The method also reveals previously unreported connections. Sample results reported here highlight fuel pump, tank, and landing gear issues and the relative insignificance of smoke and fire issues for private aircraft. The results also reveal the prominence of the Quiet Bridge Visual and Tip Toe Visual approach paths at San Francisco International Airport in safety incident reports. These results would, ideally, be verified by subject matter experts before being used to set priorities when planning future safety studies.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {10.1016/j.trc.2017.12.018},
@@ -28755,6 +28825,7 @@ This study summarises the research trends in SEE based upon a corpus of 1178 art
 
 @article{grajzl_2019_toward_understanding_17th_century_english_culture_a_structural_topic_model_of_francis_bacontextquotesingles_ideas,
 	author = {Peter Grajzl and Peter Murrell},
+	abstract = {We use machine-learning methods to study the features and origins of the ideas of Francis Bacon, a key figure who contributed to the intellectual roots of a cultural paradigm that spurred modern economic development. Bacon’s works are the data in an estimation of a structural topic model, a state-of-the-art methodology for analysis of text corpora. The estimates uncover sixteen topics prominent in Bacon’s opus. Two are key elements of the ideas usually associated with Bacon—inductive epistemology and fact-seeking. The utilitarian promise of science and the centralized organization of the scientific quest, embraced by Bacon’s followers, were not emphasized by him. We provide the first quantitative evidence that the genesis of Bacon’s epistemology lies in his experience in the common-law. Combining our findings with accepted arguments in the existing literature, we suggest that the effects of common-law culture can help explain the coincidence of political and economic development in England.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {cf579648f01018a475421b5875ab885cc27d24fe},
@@ -29235,6 +29306,9 @@ This study summarises the research trends in SEE based upon a corpus of 1178 art
 
 @article{zhang_2017_scientific_evolutionary_pathways_identifying_and_visualizing_relationships_for_scientific_topics,
 	author = {Yi Zhang and Guangquan Zhang and Donghua Zhu and Jie Lu},
+	abstract = {
+
+Whereas traditional science maps emphasize citation statistics and static relationships, this paper presents a term-based method to identify and visualize the evolutionary pathways of scientific topics in a series of time slices. First, we create a data preprocessing model for accurate term cleaning, consolidating, and clustering. Then we construct a simulated data streaming function and introduce a learning process to train a relationship identification function to adapt to changing environments in real time, where relationships of topic evolution, fusion, death, and novelty are identified. The main result of the method is a map of scientific evolutionary pathways. The visual routines provide a way to indicate the interactions among scientific subjects and a version in a series of time slices helps further illustrate such evolutionary pathways in detail. The detailed outline offers sufficient statistical information to delve into scientific topics and routines and then helps address meaningful insights with the assistance of expert knowledge. This empirical study focuses on scientific proposals granted by the United States National Science Foundation, and demonstrates the feasibility and reliability. Our method could be widely applied to a range of science, technology, and innovation policy research, and offer insight into the evolutionary pathways of scientific activities.},
 	date-added = {2023-02-11 16:41:13 +0100},
 	date-modified = {2023-02-11 16:41:13 +0100},
 	doi = {10.1002/asi.23814},
@@ -29833,8 +29907,10 @@ This study summarises the research trends in SEE based upon a corpus of 1178 art
 	pages = {352--363},
 	publisher = {Springer International Publishing},
 	title = {United We Stand: Using Multiple Strategies for Topic Labeling},
+	abstract = {Topic labeling aims at providing a sound, possibly multi-words, label that depicts a topic drawn from a topic model. This is of the utmost practical interest in order to quickly grasp a topic informa-tional content-the usual ranked list of words that maximizes a topic presents limitations for this task. In this paper, we introduce three new unsupervised n-gram topic labelers that achieve comparable results than the existing unsupervised topic labelers but following different assumptions. We demonstrate that combining topic labelers-even only two-makes it possible to target a 64% improvement with respect to single topic labeler approaches and therefore opens research in that direction. Finally, we introduce a fourth topic labeler that extracts representative sentences, using Dirichlet smoothing to add contextual information. This sentence-based labeler provides strong surrogate candidates when n-gram topic labelers fall short on providing relevant labels, leading up to 94% topic covering.},
 	url = {10.1007%2F978-3-319-91947-8_37},
 	year = 2018,
+	journal = {Natural Language Processing and Information Systems},
 	bdsk-url-1 = {10.1007%2F978-3-319-91947-8_37},
 	bdsk-url-2 = {10.1007/978-3-319-91947-8_37}}
 
@@ -30686,6 +30762,8 @@ This study summarises the research trends in SEE based upon a corpus of 1178 art
 	title = {Towards Autoencoding Variational Inference for Aspect-based Opinion Summary},
 	url = {https://arxiv.org/abs/1902.02507},
 	year = {2019},
+	abstract = {Aspect-based Opinion Summary (AOS), consisting of aspect discovery and sentiment classification steps, has recently been emerging as one of the most crucial data mining tasks in e-commerce systems. Along this direction, the LDA-based model is considered as a notably suitable approach, since this model offers both topic modeling and sentiment classification. However, unlike traditional topic modeling, in the context of aspect discovery, it is often required some initial seed words, whose prior knowledge is not easy to be incorporated into LDA models. Moreover, LDA approaches rely on sampling methods, which need to load the whole corpus into memory, making them hardly scalable. In this research, we study an alternative approach for AOS problem, based on Autoencoding Variational Inference (AVI). Firstly, we introduce the Autoencoding Variational Inference for Aspect Discovery (AVIAD) model, which extends the previous work of Autoencoding Variational Inference for Topic Models (AVITM) to embed prior knowledge of seed words. This work includes enhancement of the previous AVI architecture and also modification of the loss function. Ultimately, we present the Autoencoding Variational Inference for Joint Sentiment/Topic (AVIJST) model. In this model, we substantially extend the AVI model to support the JST model, which performs topic modeling for corresponding sentiment. The experimental results show that our proposed models enjoy higher topic coherent, faster convergence time and better accuracy on sentiment classification, as compared to their LDA-based counterparts.},
+	journal = {Applied Artificial Intelligence},
 	bdsk-url-1 = {https://arxiv.org/abs/1902.02507},
 	bdsk-url-2 = {10.48550/ARXIV.1902.02507}}
 
@@ -31013,6 +31091,7 @@ This study summarises the research trends in SEE based upon a corpus of 1178 art
 	pages = {275--288},
 	publisher = {Cogitatio},
 	title = {Narratives of the Refugee Crisis: A Comparative Study of Mainstream-Media and Twitter},
+	abstract = {The European refugee crisis received heightened attention at the beginning of September 2015, when images of the drowned child, Aylan Kurdi, surfaced across mainstream and social media. While the flows of displaced persons, especially from the Middle East into Europe, had been ongoing until that date, this event and its coverage sparked a media firestorm. Mainstream-media content plays a major role in shaping discourse about events such as the refugee crisis, while social media’s participatory affordances allow for the narratives to be perpetuated, challenged, and injected with new perspectives. In this study, the perspectives and narratives of the refugee crisis from the mainstream news and Twitter—in the days following Aylan’s death—are compared and contrasted. Themes are extracted through topic modeling (LDA) and reveal how news and Twitter converge and also diverge. We show that in the initial stages of a crisis and following the tragic death of Aylan, public discussion on Twitter was highly positive. Unlike the mainstream-media, Twitter offered an alternative and multifaceted narrative, not bound by geo-politics, raising awareness and calling for solidarity and empathy towards those affected. This study demonstrates how mainstream and social media form a new and complementary media space, where narratives are created and transformed.},
 	url = {10.17645%2Fmac.v7i2.1983},
 	volume = {7},
 	year = 2019,
@@ -32353,7 +32432,8 @@ Due to topic instability, using standard LDA with its ``off-the-shelf'' settings
 	author = {Hyon Hee Kim and Hey Young Rhee},
 	date-added = {2023-02-11 16:38:21 +0100},
 	date-modified = {2023-02-11 16:38:21 +0100},
-	journal = {J. Inf. Process. Syst.},
+	journal = {Journal of Information Processing Systems},
+	abstract = {In this paper, we present an ontology-based approach to labeling influential topics of scientific articles. First, tolook for influential topics from scientific article, topic modeling is performed, and then social network analysisis applied to the selected topic models. Abstracts of research papers related to data mining published over the20 years from 1995 to 2015 are collected and analyzed in this research. Second, to interpret and to explainselected influential topics, the UniDM ontology is constructed from Wikipedia and serves as concepthierarchies of topic models. Our experimental results show that the subjects of data management and queriesare identified in the most interrelated topic among other topics, which is followed by that of recommendersystems and text mining. Also, the subjects of recommender systems and context-aware systems belong to themost influential topic, and the subject of k-nearest neighbor classifier belongs to the closest topic to other topics. The proposed framework provides a general model for interpreting topics in topic models, which plays animportant role in overcoming ambiguous and arbitrary interpretation of topics in topic modeling.},
 	pages = {1096-1107},
 	title = {An Ontology-Based Labeling of Influential Topics Using Topic Network Analysis},
 	volume = {15},
@@ -32391,6 +32471,7 @@ Due to topic instability, using standard LDA with its ``off-the-shelf'' settings
 	series = {BCB '20},
 	title = {Global Surveillance of COVID-19 by Mining News Media Using a Multi-Source Dynamic Embedded Topic Model},
 	url = {10.1145/3388440.3412418},
+	journal = {BCB},
 	year = {2020},
 	bdsk-url-1 = {10.1145/3388440.3412418}}
 
@@ -32478,6 +32559,8 @@ Due to topic instability, using standard LDA with its ``off-the-shelf'' settings
 	title = {Labeling Topics with Images Using a Neural Network},
 	url = {10.1007%2F978-3-319-56608-5_40},
 	year = 2017,
+	journal = {Lecture Notes in Computer Science },
+	abstract = {Topics generated by topic models are usually represented by lists of t terms or alternatively using short phrases or images. The current state-of-the-art work on labeling topics using images selects images by re-ranking a small set of candidates for a given topic. In this paper, we present a more generic method that can estimate the degree of association between any arbitrary pair of an unseen topic and image using a deep neural network. Our method achieves better runtime performance O(n) compared to O(n2) for the current state-of-the-art method, and is also significantly more accurate.},
 	bdsk-url-1 = {10.1007%2F978-3-319-56608-5_40},
 	bdsk-url-2 = {10.1007/978-3-319-56608-5_40}}
 
@@ -33872,7 +33955,6 @@ Due to topic instability, using standard LDA with its ``off-the-shelf'' settings
 	bdsk-url-2 = {10.1080/07370024.2020.1734460}}
 
 @inproceedings{lau_2017_topically_driven_neural_language_model,
-	abstract = {Language models are typically applied at the sentence level, without access to the broader document context. We present a neural language model that incorporates document context in the form of a topic model-like architecture, thus providing a succinct representation of the broader document context outside of the current sentence. Experiments over a range of datasets demonstrate that our model outperforms a pure sentence-based model in terms of language model perplexity, and leads to topics that are potentially more coherent than those produced by a standard LDA topic model. Our model also has the ability to generate related sentences for a topic, providing another way to interpret topics.},
 	address = {Vancouver, Canada},
 	author = {Lau, Jey Han and Baldwin, Timothy and Cohn, Trevor},
 	booktitle = {Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
@@ -33886,6 +33968,8 @@ Due to topic instability, using standard LDA with its ``off-the-shelf'' settings
 	url = {https://aclanthology.org/P17-1033},
 	year = {2017},
 	bdsk-url-1 = {https://aclanthology.org/P17-1033},
+	journal = {ACL},
+	abstract = {Language models are typically applied at the sentence level, without access to the broader document context. We present a neural language model that incorporates document context in the form of a topic model-like architecture, thus providing a succinct representation of the broader document context outside of the current sentence. Experiments over a range of datasets demonstrate that our model outperforms a pure sentence-based model in terms of language model perplexity, and leads to topics that are potentially more coherent than those produced by a standard LDA topic model. Our model also has the ability to generate related sentences for a topic, providing another way to interpret topics.},
 	bdsk-url-2 = {10.18653/v1/P17-1033}}
 
 @article{clementson_2017_truth_bias_and_partisan_bias_in_political_deception_detection,
@@ -34407,6 +34491,7 @@ Due to topic instability, using standard LDA with its ``off-the-shelf'' settings
 	publisher = {Association for Computing Machinery},
 	series = {KDD '18},
 	title = {TaxoGen: Unsupervised Topic Taxonomy Construction by Adaptive Term Embedding and Clustering},
+	journal = {KDD},
 	url = {zhang_2018_taxogen_unsupervised_topic_taxonomy_construction_by_adaptive_term_embedding_and_clustering},
 	year = {2018},
 	bdsk-url-1 = {zhang_2018_taxogen_unsupervised_topic_taxonomy_construction_by_adaptive_term_embedding_and_clustering}}
@@ -34425,6 +34510,7 @@ Due to topic instability, using standard LDA with its ``off-the-shelf'' settings
 	numpages = {4},
 	pages = {1305--1308},
 	publisher = {Association for Computing Machinery},
+	journal = {SIGIR},
 	series = {SIGIR '17},
 	title = {TOTEM: Personal Tweets Summarization on Mobile Devices},
 	url = {chin_2017_totem_personal_tweets_summarization_on_mobile_devices},
